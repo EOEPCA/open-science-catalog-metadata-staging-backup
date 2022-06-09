@@ -1,0 +1,93 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "project-115",
+  "properties": {
+    "title": "(LPF) WIFT",
+    "description": "The subject of this project is to exploit these measurements to retrieve the water vapour isotopologues H216O, HDO and, if possible, H218O.",
+    "osc:name": "WIFT: Water vapour Isotopologues From TROPOMI",
+    "osc:themes": [
+      "Atmosphere"
+    ],
+    "osc:status": "COMPLETED",
+    "osc:technical_officer": {
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
+    },
+    "osc:consortium": [
+      "Netherlands Institute for Space Research (NWO-I) (NL)"
+    ],
+    "osc:type": "Project",
+    "start_datetime": "2018-10-17",
+    "end_datetime": "2020-10-31",
+    "datetime": "2018-10-17T00:00:00Z"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/wift-water-vapour-isotopologues-from-tropomi/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/wift-water-vapour-isotopologues-from-tropomi/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
+      "type": "application/json",
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
+      "type": "application/json",
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-scattering-product-s5p-tropomi.json",
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/clear-sky-hdo-h2o-total-column-tropomi.json",
+      "type": "application/json",
+      "title": "Clear-sky HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-wift.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "iso-metadata": {
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-115.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ]
+}

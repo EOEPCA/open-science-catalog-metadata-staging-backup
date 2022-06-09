@@ -1,0 +1,129 @@
+{
+  "type": "Collection",
+  "id": "Geomagnetic field",
+  "stac_version": "1.0.0",
+  "description": "Magnitude and direction of the 3D magnetic field on the surface of Earth and within the magnetosphere (i.e., in low-Earth orbit and in geosynchronous orbit).",
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "",
+      "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-swarm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swarm-eiscat-conjunction-list-2013-2019.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sudden-stratospheric-warming-ssw.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/vector-and-scalar-satellite-data-files-as-used-in-the-chaos-field-model.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-champ.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model-splinecoefficients.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-observatory-data.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/webgeodyn-python-package.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-cryosat-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-b-conjunctions.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ground-virtual-observatory-data-oersted.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-a-and-c-conjunctions.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodynamo-simulation-data-earth-core.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chaos-field-model-core.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "osc:theme": "Magnetosphere_Ionosphere",
+  "osc:type": "Variable",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

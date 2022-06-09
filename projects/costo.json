@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "project-33",
+  "properties": {
+    "title": "COSTO",
+    "description": "The main objective of COSTO (Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards) project is to better characterize, understand and discover coupling processes and interactions between the ionosphere/magnetosphere, the lower atmosphere and the Earth\u2019s surface and sea level vertical displacements. The proposed research effort targets to tsunamis that are the result of earthquakes, volcano eruptions or landslides. An early warning for tsunami occurrence, and especially an estimation of the amplitude of a tsunami are still a challenge.",
+    "osc:name": "Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards  (COSTO)",
+    "osc:themes": [
+      "Solid Earth",
+      "Magnetosphere_Ionosphere"
+    ],
+    "osc:status": "COMPLETED",
+    "osc:technical_officer": {
+      "name": "Roger Haagmans",
+      "e-mail": "roger.haagmans@esa.int"
+    },
+    "osc:consortium": [
+      "UNIVERSITY OF WARMIA AND MAZURY IN (PL)",
+      "NATIONAL OBSERVATORY OF ATHENS (GR)",
+      "TECHNICAL UNIVERSITY OF MUNICH (DE)",
+      "UNIVERSITAT POLITECNICA DE CATALUNYA (ES)"
+    ],
+    "osc:type": "Project",
+    "start_datetime": "2019-02-22",
+    "end_datetime": "2020-10-28",
+    "datetime": "2019-02-22T00:00:00Z"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "via",
+      "href": "http://costo.uwm.edu.pl",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/costo/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/addtid-an-alternative-tool-for-studying-earthquake-tsunami-signatures-in-the-ionosphere-japan-swarm.json",
+      "type": "application/json",
+      "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
+    },
+    {
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/costo.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "iso-metadata": {
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-67.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ]
+}

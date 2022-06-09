@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "project-36",
+  "properties": {
+    "title": "CryoSat+ Mountain Glaciers",
+    "description": "Quantify the volume, mass change and contribution to sea level change of mountain glaciers using CryoSat satellite radar altimeter data",
+    "osc:name": "CryoSat+ Mountain Glaciers",
+    "osc:themes": [
+      "Cryosphere"
+    ],
+    "osc:status": "COMPLETED",
+    "osc:technical_officer": {
+      "name": "Stephen Plummer",
+      "e-mail": "stephen.plummer@esa.int"
+    },
+    "osc:consortium": [
+      "University of Edinburgh (UoE)",
+      "isardSAT",
+      "Environmental Earth Observation Information Technology GMBH",
+      "earthwave Earth Observation and Data Science Specialists",
+      "University College of London \u201a Mullard Space Science Labor (UCL)"
+    ],
+    "osc:type": "Project",
+    "start_datetime": "2015-05-13",
+    "end_datetime": "2020-12-31",
+    "datetime": "2015-05-13T00:00:00Z"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "via",
+      "href": "http://www.cryosat-mtg.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/cryosat-mountain-glaciers/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/mountain-glacier-elevation-and-elevation-change-global-cryosat-2.json",
+      "type": "application/json",
+      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
+    },
+    {
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/cryosat-mountain-glaciers.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "iso-metadata": {
+      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-36.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ]
+}
