@@ -1,0 +1,6 @@
+{
+  "name": "Ionospheric plasma density",
+  "description": "Total number of ionized particles in a volume unit of ionospheric plasma",
+  "link": "",
+  "theme": "Magnetosphere_Ionosphere"
+}
