@@ -1,0 +1,6 @@
+[submodule "open-science-catalog-builder"]
+	path = open-science-catalog-builder
+	url = https://github.com/EOEPCA/open-science-catalog-builder.git
+[submodule "stac-browser"]
+	path = stac-browser
+	url = https://github.com/radiantearth/stac-browser.git
