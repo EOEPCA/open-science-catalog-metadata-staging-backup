@@ -38,40 +38,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/baltic-sea-surface-salinity-l3-maps-v-2-0-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l3-maps-v-2-0-baltics-multimission.json",
       "type": "application/json",
       "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/baltic-sea-surface-salinity-l4-maps-v-2-0-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l4-maps-v-2-0-baltics-multimission.json",
       "type": "application/json",
       "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/baltic-salinity-dynamics.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/baltic-salinity-dynamics.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-11.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-11.xml",
       "roles": [
         "metadata"
       ]

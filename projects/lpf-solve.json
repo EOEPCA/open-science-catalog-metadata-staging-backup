@@ -36,34 +36,34 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iup-omps-l2-and-l3-limb-ozone-data-sets-global-s2-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iup-omps-l2-and-l3-limb-ozone-data-sets-global-s2-3.json",
       "type": "application/json",
       "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-solve.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-solve.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-99.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-99.xml",
       "roles": [
         "metadata"
       ]

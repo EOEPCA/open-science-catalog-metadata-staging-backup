@@ -33,33 +33,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geomagnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/swarm-outflow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/swarm-outflow.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-a-and-c-conjunctions.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-a-and-c-conjunctions.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geomagnetic-field.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-162.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-162.xml",
       "roles": [
         "metadata"
       ]

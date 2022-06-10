@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-inorganic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/dissolved-inorganic-carbon-dic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/dissolved-inorganic-carbon-dic.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],

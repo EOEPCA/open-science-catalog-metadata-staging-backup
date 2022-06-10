@@ -71,33 +71,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-thickness.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-cassis.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-cassis.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-freeboard-and-thickness-tfmra50-and-asd-snow-depth-antarctic-cryosat-2-saral.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-freeboard-and-thickness-tfmra50-and-asd-snow-depth-antarctic-cryosat-2-saral.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-thickness.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-50.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-50.xml",
       "roles": [
         "metadata"
       ]

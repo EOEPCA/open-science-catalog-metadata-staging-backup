@@ -40,39 +40,39 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/addtid-an-alternative-tool-for-studying-earthquake-tsunami-signatures-in-the-ionosphere-japan-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/addtid-an-alternative-tool-for-studying-earthquake-tsunami-signatures-in-the-ionosphere-japan-swarm.json",
       "type": "application/json",
       "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/costo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/costo.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-67.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-67.xml",
       "roles": [
         "metadata"
       ]

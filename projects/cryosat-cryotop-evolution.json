@@ -40,52 +40,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json",
       "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json",
       "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
       "type": "application/json",
       "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elevation-antarctic-ice-sheet-2011-2016-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-antarctic-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json",
       "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/cryosat-cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosat-cryotop-evolution.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-117.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-117.xml",
       "roles": [
         "metadata"
       ]

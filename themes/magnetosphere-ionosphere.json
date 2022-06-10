@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,462 +16,462 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/4d-earth-swarm.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/swarm-space-weather-variability-of-ionospheric-plasma-swarm-vip.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/swarm-space-weather-variability-of-ionospheric-plasma-swarm-vip.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/swarm-outflow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/swarm-outflow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/costo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/costo.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/ilgew.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/ilgew.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/vera.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/vera.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/radiation-dose-rate.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/radiation-dose-rate.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/vis-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/vis-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-electric-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-electric-field.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/vis-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/vis-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/x-ray-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/x-ray-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-euv-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-euv-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/alpha-particles-integral-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/alpha-particles-integral-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-lyman-alpha-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-lyman-alpha-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/euv-sky-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/euv-sky-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-x-ray-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-x-ray-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/vis-sky-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/vis-sky-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/heliospheric-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/heliospheric-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/h-f.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/h-f.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-magnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-magnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geoid.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geoid.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/heavy-ion-flux-energy-and-mass-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/heavy-ion-flux-energy-and-mass-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/fof2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/fof2.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/uv-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/uv-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-gamma-ray-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-gamma-ray-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-scintillation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ionospheric-scintillation.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-radio-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-radio-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/foes.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/foes.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/nir-swir-sky-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nir-swir-sky-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/uv-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/uv-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/euv-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/euv-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/proton-integral-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/proton-integral-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-x-ray-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-x-ray-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-gamma-ray-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-gamma-ray-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-coronagraphic-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-coronagraphic-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/nir-swir-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nir-swir-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/spread-f.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/spread-f.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electron-density.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electron-density.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/aurora.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aurora.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electron-differential-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electron-differential-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-h-alpha-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-h-alpha-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-wind-density.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-wind-density.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/heavy-ion-differential-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/heavy-ion-differential-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/energetic-neutral-atom-ena.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/energetic-neutral-atom-ena.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electron-flux-density.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electron-flux-density.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/crustal-motion-horizontal-and-vertical.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/crustal-motion-horizontal-and-vertical.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-wind-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-wind-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electrostatic-charge.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electrostatic-charge.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-plasma-density.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ionospheric-plasma-density.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/hmf2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hmf2.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/uv-sky-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/uv-sky-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-radio-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-radio-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/heavy-ion-integral-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/heavy-ion-integral-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electron-integral-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electron-integral-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-vis-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-vis-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-radio-absorption.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ionospheric-radio-absorption.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-x-ray-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-x-ray-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/cosmic-ray-neutron-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cosmic-ray-neutron-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/interplanetary-magnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/interplanetary-magnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/x-ray-sky-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/x-ray-sky-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-ca-ii-k-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-ca-ii-k-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/x-ray-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/x-ray-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/cosmic-ray-neutron-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cosmic-ray-neutron-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/proton-differential-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/proton-differential-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-vis-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-vis-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/heavy-ion-angular-flux-energy-and-mass-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/heavy-ion-angular-flux-energy-and-mass-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gamma-ray-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gamma-ray-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gamma-ray-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gamma-ray-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/euv-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/euv-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electric-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electric-field.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-plasma-velocity.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ionospheric-plasma-velocity.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-euv-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-euv-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ionospheric-vertical-total-electron-content-vtec.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ionospheric-vertical-total-electron-content-vtec.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-uv-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-uv-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/alpha-particles-differential-directional-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/alpha-particles-differential-directional-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-uv-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-uv-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-vis-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-vis-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-lyman-alpha-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-lyman-alpha-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-velocity-fields.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-velocity-fields.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/nir-swir-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nir-swir-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-euv-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-euv-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/crustal-plates-positioning.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/crustal-plates-positioning.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-white-light-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-white-light-image.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/electron-flux-energy-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/electron-flux-energy-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-wind-velocity.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-wind-velocity.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/earth-rotation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/earth-rotation.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-radio-flux-spectrum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-radio-flux-spectrum.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/geomagnetic-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geomagnetic-field.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/radio-waves.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/radio-waves.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/solar-uv-image.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-uv-image.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     }
   ],

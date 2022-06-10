@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,62 +16,62 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/doppler-derived-surface-current-agulhas-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-agulhas-s1.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-3d-ocean-currents-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-3d-ocean-currents-north-atlantic.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/stokes-drift-estimation-atlantic-ocean.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stokes-drift-estimation-atlantic-ocean.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/eddy-census.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eddy-census.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-geostrophic-currents-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-geostrophic-currents-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-surface-current-oceans-agulhas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-surface-current-oceans-agulhas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/total-surface-current-tropical-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/oceanic-current-fronts-gibraltar.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/oceanic-current-fronts-gibraltar.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-surface-currents-vector.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ocean-surface-currents-vector.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],

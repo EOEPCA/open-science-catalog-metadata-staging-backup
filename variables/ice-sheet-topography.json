@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,177 +16,177 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-southern-andes-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-southern-andes-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-surface-melt-greenland-s-1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-surface-melt-greenland-s-1-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/bedrock-topography-and-or-geothermal-heat-flux-antarctica-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bedrock-topography-and-or-geothermal-heat-flux-antarctica-goce.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/subglacial-lake-drainage-and-filling-antarctica-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-lake-drainage-and-filling-antarctica-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-russian-arctic-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-russian-arctic-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-elevation-changes-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-elevation-changes-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-greenland-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-greenland-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/occurrence-of-surface-melting-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/occurrence-of-surface-melting-antarctica-smos.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-subglacial-hydrology-greenland-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-greenland-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/internal-ice-sheet-temperature-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/internal-ice-sheet-temperature-antarctica-smos.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-iceland-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-iceland-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-svalbard-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-svalbard-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/digital-elevation-model-antarctic-peninsula-70degs-2017-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/digital-elevation-model-antarctic-peninsula-70degs-2017-antarctica-tandem-x.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-antarctica-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-arctic-canada-south-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-arctic-canada-south-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/digital-elevation-model-antarctic-peninsula-70degs-2013-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/digital-elevation-model-antarctic-peninsula-70degs-2013-antarctica-tandem-x.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-gridded-product-greenland-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-gridded-product-greenland-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-ice-elevation-thematic-point-product-eolis-points-arctic-canada-north-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-ice-elevation-thematic-point-product-eolis-points-arctic-canada-north-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swath-elevation-antarctic-ice-sheet-2011-2016-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-antarctic-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-3.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-shelf-product-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-shelf-product-antarctica-smos.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-1b.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-1b.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],

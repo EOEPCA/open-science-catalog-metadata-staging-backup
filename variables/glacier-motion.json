@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,27 +16,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-surface-flow-velocity-swissalps-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glacier-motion.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-motion.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],

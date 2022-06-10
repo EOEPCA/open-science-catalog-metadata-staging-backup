@@ -71,33 +71,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-height-anomaly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-surface-height-anomaly.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/cryosat-oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosat-oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/arctide2017-high-resolution-tidal-atlas-arctic-ocean-cryosat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/arctide2017-high-resolution-tidal-atlas-arctic-ocean-cryosat.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-surface-height-anomaly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-surface-height-anomaly.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-67.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-67.xml",
       "roles": [
         "metadata"
       ]

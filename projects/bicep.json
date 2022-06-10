@@ -42,70 +42,70 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dissolved-organic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
       "type": "application/json",
       "title": "Dissolved Organic Carbon"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
       "type": "application/json",
       "title": "Monthly global Marine Phytoplankton Primary Production dataset"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-phytoplankton-carbon-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-phytoplankton-carbon-dataset.json",
       "type": "application/json",
       "title": "Monthly global Phytoplankton Carbon dataset"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v4-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v4-2.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/export-production.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
       "type": "application/json",
       "title": "Export Production"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-inorganic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
       "type": "application/json",
       "title": "Particulate Inorganic Carbon"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/bicep.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-88.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-88.xml",
       "roles": [
         "metadata"
       ]

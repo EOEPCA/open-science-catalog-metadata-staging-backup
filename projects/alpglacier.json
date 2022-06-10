@@ -42,52 +42,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/glacier-surface-flow-velocity-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-surface-flow-velocity-swissalps-s1-2.json",
       "type": "application/json",
       "title": "Glacier surface flow velocity_SwissAlps_S1/2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-cover-on-glaciers-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-cover-on-glaciers-swissalps-s1-2.json",
       "type": "application/json",
       "title": "Snow cover on glaciers_SwissAlps_S1/2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
       "type": "application/json",
       "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
       "type": "application/json",
       "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/alpglacier.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/alpglacier.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-14.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-14.xml",
       "roles": [
         "metadata"
       ]

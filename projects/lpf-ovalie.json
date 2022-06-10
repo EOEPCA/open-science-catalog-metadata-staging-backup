@@ -36,40 +36,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
       "type": "application/json",
       "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
       "type": "application/json",
       "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-ovalie.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-ovalie.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-63.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-63.xml",
       "roles": [
         "metadata"
       ]

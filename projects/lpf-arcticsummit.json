@@ -36,40 +36,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-thickness-monthly-oct-2010-july-2020arctic-cryosat-2-baseline-d-observations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-thickness-monthly-oct-2010-july-2020arctic-cryosat-2-baseline-d-observations.json",
       "type": "application/json",
       "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
       "type": "application/json",
       "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-arcticsummit.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-arcticsummit.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-20.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-20.xml",
       "roles": [
         "metadata"
       ]

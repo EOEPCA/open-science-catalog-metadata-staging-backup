@@ -37,40 +37,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/land-cover-map-italy-2018-s2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-cover-map-italy-2018-s2.json",
       "type": "application/json",
       "title": "Land cover map_Italy_2018_S2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/multitemporal-crop-map-phenological-parameters-and-phenological-parameters-italy-2017-2018-s2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/multitemporal-crop-map-phenological-parameters-and-phenological-parameters-italy-2017-2018-s2.json",
       "type": "application/json",
       "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/s2-for-land-and-water-change-detection-multi-temporal.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s2-for-land-and-water-change-detection-multi-temporal.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-82.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-82.xml",
       "roles": [
         "metadata"
       ]

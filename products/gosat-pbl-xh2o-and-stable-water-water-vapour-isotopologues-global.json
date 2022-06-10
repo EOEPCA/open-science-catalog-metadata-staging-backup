@@ -65,33 +65,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/hdo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hdo.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-weather.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-weather.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gosat-pbl-xh2o-and-stable-water-water-vapour-isotopologues-global.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gosat-pbl-xh2o-and-stable-water-water-vapour-isotopologues-global.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/hdo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hdo.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-177.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-177.xml",
       "roles": [
         "metadata"
       ]

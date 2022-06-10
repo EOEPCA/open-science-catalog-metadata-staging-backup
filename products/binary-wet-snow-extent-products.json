@@ -35,33 +35,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-status-wet-dry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-status-wet-dry.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sentinel-1-for-science-snow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-1-for-science-snow.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/binary-wet-snow-extent-products.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/binary-wet-snow-extent-products.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-status-wet-dry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-status-wet-dry.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-232.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-232.xml",
       "roles": [
         "metadata"
       ]

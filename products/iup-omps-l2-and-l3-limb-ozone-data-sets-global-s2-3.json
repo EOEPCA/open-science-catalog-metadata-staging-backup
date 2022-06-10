@@ -66,33 +66,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/o3-stratospheric-column.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-stratospheric-column.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-solve.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-solve.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iup-omps-l2-and-l3-limb-ozone-data-sets-global-s2-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iup-omps-l2-and-l3-limb-ozone-data-sets-global-s2-3.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/o3-stratospheric-column.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-stratospheric-column.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-148.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-148.xml",
       "roles": [
         "metadata"
       ]

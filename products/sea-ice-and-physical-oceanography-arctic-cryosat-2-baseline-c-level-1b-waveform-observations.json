@@ -70,33 +70,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-thickness.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-arcticsummit.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-arcticsummit.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/sea-ice-thickness.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-thickness.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-26.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-26.xml",
       "roles": [
         "metadata"
       ]

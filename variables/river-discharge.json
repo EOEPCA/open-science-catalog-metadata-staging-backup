@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,127 +16,127 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-amazon-itapeua-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-amazon-itapeua-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-danube-mohacs-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-danube-mohacs-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-amazon-manacapuru-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-amazon-manacapuru-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ocean-freshwater-fluxes-arctic-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ocean-freshwater-fluxes-arctic-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-amazon-itapeua-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-amazon-itapeua-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-po-sermide-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-po-sermide-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-mississippi-chester-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-mississippi-chester-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-mississippi-chester-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-mississippi-chester-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-po-cremona-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-po-cremona-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-products-po-pontelagoscuro-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-products-po-pontelagoscuro-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-products-po-borgoforte-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-products-po-borgoforte-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-danube-baja-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-danube-baja-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-products-po-sermide-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-products-po-sermide-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-po-pontelagoscuro-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-po-pontelagoscuro-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-products-danube-baja-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-products-danube-baja-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-products-po-cremona-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-products-po-cremona-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-mississippi-memphis-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-mississippi-memphis-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-congo-brazaville-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-congo-brazaville-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-products-danube-mohacs-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-products-danube-mohacs-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-mississippi-memphis-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-mississippi-memphis-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-amazon-manacapuru-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-amazon-manacapuru-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/water-level-from-altimetry-temporal-series-l3-products-database-po-borgoforte-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-level-from-altimetry-temporal-series-l3-products-database-po-borgoforte-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/simulated-river-discharge-congo-brazaville-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/simulated-river-discharge-congo-brazaville-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/river-discharge.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/river-discharge.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],

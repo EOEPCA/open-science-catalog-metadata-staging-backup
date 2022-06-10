@@ -71,33 +71,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-cover.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/alpglacier.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/alpglacier.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/snow-cover-on-glaciers-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-cover-on-glaciers-swissalps-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-cover.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-13.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-13.xml",
       "roles": [
         "metadata"
       ]

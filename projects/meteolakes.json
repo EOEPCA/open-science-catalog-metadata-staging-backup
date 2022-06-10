@@ -38,34 +38,34 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrodynamic-models-of-alpine-lakes-western-europe-s2-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-models-of-alpine-lakes-western-europe-s2-3.json",
       "type": "application/json",
       "title": "Hydrodynamic models of Alpine lakes_Western Europe_S2/3"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/meteolakes.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/meteolakes.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-74.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-74.xml",
       "roles": [
         "metadata"
       ]

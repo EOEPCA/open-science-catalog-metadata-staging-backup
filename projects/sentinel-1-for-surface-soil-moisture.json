@@ -39,34 +39,34 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-soil-moisture-time-series-1-km-resolution-southern-italy-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-soil-moisture-time-series-1-km-resolution-southern-italy-s1.json",
       "type": "application/json",
       "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sentinel-1-for-surface-soil-moisture.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-1-for-surface-soil-moisture.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-80.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-80.xml",
       "roles": [
         "metadata"
       ]

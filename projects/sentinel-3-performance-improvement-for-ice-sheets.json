@@ -39,40 +39,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-3.json",
       "type": "application/json",
       "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-1b.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-1b.json",
       "type": "application/json",
       "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 1B"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sentinel-3-performance-improvement-for-ice-sheets.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-3-performance-improvement-for-ice-sheets.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-83.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-83.xml",
       "roles": [
         "metadata"
       ]

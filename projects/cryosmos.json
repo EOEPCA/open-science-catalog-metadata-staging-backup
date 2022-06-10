@@ -41,52 +41,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/bedrock-topography-and-or-geothermal-heat-flux-antarctica-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bedrock-topography-and-or-geothermal-heat-flux-antarctica-goce.json",
       "type": "application/json",
       "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/occurrence-of-surface-melting-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/occurrence-of-surface-melting-antarctica-smos.json",
       "type": "application/json",
       "title": "Occurrence of Surface Melting_Antarctica_SMOS"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/internal-ice-sheet-temperature-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/internal-ice-sheet-temperature-antarctica-smos.json",
       "type": "application/json",
       "title": "Internal ice-sheet temperature_Antarctica_SMOS"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/ice-shelf-product-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-shelf-product-antarctica-smos.json",
       "type": "application/json",
       "title": "Ice shelf product_Antarctica_SMOS"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/cryosmos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosmos.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-111.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-111.xml",
       "roles": [
         "metadata"
       ]

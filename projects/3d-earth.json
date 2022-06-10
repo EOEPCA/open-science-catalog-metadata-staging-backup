@@ -42,40 +42,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
       "type": "application/json",
       "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
       "type": "application/json",
       "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/3d-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/3d-earth.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-40.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-40.xml",
       "roles": [
         "metadata"
       ]

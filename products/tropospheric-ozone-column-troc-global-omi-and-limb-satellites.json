@@ -65,33 +65,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/o3-tropospheric-column.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-tropospheric-column.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sunlit.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sunlit.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/o3-tropospheric-column.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-tropospheric-column.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-156.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-156.xml",
       "roles": [
         "metadata"
       ]

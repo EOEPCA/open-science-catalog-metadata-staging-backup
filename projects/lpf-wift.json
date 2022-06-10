@@ -36,52 +36,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
       "type": "application/json",
       "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
       "type": "application/json",
       "title": "Extended scientific HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hdo-h2o-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-scattering-product-s5p-tropomi.json",
       "type": "application/json",
       "title": "HDO/H2O scattering product_S5p-TROPOMI"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/clear-sky-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clear-sky-hdo-h2o-total-column-tropomi.json",
       "type": "application/json",
       "title": "Clear-sky HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-wift.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-115.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-115.xml",
       "roles": [
         "metadata"
       ]

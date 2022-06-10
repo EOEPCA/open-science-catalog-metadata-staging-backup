@@ -65,33 +65,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/soil-moisture-at-surface.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/soil-moisture-at-surface.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/smos-vegetation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/smos-vegetation.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-africa-smos-level-3-products-catds.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-africa-smos-level-3-products-catds.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/soil-moisture-at-surface.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/soil-moisture-at-surface.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-146.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-146.xml",
       "roles": [
         "metadata"
       ]

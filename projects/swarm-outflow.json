@@ -36,52 +36,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
       "type": "application/json",
       "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/swarm-eiscat-conjunction-list-2013-2019.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-2013-2019.json",
       "type": "application/json",
       "title": "Swarm-EISCAT conjunction list (2013-2019)"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-b-conjunctions.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-b-conjunctions.json",
       "type": "application/json",
       "title": "Cluster/Swarm B conjunctions"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/cluster-swarm-a-and-c-conjunctions.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-a-and-c-conjunctions.json",
       "type": "application/json",
       "title": "Cluster/Swarm A and C conjunctions"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/swarm-outflow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/swarm-outflow.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-104.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-104.xml",
       "roles": [
         "metadata"
       ]

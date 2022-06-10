@@ -40,52 +40,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/hydrodynamic-model-data-deviation-from-sea-level-mean-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-data-deviation-from-sea-level-mean-multimission.json",
       "type": "application/json",
       "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-ocean-heat-content-gohc-grace-grace-fo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-ocean-heat-content-gohc-grace-grace-fo.json",
       "type": "application/json",
       "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/baltic-sea-level-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-level-multimission.json",
       "type": "application/json",
       "title": "Baltic Sea Level_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/earth-energy-imballance-eei-grace-grace-fo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/earth-energy-imballance-eei-grace-grace-fo.json",
       "type": "application/json",
       "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/baltic-seal-sea-level.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/baltic-seal-sea-level.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-26.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-26.xml",
       "roles": [
         "metadata"
       ]

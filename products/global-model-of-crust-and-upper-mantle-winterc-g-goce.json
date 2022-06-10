@@ -65,33 +65,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-field.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/3d-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/3d-earth.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-field.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-2.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-2.xml",
       "roles": [
         "metadata"
       ]

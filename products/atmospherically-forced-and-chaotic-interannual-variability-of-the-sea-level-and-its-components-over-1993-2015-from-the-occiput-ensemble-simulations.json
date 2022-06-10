@@ -68,33 +68,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-dynamic-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ocean-dynamic-topography.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-ovalie.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-ovalie.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-dynamic-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ocean-dynamic-topography.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-102.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-102.xml",
       "roles": [
         "metadata"
       ]

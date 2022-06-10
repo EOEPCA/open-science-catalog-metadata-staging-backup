@@ -40,51 +40,51 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-bbp-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-bbp-global-aeolus.json",
       "type": "application/json",
       "title": "Particulate backscatter: bbp_Global_AEOLUS"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/diffuse-attenuation-kd-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-kd-global-aeolus.json",
       "type": "application/json",
       "title": "Diffuse attenuation: Kd_Global_AEOLUS"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/chromophoric-dissolved-organic-matter-cdom-absorption-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chromophoric-dissolved-organic-matter-cdom-absorption-global-aeolus.json",
       "type": "application/json",
       "title": "Chromophoric Dissolved Organic Matter (CDOM) absorption_Global_AEOLUS"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-color.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-8.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-8.xml",
       "roles": [
         "metadata"
       ]

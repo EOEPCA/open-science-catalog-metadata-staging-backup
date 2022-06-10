@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,322 +16,322 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/albiom.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/albiom.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-multi-flex.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-multi-flex.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sentinel-1-for-surface-soil-moisture.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-1-for-surface-soil-moisture.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/smos-rainfall-land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/smos-rainfall-land.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sense4gpp.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sense4gpp.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/vista.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/vista.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-eocytes.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-eocytes.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-l2a-rut.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-l2a-rut.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/meteolakes.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/meteolakes.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/s14science-amazonas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s14science-amazonas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-vad3emecum.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-vad3emecum.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/baltic-sea-land-biogeochemical-links.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/baltic-sea-land-biogeochemical-links.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/vegetation-carbon-dynamics.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/vegetation-carbon-dynamics.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/stream.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/stream.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/forestscan.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/forestscan.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/sentinel-3-for-science-snow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-3-for-science-snow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-vmdl.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-vmdl.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/photoproxy.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/photoproxy.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/s5p-innovation-sif.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-sif.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/wacmos-irrigation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/wacmos-irrigation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-shred.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-shred.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/smos-vegetation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/smos-vegetation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/s2-for-land-and-water-change-detection-multi-temporal.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s2-for-land-and-water-change-detection-multi-temporal.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/terra-p.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/terra-p.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/ridesat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/ridesat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/carbon-constellation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/carbon-constellation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/hr-albedomap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/hr-albedomap.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/fire-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/fire-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/soil-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/soil-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-status-wet-dry.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-status-wet-dry.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/soil-moisture-at-surface.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/soil-moisture-at-surface.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/lake-level.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/lake-level.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/co2-flux.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-flux.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-cover.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/coastlines.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/coastlines.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/permafrost.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/permafrost.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/soil-type.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/soil-type.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glacier-motion.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-motion.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/wind-gust.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-gust.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/lake-surface-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/lake-surface-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/land-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/land-cover.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/biomass.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/biomass.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/leaf-area-index-lai.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/leaf-area-index-lai.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/wetland-extent.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wetland-extent.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glacier-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-topography.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/land-surface-temperature.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/land-surface-temperature.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/soil-moisture-in-the-roots-region.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/soil-moisture-in-the-roots-region.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/glacier-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-cover.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/land-surface-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/land-surface-topography.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/vegetation-type.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/vegetation-type.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/fire-fractional-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/fire-fractional-cover.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-depth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-depth.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/snow-water-equivalent.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/snow-water-equivalent.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/evapotranspiration.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/evapotranspiration.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/river-discharge.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/river-discharge.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/normalised-difference-vegetation-index-ndvi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/normalised-difference-vegetation-index-ndvi.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ground-water.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ground-water.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/lake-area.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/lake-area.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/fraction-of-vegetated-land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/fraction-of-vegetated-land.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/fraction-of-absorbed-par-fapar.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/fraction-of-absorbed-par-fapar.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/fire-radiative-power.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/fire-radiative-power.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     }
   ],

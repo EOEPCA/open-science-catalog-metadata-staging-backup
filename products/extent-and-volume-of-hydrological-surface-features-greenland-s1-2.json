@@ -66,33 +66,33 @@
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/4d-greenland.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/4d-greenland.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/iso/product-5.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-5.xml",
       "roles": [
         "metadata"
       ]

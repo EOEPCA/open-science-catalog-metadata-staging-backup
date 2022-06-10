@@ -38,40 +38,40 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/vod-africa-smos-ic-products-catds.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vod-africa-smos-ic-products-catds.json",
       "type": "application/json",
       "title": "VOD_Africa_SMOS IC products CATDS"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/gridded-africa-smos-level-3-products-catds.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-africa-smos-level-3-products-catds.json",
       "type": "application/json",
       "title": "Gridded_Africa_SMOS level 3 products CATDS"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/smos-vegetation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/smos-vegetation.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-41.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-41.xml",
       "roles": [
         "metadata"
       ]

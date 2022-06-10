@@ -36,52 +36,52 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/surface-elevation-changes-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-elevation-changes-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
       "type": "application/json",
       "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/digital-elevation-model-antarctic-peninsula-70degs-2017-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/digital-elevation-model-antarctic-peninsula-70degs-2017-antarctica-tandem-x.json",
       "type": "application/json",
       "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/digital-elevation-model-antarctic-peninsula-70degs-2013-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/digital-elevation-model-antarctic-peninsula-70degs-2013-antarctica-tandem-x.json",
       "type": "application/json",
       "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geodetic-glacier-mass-balances-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodetic-glacier-mass-balances-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
       "type": "application/json",
       "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/lpf-mit-ap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-mit-ap.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/projects/iso/project-47.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-47.xml",
       "roles": [
         "metadata"
       ]

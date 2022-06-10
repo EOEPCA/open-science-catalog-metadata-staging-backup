@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,42 +16,42 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-chl-a-300m-daily-and-monthly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/particulate-backscatter-bbp-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-bbp-global-aeolus.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/secchi-disk-depth-global-oceans-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/secchi-disk-depth-global-oceans-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-3-chl-a-300m-daily-and-monthly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/ocean-chlorophyll-concentration.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ocean-chlorophyll-concentration.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],

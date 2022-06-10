@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/catalog.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -16,27 +16,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/density-temperature-and-viscosity-structure-of-the-antarctic-lithosphere-antarctica-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/density-temperature-and-viscosity-structure-of-the-antarctic-lithosphere-antarctica-goce.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/variables/gravity-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-field.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     }
   ],
