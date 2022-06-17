@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-node@v2
       - name: Build static Catalog
         run: |
-          sudo apt install -y proj-bin
+          sudo apt install -y proj-bin libproj-dev
           pip install open-science-catalog-builder/
           # osc build data/ -o dist/ --root-href "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata-staging/"
           osc build data/ -o dist/ --root-href "https://eoepca.github.io/open-science-catalog-metadata-staging/"
