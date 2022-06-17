@@ -18,8 +18,8 @@
       "UKRI Rutherford Appleton Laboratory (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-10-23",
-    "end_datetime": "2020-10-31",
+    "start_datetime": "2018-10-23T00:00:00Z",
+    "end_datetime": "2020-10-31T00:00:00Z",
     "datetime": "2018-10-23T00:00:00Z"
   },
   "geometry": null,
@@ -57,7 +57,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-16.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-72.xml",
       "roles": [
         "metadata"
       ]

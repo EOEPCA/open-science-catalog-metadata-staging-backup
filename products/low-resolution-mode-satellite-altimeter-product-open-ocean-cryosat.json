@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-59",
   "properties": {
-    "start_datetime": "2013-01-01",
-    "end_datetime": "2013-12-31",
+    "start_datetime": "2013-01-01T00:00:00Z",
+    "end_datetime": "2013-12-31T00:00:00Z",
     "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat",
     "description": "Low Resolution Mode satellite altimeter product generated from Cryosat data by TU Delft",
     "osc:missions": [

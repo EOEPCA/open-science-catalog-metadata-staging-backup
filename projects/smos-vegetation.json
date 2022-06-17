@@ -20,8 +20,8 @@
       "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2016-05-10",
-    "end_datetime": "2018-12-15",
+    "start_datetime": "2016-05-10T00:00:00Z",
+    "end_datetime": "2018-12-15T00:00:00Z",
     "datetime": "2016-05-10T00:00:00Z"
   },
   "geometry": null,
@@ -38,15 +38,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vod-africa-smos-ic-products-catds.json",
-      "type": "application/json",
-      "title": "VOD_Africa_SMOS IC products CATDS"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-africa-smos-level-3-products-catds.json",
       "type": "application/json",
       "title": "Gridded_Africa_SMOS level 3 products CATDS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vod-africa-smos-ic-products-catds.json",
+      "type": "application/json",
+      "title": "VOD_Africa_SMOS IC products CATDS"
     },
     {
       "rel": "root",
@@ -71,7 +71,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-41.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-45.xml",
       "roles": [
         "metadata"
       ]

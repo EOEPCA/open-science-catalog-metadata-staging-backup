@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-176",
   "properties": {
-    "start_datetime": "2003-01-01",
-    "end_datetime": "2021-12-31",
+    "start_datetime": "2003-01-01T00:00:00Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
     "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon",
     "description": "Data-driven gross and net carbon flux estimates from machine-learning based on eddy-covariance measurements and space-born measurements, where EO data streams from different sensors and spectral regions are integrated with the specific objective of a more accurate representation of drought effects on carbon fluxes.",
     "osc:missions": [

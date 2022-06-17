@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-155",
   "properties": {
-    "start_datetime": "2018-01-01",
-    "end_datetime": "2019-12-31",
+    "start_datetime": "2018-01-01T00:00:00Z",
+    "end_datetime": "2019-12-31T00:00:00Z",
     "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites",
     "description": "Tropospheric ozone column(TrOC) from TROPOMI and limb satellites",
     "osc:missions": [

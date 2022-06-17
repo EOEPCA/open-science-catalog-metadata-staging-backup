@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-182",
   "properties": {
-    "start_datetime": "2019-01-01",
-    "end_datetime": "2019-12-31",
+    "start_datetime": "2019-01-01T00:00:00Z",
+    "end_datetime": "2019-12-31T00:00:00Z",
     "title": "Doppler derived surface current_Agulhas_S1",
     "description": "Sentinel-1 IW Ocean Surface Current Radial Velocity product in Agulhas current",
     "osc:missions": [],

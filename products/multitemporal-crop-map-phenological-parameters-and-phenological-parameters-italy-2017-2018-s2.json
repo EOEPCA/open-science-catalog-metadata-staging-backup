@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-132",
   "properties": {
-    "start_datetime": "2017-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2017-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2",
     "description": "Multitemporal crop map - phenological parameters and phenological parameters maps of Italy 2017/2018",
     "osc:missions": [

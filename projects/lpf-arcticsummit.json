@@ -18,8 +18,8 @@
       "UNIVERSITY OF BRISTOL (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-10-16",
-    "end_datetime": "2020-10-31",
+    "start_datetime": "2018-10-16T00:00:00Z",
+    "end_datetime": "2020-10-31T00:00:00Z",
     "datetime": "2018-10-16T00:00:00Z"
   },
   "geometry": null,
@@ -36,15 +36,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-thickness-monthly-oct-2010-july-2020arctic-cryosat-2-baseline-d-observations.json",
-      "type": "application/json",
-      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
       "type": "application/json",
       "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-thickness-monthly-oct-2010-july-2020arctic-cryosat-2-baseline-d-observations.json",
+      "type": "application/json",
+      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     },
     {
       "rel": "root",
@@ -69,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-20.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-43.xml",
       "roles": [
         "metadata"
       ]

@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-214",
+  "id": "product-207",
   "properties": {
-    "start_datetime": "2016-01-01",
-    "end_datetime": "2017-12-31",
+    "start_datetime": "2016-01-01T00:00:00Z",
+    "end_datetime": "2017-12-31T00:00:00Z",
     "title": "Level 3 Turbidity, 300m, daily and monthly",
     "description": "Regional version of the Dogliotti et al. (2015) algorithm, based on Terrasigna field data",
     "osc:missions": [
@@ -94,7 +94,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-214.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-207.xml",
       "roles": [
         "metadata"
       ]

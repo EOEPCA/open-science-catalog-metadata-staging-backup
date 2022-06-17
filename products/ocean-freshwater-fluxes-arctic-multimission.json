@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-25",
   "properties": {
-    "start_datetime": "2014-01-01",
-    "end_datetime": "2017-12-31",
+    "start_datetime": "2014-01-01T00:00:00Z",
+    "end_datetime": "2017-12-31T00:00:00Z",
     "title": "Ocean freshwater fluxes_Arctic_Multimission",
     "description": "Estimates of these four freshwater fluxes: discharge from rivers; inflow through ice and melt run off; outflow of freshwater in sea ice; and in/outflow of freshwater through ocean currents.",
     "osc:missions": [
@@ -30,6 +30,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
+    "sci:doi": "https://doi.org/10.1007/1345_2019_75",
     "datetime": "2014-01-01T00:00:00Z"
   },
   "geometry": {
@@ -81,6 +82,10 @@
       "title": "Documentation"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.1007/1345_2019_75"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -121,6 +126,7 @@
     84.2454100786
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

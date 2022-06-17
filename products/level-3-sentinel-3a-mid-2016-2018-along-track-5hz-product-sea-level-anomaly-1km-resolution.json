@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-217",
   "properties": {
-    "start_datetime": "2016-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2016-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution",
     "description": "Along-track Sea Sevel Anomaly (SLA) and derivate/complementary variables. The processing use upstream L2 products with 20Hz sampling and includes : # a multi-mission cross-calibration processing aiming to reduce global and regional biases observed between measurement from different altimeter missions # a low-pass filtering aiming to remove short wavelength signal dominated by residual measurement noises. # a sub-sampling to reach the 5Hz final sampling",
     "osc:missions": [

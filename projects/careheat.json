@@ -1,15 +1,15 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-121",
+  "id": "project-124",
   "properties": {
     "title": "CareHEAT",
-    "description": "",
+    "description": "CAREHeat aims to improve current Marine Heat Waves (MHW) detection and characterization methodology and to advance the understanding of the physical processes involved in MHW development. It will also assess MHW impact on marine Ecosystems and Biogeochemistry, and Ecosystem Services.",
     "osc:name": "Ocean Health - Marine Heatwaves",
     "osc:themes": [
       "Oceans"
     ],
-    "osc:status": "PLANNED",
+    "osc:status": "ONGOING",
     "osc:technical_officer": {
       "name": "Marie-Helene Rio",
       "e-mail": "marie-helene.rio@esa.int"
@@ -23,8 +23,8 @@
       "ENEA (IT)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2022-02-01",
-    "end_datetime": "2024-02-01",
+    "start_datetime": "2022-02-01T00:00:00Z",
+    "end_datetime": "2024-02-01T00:00:00Z",
     "datetime": "2022-02-01T00:00:00Z"
   },
   "geometry": null,
@@ -36,7 +36,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://eo4society.esa.int/projects/careheat/",
       "title": "EO4Society Link"
     },
     {
@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-124.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-115.xml",
       "roles": [
         "metadata"
       ]

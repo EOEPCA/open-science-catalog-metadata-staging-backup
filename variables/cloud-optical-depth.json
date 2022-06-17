@@ -16,22 +16,22 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-global-calipso.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-global-calipso.json",
       "type": "application/json"
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-global-calipso.json",
       "type": "application/json"
     },
     {

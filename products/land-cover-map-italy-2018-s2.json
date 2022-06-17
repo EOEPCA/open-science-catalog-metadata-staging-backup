@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-131",
   "properties": {
-    "start_datetime": "2018-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2018-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "Land cover map_Italy_2018_S2",
     "description": "Land cover map of Italy in 2018. Upcoming Product",
     "osc:missions": [

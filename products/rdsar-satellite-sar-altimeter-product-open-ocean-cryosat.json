@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-60",
   "properties": {
-    "start_datetime": "2011-01-01",
-    "end_datetime": "2021-12-31",
+    "start_datetime": "2011-01-01T00:00:00Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
     "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat",
     "description": "\"RDSAR\" satellite altimeter product generated from Cryosat data by  TU Delft",
     "osc:missions": [

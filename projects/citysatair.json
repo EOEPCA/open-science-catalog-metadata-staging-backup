@@ -19,8 +19,8 @@
       "NILU - NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-07-01",
-    "end_datetime": "2021-07-15",
+    "start_datetime": "2020-07-01T00:00:00Z",
+    "end_datetime": "2021-07-15T00:00:00Z",
     "datetime": "2020-07-01T00:00:00Z"
   },
   "geometry": null,

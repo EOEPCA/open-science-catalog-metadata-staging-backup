@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-140",
   "properties": {
-    "start_datetime": "2017-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2017-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "Snow grain diameter_Greenland_S3",
     "description": "1 km Greenland daily, geotiff at https://github.com/AdrienWehrle/SICE/tree/master/masks",
     "osc:missions": [

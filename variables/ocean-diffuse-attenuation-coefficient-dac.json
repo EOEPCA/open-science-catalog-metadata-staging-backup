@@ -21,22 +21,22 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-kd-global-aeolus.json",
       "type": "application/json"
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-turbidity-300m-daily-and-monthly.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {

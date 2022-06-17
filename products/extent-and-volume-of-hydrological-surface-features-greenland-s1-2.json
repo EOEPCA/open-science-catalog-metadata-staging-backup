@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-5",
   "properties": {
-    "start_datetime": "2010-01-01",
-    "end_datetime": "2020-12-31",
+    "start_datetime": "2010-01-01T00:00:00Z",
+    "end_datetime": "2020-12-31T00:00:00Z",
     "title": "Extent and volume of hydrological surface features_Greenland_S1/2",
     "description": "On the surface of the Greenland Ice Sheet, meltwater streams, rivers, and lakes constitute a complex and interrelated hydrological network. Rain and meltwater formed on the glacier surface either refreezes in the snowpack is transported as surface runoff to the ocean or enters the englacial and subglacial environments through moulins and crevasses. Moulins develop by hydrofracture and establishes conduits for face-to-bed meltwater transport. This enables surface water to reach the base of the ice sheet, thereby possibly enhancing the ice flow by basal lubrication. An important feature of these open water surfaces at the ice sheet surface is that they alter the surface energy budget through the ice-albedo feedback. The low albedo of liquid water increases the absorption of incoming radiation, which in turn increases melt rates. The low reflectivity and a clear spectral signature in optical wavelengths enable open water features to be discriminated from the ambient ice through optical imagery. 4DGreenland aims at investigating the extent and volume of hydrological surface features with a high temporal resolution covering 2010-present.",
     "osc:missions": [

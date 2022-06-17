@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-58",
   "properties": {
-    "start_datetime": "2011-01-01",
-    "end_datetime": "2011-12-31",
+    "start_datetime": "2011-01-01T00:00:00Z",
+    "end_datetime": "2011-12-31T00:00:00Z",
     "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM",
     "description": "Detection and characterization of Traveling Ionospheric Disturbances (TIDs) from Global Navigation Satellite System (GNSS) measurements using the Atomic Decomposition Detector of Traveling Ionospheric Disturbances (ADDTID) algorithm",
     "osc:missions": [
@@ -18,6 +18,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Japan",
     "osc:type": "Product",
+    "sci:doi": "https://doi.org/10.3390/rs11161894",
     "datetime": "2011-01-01T00:00:00Z"
   },
   "geometry": {
@@ -64,6 +65,10 @@
       "title": "Access"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.3390/rs11161894"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -104,6 +109,7 @@
     45.71120454
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

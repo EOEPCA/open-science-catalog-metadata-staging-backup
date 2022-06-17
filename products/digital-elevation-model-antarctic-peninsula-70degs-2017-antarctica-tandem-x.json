@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-98",
   "properties": {
-    "start_datetime": "2017-01-01",
-    "end_datetime": "2017-12-31",
+    "start_datetime": "2017-01-01T00:00:00Z",
+    "end_datetime": "2017-12-31T00:00:00Z",
     "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X",
     "description": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017",
     "osc:missions": [

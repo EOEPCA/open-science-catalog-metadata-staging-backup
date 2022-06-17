@@ -20,8 +20,8 @@
       "INFORMUS GMBH (DE)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-11-11",
-    "end_datetime": "2021-06-22",
+    "start_datetime": "2020-11-11T00:00:00Z",
+    "end_datetime": "2021-06-22T00:00:00Z",
     "datetime": "2020-11-11T00:00:00Z"
   },
   "geometry": null,
@@ -58,13 +58,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-92.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-21.xml",
       "roles": [
         "metadata"
       ]

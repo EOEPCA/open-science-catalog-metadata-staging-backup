@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-26",
   "properties": {
-    "start_datetime": "2021-01-01",
-    "end_datetime": "2021-12-31",
+    "start_datetime": "2021-01-01T00:00:00Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
     "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations",
     "description": "This dataset presents monthly gridded sea ice and ocean parameters for the Arctic derived from the European Space Agency's satellite CryoSat-2. Parameters include sea ice freeboard, sea ice thickness, sea ice surface roughness, mean sea surface height, sea level anomaly, and geostrophic circulation.",
     "osc:missions": [
@@ -18,6 +18,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
+    "sci:doi": "https://doi.org/10.5285/cbd2cf78-462a-4968-be20-05f9c125ad10",
     "datetime": "2021-01-01T00:00:00Z"
   },
   "geometry": {
@@ -69,6 +70,10 @@
       "title": "Documentation"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.5285/cbd2cf78-462a-4968-be20-05f9c125ad10"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -109,6 +114,7 @@
     84.2454100786
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

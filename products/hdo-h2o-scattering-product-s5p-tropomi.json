@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-179",
   "properties": {
-    "start_datetime": "2017-01-01",
-    "end_datetime": "2022-12-31",
+    "start_datetime": "2017-01-01T00:00:00Z",
+    "end_datetime": "2022-12-31T00:00:00Z",
     "title": "HDO/H2O scattering product_S5p-TROPOMI",
     "description": "total columns of H2O and HDO for cloudy and clear-sky scenes",
     "osc:missions": [

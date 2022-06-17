@@ -16,7 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-freeboard-and-thickness-heuristic-retracker-tfmra50-and-amsr-climatology-snow-depth-antarctic-envisat.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-volume-and-snow-volume-prior-and-posterior-uncertainties-north-sea-cryosat-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
       "type": "application/json"
     },
     {
@@ -26,17 +31,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-volume-and-snow-volume-prior-and-posterior-uncertainties-north-sea-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-freeboard-and-thickness-heuristic-retracker-tfmra50-and-amsr-climatology-snow-depth-antarctic-envisat.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-freeboard-and-thickness-tfmra50-and-asd-snow-depth-antarctic-cryosat-2-saral.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-freeboard-and-thickness-tfmra50-and-amsr-2-snow-depth-antarctic-cryosat-2-saral.json",
       "type": "application/json"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-physical-oceanography-arctic-cryosat-2-baseline-c-level-1b-waveform-observations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-freeboard-and-thickness-tfmra50-and-amsr-2-snow-depth-antarctic-cryosat-2-saral.json",
       "type": "application/json"
     },
     {

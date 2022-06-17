@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>project-120</gco:CharacterString>
+    <gco:CharacterString>project-51</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeSpace="ISO 639-2" codeListValue="eng">eng</gmd:LanguageCode>
@@ -15,10 +15,10 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Marie-Helene Rio</gco:CharacterString>
+        <gco:CharacterString>Christian Retscher</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
-        <gco:CharacterString>PML (UK), NKUA (GR)</gco:CharacterString>
+        <gco:CharacterString>BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA-IASB) (BE), KNMI (NL), Netherlands Institute for Space Research (NWO-I) (NL), UNIVERSITAET BREMEN (DE)</gco:CharacterString>
       </gmd:organisationName>
       <gmd:contactInfo>
         <gmd:CI_Contact>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>marie-helene.rio@esa.int</gco:CharacterString>
+                <gco:CharacterString>christian.retscher@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-06-10T09:37:09.274949</gco:DateTime>
+    <gco:DateTime>2022-06-17T06:50:28.194752</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -129,15 +129,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>BOOMS</gco:CharacterString>
+            <gco:CharacterString>ICOVAC</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString/>
+        <gco:CharacterString>The project investigated whether a COVID-19 footprint can be detected in available satellite and ground-based data sets for a number of pollutants. The project attempted to assess the potential impact of the lockdown measures on air quality and climate by deriving updated NOx and CO emissions but also on climate with the analysis of satellite greenhouse gas data products, such as XCO2 columns and/or via the use of the NOx emissions as a proxy to derive fossil fuel CO2 emissions.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="planned">planned</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -149,7 +149,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>theme:Oceans</gco:CharacterString>
+            <gco:CharacterString>theme:Atmosphere</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -159,7 +159,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Ocean Health - Open Ocean Biodiversity</gco:CharacterString>
+            <gco:CharacterString>Impact study of COVID-19 lockdown measures on air quality and climate ICOVAC</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -205,14 +205,17 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2022-02-01</gml:beginPosition>
-                  <gml:endPosition>2024-02-01</gml:endPosition>
+                  <gml:beginPosition>2020-04-29 00:00:00</gml:beginPosition>
+                  <gml:endPosition>2021-06-30 00:00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
           </gmd:temporalElement>
         </gmd:EX_Extent>
       </gmd:extent>
+      <gmd:supplementalInformation>
+        <gco:CharacterString>https://eo4society.esa.int/projects/icovac/</gco:CharacterString>
+      </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
   <gmd:contentInfo>
@@ -283,7 +286,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL/>
+                <gmd:URL>https://icovac.aeronomie.be/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -302,7 +305,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/projects/booms.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/projects/icovac.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

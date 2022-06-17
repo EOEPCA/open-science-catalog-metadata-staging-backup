@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-177",
   "properties": {
-    "start_datetime": "2009-01-01",
-    "end_datetime": "2020-12-31",
+    "start_datetime": "2009-01-01T00:00:00Z",
+    "end_datetime": "2020-12-31T00:00:00Z",
     "title": "GOSAT PBL XH2O and Stable Water Water Vapour Isotopologues_Global",
     "description": "L2 product of column water vapour (XH2O) and stable isotope XHDO, partial column water vapour from the planetary boundary layer XH2O_PBL",
     "osc:missions": [

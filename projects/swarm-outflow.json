@@ -18,8 +18,8 @@
       "UNIVERSITY OF BERGEN (NO)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-02-22",
-    "end_datetime": "2020-09-30",
+    "start_datetime": "2019-02-22T00:00:00Z",
+    "end_datetime": "2020-09-30T00:00:00Z",
     "datetime": "2019-02-22T00:00:00Z"
   },
   "geometry": null,
@@ -36,15 +36,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
-      "type": "application/json",
-      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-2013-2019.json",
       "type": "application/json",
       "title": "Swarm-EISCAT conjunction list (2013-2019)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-a-and-c-conjunctions.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm A and C conjunctions"
     },
     {
       "rel": "item",
@@ -54,9 +54,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-a-and-c-conjunctions.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
       "type": "application/json",
-      "title": "Cluster/Swarm A and C conjunctions"
+      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
     },
     {
       "rel": "root",
@@ -81,7 +81,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-104.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-90.xml",
       "roles": [
         "metadata"
       ]

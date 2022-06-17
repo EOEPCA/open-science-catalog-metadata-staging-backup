@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-cover-map-italy-2018-s2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/multitemporal-crop-map-phenological-parameters-and-phenological-parameters-italy-2017-2018-s2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/multitemporal-crop-map-phenological-parameters-and-phenological-parameters-italy-2017-2018-s2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-cover-map-italy-2018-s2.json",
       "type": "application/json"
     },
     {

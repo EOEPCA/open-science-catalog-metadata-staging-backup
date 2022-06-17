@@ -19,8 +19,8 @@
       "VITROCISET BELGIUM SPRL (BE)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-08-07",
-    "end_datetime": "2019-12-03",
+    "start_datetime": "2018-08-07T00:00:00Z",
+    "end_datetime": "2019-12-03T00:00:00Z",
     "datetime": "2018-08-07T00:00:00Z"
   },
   "geometry": null,
@@ -37,9 +37,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/nrt-sice-rasters-for-greenland-arctic-s3.json",
       "type": "application/json",
-      "title": "Broadband albedo_Arctic_S3"
+      "title": "NRT SICE rasters for Greenland_Arctic_S3"
     },
     {
       "rel": "item",
@@ -55,9 +55,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/nrt-sice-rasters-for-greenland-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-arctic-s3.json",
       "type": "application/json",
-      "title": "NRT SICE rasters for Greenland_Arctic_S3"
+      "title": "Broadband albedo_Arctic_S3"
     },
     {
       "rel": "root",
@@ -82,7 +82,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-70.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-17.xml",
       "roles": [
         "metadata"
       ]

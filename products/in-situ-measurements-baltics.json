@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-44",
   "properties": {
-    "start_datetime": "2015-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2015-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "In-situ measurements_Baltics",
     "description": "Water quality data of coastal (local and regional) monitoring; ICES water quality; Water quality from campaigns; Water quality data from Ship- of-opportunity (bottle samples); Water quality data from Ship-of- opportunity, instrument data; Reflectance. Details available at: http://eo.ymparisto.fi/data/water/Baltic_SeaLaBio/SeaLaBio_Dataset_Description_V1.2.pdf",
     "osc:missions": [

@@ -18,8 +18,8 @@
       "UNIVERSITAT POLITECNICA DE VALENCIA (ES)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-05-20",
-    "end_datetime": "2022-07-01",
+    "start_datetime": "2020-05-20T00:00:00Z",
+    "end_datetime": "2022-07-01T00:00:00Z",
     "datetime": "2020-05-20T00:00:00Z"
   },
   "geometry": null,
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-53.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-121.xml",
       "roles": [
         "metadata"
       ]

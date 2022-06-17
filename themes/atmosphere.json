@@ -16,32 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/crest.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/citysatair.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/promcom.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sunlit.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-so2-lh.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/vista.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-newton.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/livas.json",
       "type": "application/json"
     },
     {
@@ -51,37 +36,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sense4fire.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/wifos.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-aoc.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-color.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-wift.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/metheo.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/prisma-s5p-for-covid-19.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/citysatair.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-lisa.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-newton.json",
       "type": "application/json"
     },
     {
@@ -91,17 +56,62 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/wifos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/prisma-s5p-for-covid-19.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/anreo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/metheo.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/promcom.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-h2o-iso.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-sea-flect.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-lisa.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/daces.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-swails.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/crest.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-oclo.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/icovac.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-so2-lh.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sunlit.json",
       "type": "application/json"
     },
     {
@@ -116,37 +126,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-sea-flect.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/daces.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-aod-and-brdf.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/livas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-h2o-iso.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-glyoxal.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-swails.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-wift.json",
       "type": "application/json"
     },
     {
@@ -156,52 +136,42 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-oclo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/anreo.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/icovac.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-aoc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sense4fire.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/vista.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-glyoxal.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-aod-and-brdf.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/long-wave-earth-surface-emissivity.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-direction-near-surface.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/melting-layer-depth-in-clouds.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-mass-mixing-ratio.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cfc-11.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n-15-no-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-alfapinene-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-ice-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/bro.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c-18-o-delta.json",
       "type": "application/json"
     },
     {
@@ -211,72 +181,12 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no3-mole-fraction.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hydrometeor-type.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nh3-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/13-co-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-stratospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c5h8.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/clo.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-single-scattering-albedo.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c5h12-n-pentane.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/freezing-level-height-in-clouds.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n-15-no-beta-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c5h12-2-methylbutane.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-liquid-water-clw.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-column-average-dry-air-mixing-ratio.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-ice-effective-radius.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c-17-oo-delta.json",
       "type": "application/json"
     },
     {
@@ -286,7 +196,27 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3d-delta.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-alfapinene-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-type-at-the-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-mole-fraction-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c5h12-n-pentane.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no.json",
       "type": "application/json"
     },
     {
@@ -296,12 +226,22 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/13-co2-delta.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-spectral-radiance-at-toa.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-column-burden.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-tropospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n-15-no-alpha-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-mole-fraction.json",
       "type": "application/json"
     },
     {
@@ -311,27 +251,7 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-species-total-column-burden.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/dms-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/relative-humidity.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-horizontal.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/photosynthetically-active-radiation-par.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-optical-depth.json",
       "type": "application/json"
     },
     {
@@ -341,12 +261,352 @@
     },
     {
       "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-horizontal.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/dew-point-temperature.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-volcanic-ash-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o-mole-fraction-bg.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-mole-fraction-sr.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-to-ground-lightning-density.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-liquid-water-clw.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/downward-short-wave-irradiance-at-toa.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-ice-effective-radius.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-tropospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c6h6.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-drop-effective-radius.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c2h5oh-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-effective-radius.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/background-luminance-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ocs-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/air-specific-humidity-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2-18-o-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/long-wave-earth-surface-emissivity.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/so2-mole-fraction-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c3h8.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/air-pressure-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/melting-layer-depth-in-clouds.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcho-tropospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/relative-humidity.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-absorption-optical-depth.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/clono2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/turbulence.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction-sr.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/13-co2-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c7h8-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcfc-22.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hdo.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-3-carene-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/freezing-level-height-in-clouds.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hd-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c5h8.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcho-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction-bg.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/short-wave-cloud-reflectance.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-mass-mixing-ratio.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3oh-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3cn-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/photosynthetically-active-radiation-par.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-speed-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-betapinene-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-liquid-or-solid.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/14-co-number-concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/air-temperature-near-surface.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-limonene-mole-fraction.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-base-height.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glyoxal-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o-mole-fraction-sr.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-cover.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n-15-no-beta-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3d-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-liquid-water-clw-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/earth-surface-albedo.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-mole-fraction-bg.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o5.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-stratospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/h2o.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-ice.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-long-wave-irradiance-at-earth-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hno3.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-column-burden.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-layer-height.json",
       "type": "application/json"
     },
     {
@@ -361,42 +621,17 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/turbulence.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/clo.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c6h6.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-limonene-mole-fraction.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-to-ground-lightning-density.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/height-of-the-tropopause.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-short-wave-irradiance-at-toa.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-dust-concentration.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cfc-12.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/total-lightning-density.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n-15-no-delta.json",
       "type": "application/json"
     },
     {
@@ -406,492 +641,7 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/14-co2-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/air-pressure-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o5.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c-17-oo-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/specific-humidity.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c2h6s-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glyoxal-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/downward-long-wave-irradiance-at-earth-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-cover.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-base-height.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-extinction-coefficient.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/14-co-number-concentration.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/h2o.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cos.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/integrated-water-vapour-iwv.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-spectral-irradiance.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-liquid-or-solid.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/height-of-the-top-of-pbl.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-effective-radius.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-column-average-dry-air-mixing-ratio.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-optical-depth.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-type.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcho-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/icing-potential.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/downward-short-wave-irradiance-at-earth-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-mole-fraction-sr.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/earth-surface-short-wave-bidirectional-reflectance.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-absorption-optical-depth.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c2h5oh-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/radiation-profile.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-species-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-vertical.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/clono2.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/atmospheric-density.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/13-ch4-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-vector-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ocs-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-liquid-water-clw-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcho-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction-bg.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/downward-short-wave-irradiance-at-toa.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-top-temperature.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c2h6.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c-18-o-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3cn-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction-sr.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/so2-mole-fraction-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c3h8.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-3-carene-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/accumulated-precipitation-over-24-h.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sf6.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/temperature-of-the-tropopause.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-optical-depth.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hdo.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-top-pressure.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-drop-effective-radius.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-long-wave-irradiance-at-earth-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/background-luminance-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3oh-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o-mole-fraction-sr.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcl.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-intensity-at-surface-liquid-or-solid.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/dew-point-temperature.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/earth-surface-albedo.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/so2-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-intensity-at-surface-solid.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-stratospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-mole-fraction-bg.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-mole-fraction-sr.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3br.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/air-specific-humidity-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-type-at-the-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-mole-fraction-bg.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/relative-humidity-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-long-wave-irradiance-at-toa.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o-mole-fraction-bg.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2-18-o-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hno3.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/short-wave-cloud-reflectance.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcfc-22.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c3h6o-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-volcanic-ash-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-top-height.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-direction-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hydrometeor-type.json",
       "type": "application/json"
     },
     {
@@ -901,92 +651,12 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-layer-height.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/bro.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hd-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c10h16-betapinene-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no2-tropospheric-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c7h8-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-ice.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/so2-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/h2-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c-18-oo-delta.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-spectral-radiance-at-toa.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-type.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-speed-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/psc-occurrence.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-mole-fraction-near-surface.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nh3-total-column.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-mole-fraction.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n-15-no-alpha-delta.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-tropospheric-column.json",
       "type": "application/json"
     },
     {
@@ -996,17 +666,347 @@
     },
     {
       "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-dust-concentration.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-single-scattering-albedo.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/relative-humidity-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/solar-spectral-irradiance.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-top-pressure.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-species-total-column-burden.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/height-of-the-tropopause.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nh3-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-column-average-dry-air-mixing-ratio.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-ice-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cos.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/13-ch4-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-stratospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/downward-long-wave-irradiance-at-earth-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-vector-near-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/atmospheric-density.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/so2-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/total-lightning-density.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/no3-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c-18-oo-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sf6.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/wind-vertical.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/specific-humidity.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/temperature-of-the-tropopause.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-short-wave-irradiance-at-toa.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-intensity-at-surface-solid.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/height-of-the-top-of-pbl.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/integrated-water-vapour-iwv.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-mole-fraction-bg.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co-tropospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch3br.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/radiation-profile.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-extinction-coefficient.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/14-co2-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3-tropospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-type.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/earth-surface-short-wave-bidirectional-reflectance.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glyoxal-tropospheric-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ch4-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/psc-occurrence.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/downward-short-wave-irradiance-at-earth-surface.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/nh3-total-column.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/upward-long-wave-irradiance-at-toa.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-mole-fraction-sr.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/icing-potential.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c2h6s-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-top-height.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cfc-12.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/h2-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c5h12-2-methylbutane.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-species-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/accumulated-precipitation-over-24-h.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-type.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/aerosol-volcanic-ash.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glyoxal-mole-fraction.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/precipitation-intensity-at-surface-liquid-or-solid.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/o3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/dms-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/13-co-delta.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cfc-11.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-top-temperature.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/c3h6o-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/hcl.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/co2-column-average-dry-air-mixing-ratio.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/n2o-mole-fraction.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/cloud-optical-depth.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/so2-mole-fraction.json",
       "type": "application/json"
     },
     {

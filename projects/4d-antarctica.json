@@ -30,8 +30,8 @@
       "UNIVERSIT\u00c9 GRENOBLE ALPES (FR)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-09-24",
-    "end_datetime": "2022-10-15",
+    "start_datetime": "2019-09-24T00:00:00Z",
+    "end_datetime": "2022-10-15T00:00:00Z",
     "datetime": "2019-09-24T00:00:00Z"
   },
   "geometry": null,
@@ -75,7 +75,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-10.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-6.xml",
       "roles": [
         "metadata"
       ]

@@ -22,8 +22,8 @@
       "isardSAT (ES)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2016-03-03",
-    "end_datetime": "2019-11-30",
+    "start_datetime": "2016-03-03T00:00:00Z",
+    "end_datetime": "2019-11-30T00:00:00Z",
     "datetime": "2016-03-03T00:00:00Z"
   },
   "geometry": null,
@@ -52,15 +52,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
-      "type": "application/json",
-      "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-antarctic-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json",
       "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
+      "type": "application/json",
+      "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
     },
     {
       "rel": "root",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-117.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-8.xml",
       "roles": [
         "metadata"
       ]

@@ -19,6 +19,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
+    "sci:doi": "https://doi.org/10.22008/FK2/F9P03L",
     "datetime": null
   },
   "geometry": {
@@ -65,6 +66,10 @@
       "title": "Access"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.22008/FK2/F9P03L"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -105,6 +110,7 @@
     84.2454100786
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-24",
   "properties": {
-    "start_datetime": "2011-01-01",
-    "end_datetime": "2019-12-31",
+    "start_datetime": "2011-01-01T00:00:00Z",
+    "end_datetime": "2019-12-31T00:00:00Z",
     "title": "Sea Surface Salinity L2 orbits and L3 maps (V.3.1) _Arctic_SMOS",
     "description": "Arctic sea surface salinity retrieved from SMOS, spatial resolution 0.25 deg (EASE grid 2.0), temporal resolution 9-day maps generated daily. The product contains the following data: i) sea surface salinity (p.s.u), ii) sea surface salinity uncertainty (p.s.u), and iii) sea surface salinity anomaly (p.s.u) : difference between sea surface salinity provided by SSS field and the annual sea surface salinity provided by WOA 2018 A5B7. Product version 3.1.  The product will be freely distributed at the BEC webpage http://bec.icm.csic.es and at the project webpage https://arcticsalinity.argans.co.uk.",
     "osc:missions": [
@@ -20,6 +20,7 @@
     "osc:region": "Arctic",
     "osc:type": "Product",
     "version": "3.1",
+    "sci:doi": "https://doi.org/10.20350/digitalCSIC/12620",
     "datetime": "2011-01-01T00:00:00Z"
   },
   "geometry": {
@@ -71,6 +72,10 @@
       "title": "Documentation"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.20350/digitalCSIC/12620"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -111,6 +116,7 @@
     84.2454100786
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

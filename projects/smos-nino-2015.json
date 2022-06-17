@@ -20,8 +20,8 @@
       "MetOffice (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2016-07-27",
-    "end_datetime": "2019-05-15",
+    "start_datetime": "2016-07-27T00:00:00Z",
+    "end_datetime": "2019-05-15T00:00:00Z",
     "datetime": "2016-07-27T00:00:00Z"
   },
   "geometry": null,
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-57.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-108.xml",
       "roles": [
         "metadata"
       ]

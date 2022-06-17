@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-14",
   "properties": {
-    "start_datetime": "2016-01-01",
-    "end_datetime": "2016-12-31",
+    "start_datetime": "2016-01-01T00:00:00Z",
+    "end_datetime": "2016-12-31T00:00:00Z",
     "title": "Glacier surface flow velocity_SwissAlps_S1/2",
     "description": "Glacier surface flow velocity. Most of the database has been submitted to Pangaea, where the submission is being processed. Some parts of the database fall under the copyright of the Swiss national institute for topography and were therefore only provided as point shapefiles instead of polygons. All the necessary information to reconstruct the study are provided.",
     "osc:missions": [

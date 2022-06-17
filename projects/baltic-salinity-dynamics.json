@@ -20,8 +20,8 @@
       "FINNISH METEOROLOGICAL INSTITUTE (FI)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-12-04",
-    "end_datetime": "2019-08-31",
+    "start_datetime": "2018-12-04T00:00:00Z",
+    "end_datetime": "2019-08-31T00:00:00Z",
     "datetime": "2018-12-04T00:00:00Z"
   },
   "geometry": null,
@@ -38,15 +38,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l3-maps-v-2-0-baltics-multimission.json",
-      "type": "application/json",
-      "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l4-maps-v-2-0-baltics-multimission.json",
       "type": "application/json",
       "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l3-maps-v-2-0-baltics-multimission.json",
+      "type": "application/json",
+      "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
     },
     {
       "rel": "root",
@@ -71,7 +71,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-11.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-63.xml",
       "roles": [
         "metadata"
       ]

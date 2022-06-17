@@ -24,8 +24,8 @@
       "Universiteit Utrecht (NL)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2020-04-28",
-    "end_datetime": "2022-05-31",
+    "start_datetime": "2020-04-28T00:00:00Z",
+    "end_datetime": "2022-05-31T00:00:00Z",
     "datetime": "2020-04-28T00:00:00Z"
   },
   "geometry": null,
@@ -42,21 +42,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-surface-current-oceans-agulhas.json",
       "type": "application/json",
-      "title": "Total surface current_North-Atlantic"
+      "title": "Gridded Surface Current_Oceans_Agulhas"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-agulhas-s1.json",
       "type": "application/json",
       "title": "Doppler derived surface current_Agulhas_S1"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wind-stress-vector-anomalies-hourly-era5.json",
-      "type": "application/json",
-      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
     },
     {
       "rel": "item",
@@ -72,15 +66,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-surface-current-oceans-agulhas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
       "type": "application/json",
-      "title": "Gridded Surface Current_Oceans_Agulhas"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
-      "type": "application/json",
-      "title": "Daily 2D ocean surface currents_North Atlantic"
+      "title": "Total surface current_North-Atlantic"
     },
     {
       "rel": "item",
@@ -93,6 +81,18 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/oceanic-current-fronts-gibraltar.json",
       "type": "application/json",
       "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wind-stress-vector-anomalies-hourly-era5.json",
+      "type": "application/json",
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
     },
     {
       "rel": "root",
@@ -117,7 +117,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-118.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-84.xml",
       "roles": [
         "metadata"
       ]

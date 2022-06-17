@@ -21,8 +21,8 @@
       "UNIVERSITY OF VICTORIA (CA)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-05-29",
-    "end_datetime": "2021-06-30",
+    "start_datetime": "2019-05-29T00:00:00Z",
+    "end_datetime": "2021-06-30T00:00:00Z",
     "datetime": "2019-05-29T00:00:00Z"
   },
   "geometry": null,
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-113.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-35.xml",
       "roles": [
         "metadata"
       ]

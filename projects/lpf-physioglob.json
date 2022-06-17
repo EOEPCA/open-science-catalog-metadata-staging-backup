@@ -19,8 +19,8 @@
       "ENERGY AND SUSTAINABLE ECONOMIC DEVELOPMENT (ENEA) (IT)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-10-01",
-    "end_datetime": "2020-10-31",
+    "start_datetime": "2018-10-01T00:00:00Z",
+    "end_datetime": "2020-10-31T00:00:00Z",
     "datetime": "2018-10-01T00:00:00Z"
   },
   "geometry": null,
@@ -64,7 +64,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-66.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-83.xml",
       "roles": [
         "metadata"
       ]

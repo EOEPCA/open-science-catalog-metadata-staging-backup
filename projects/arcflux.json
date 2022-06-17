@@ -20,8 +20,8 @@
       "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2016-06-25",
-    "end_datetime": "2018-03-01",
+    "start_datetime": "2016-06-25T00:00:00Z",
+    "end_datetime": "2018-03-01T00:00:00Z",
     "datetime": "2016-06-25T00:00:00Z"
   },
   "geometry": null,
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-112.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-18.xml",
       "roles": [
         "metadata"
       ]

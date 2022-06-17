@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-183",
   "properties": {
-    "start_datetime": "2010-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2010-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "Daily 3D ocean currents_North Atlantic",
     "description": "North Atlantic data-driven 3D Currents and Tracers (NATL3D), data-driven reconstruction of the 3D Currents and Tracers in the North Atlantic obtained by applying artificial intelligence and dynamical diagnostic models to a combination of in situ and satellite data",
     "osc:missions": [],

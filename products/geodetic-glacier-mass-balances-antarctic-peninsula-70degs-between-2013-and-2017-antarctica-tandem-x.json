@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-100",
   "properties": {
-    "start_datetime": "2013-01-01",
-    "end_datetime": "2017-12-31",
+    "start_datetime": "2013-01-01T00:00:00Z",
+    "end_datetime": "2017-12-31T00:00:00Z",
     "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X",
     "description": "Geodetic glacier mass balance derived from Digital Elevation Model differentiating using data from TanDEM-X acquisitions from austral winters 2013 and 2017",
     "osc:missions": [

@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-213",
   "properties": {
-    "start_datetime": "2016-01-01",
-    "end_datetime": "2017-12-31",
+    "start_datetime": "2016-01-01T00:00:00Z",
+    "end_datetime": "2017-12-31T00:00:00Z",
     "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly",
     "description": "Regional version of the Nechal 2010 algorithm, based on Terrasigna field data",
     "osc:missions": [

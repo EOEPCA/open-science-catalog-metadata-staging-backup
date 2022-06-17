@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-75",
   "properties": {
-    "start_datetime": "2015-01-01",
-    "end_datetime": "2016-12-31",
+    "start_datetime": "2015-01-01T00:00:00Z",
+    "end_datetime": "2016-12-31T00:00:00Z",
     "title": "Sea Surface Salinity Bias_Global_SMOS",
     "description": "Data assimilation of Soil Moisture and Ocean Salinity (SMOS) observations into the Mercator Ocean operational system: focus on the El Ni\u00f1o 2015 event. To access the data: mailto:btranchant@groupcls.com",
     "osc:missions": [
@@ -18,6 +18,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Global",
     "osc:type": "Product",
+    "sci:doi": "https://doi.org/10.5194/os-15-543-2019",
     "datetime": "2015-01-01T00:00:00Z"
   },
   "geometry": {
@@ -69,6 +70,10 @@
       "title": "Documentation"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.5194/os-15-543-2019"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -109,6 +114,7 @@
     90.0
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

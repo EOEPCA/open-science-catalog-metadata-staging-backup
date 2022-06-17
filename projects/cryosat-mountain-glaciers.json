@@ -22,8 +22,8 @@
       "University College of London \u201a Mullard Space Science Labor (UCL)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2015-05-13",
-    "end_datetime": "2020-12-31",
+    "start_datetime": "2015-05-13T00:00:00Z",
+    "end_datetime": "2020-12-31T00:00:00Z",
     "datetime": "2015-05-13T00:00:00Z"
   },
   "geometry": null,
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-36.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-51.xml",
       "roles": [
         "metadata"
       ]

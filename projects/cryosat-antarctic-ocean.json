@@ -23,8 +23,8 @@
       "isardSAT UK (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2018-12-21",
-    "end_datetime": "2021-01-04",
+    "start_datetime": "2018-12-21T00:00:00Z",
+    "end_datetime": "2021-01-04T00:00:00Z",
     "datetime": "2018-12-21T00:00:00Z"
   },
   "geometry": null,
@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-94.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-9.xml",
       "roles": [
         "metadata"
       ]

@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-208",
   "properties": {
-    "start_datetime": "2016-01-01",
-    "end_datetime": "2017-12-31",
+    "start_datetime": "2016-01-01T00:00:00Z",
+    "end_datetime": "2017-12-31T00:00:00Z",
     "title": "Level 4 Ocean Colour products Chl-a, 300m, daily",
     "description": "Switching algorithm: regional version of the OC4 algorithm in clear waters and NN-C2RCC algorithm for turbid waters",
     "osc:missions": [

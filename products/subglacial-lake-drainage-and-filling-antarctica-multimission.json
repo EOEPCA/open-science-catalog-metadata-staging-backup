@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-3",
   "properties": {
-    "start_datetime": "2010-01-01",
-    "end_datetime": "2019-12-31",
+    "start_datetime": "2010-01-01T00:00:00Z",
+    "end_datetime": "2019-12-31T00:00:00Z",
     "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission",
     "description": "Repeat Subglacial Lake Drainage and Filling Beneath Thwaites Glacier",
     "osc:missions": [
@@ -27,6 +27,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Antarctica",
     "osc:type": "Product",
+    "sci:doi": "https://doi.org/10.1029/2020GL089658",
     "datetime": "2010-01-01T00:00:00Z"
   },
   "geometry": {
@@ -73,6 +74,10 @@
       "title": "Access"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/https%3A//doi.org/10.1029/2020GL089658"
+    },
+    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
@@ -113,6 +118,7 @@
     -61.0
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ]
 }

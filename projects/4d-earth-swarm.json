@@ -24,8 +24,8 @@
       "SCHOOL OF EARTH AND ENVIRONMENT (GB)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2019-04-16",
-    "end_datetime": "2022-04-30",
+    "start_datetime": "2019-04-16T00:00:00Z",
+    "end_datetime": "2022-04-30T00:00:00Z",
     "datetime": "2019-04-16T00:00:00Z"
   },
   "geometry": null,
@@ -42,15 +42,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-champ.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data SWARM"
+      "title": "Ground Virtual Observatory Data CHAMP"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-data-earth-core.json",
       "type": "application/json",
-      "title": "CHAOS field model"
+      "title": "Geodynamo simulation data_Earth core"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-cryosat-2.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-swarm.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data SWARM"
     },
     {
       "rel": "item",
@@ -60,15 +72,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-champ.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CHAMP"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-splinecoefficients.json",
       "type": "application/json",
       "title": "CHAOS field model_SplineCoefficients"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-core.json",
+      "type": "application/json",
+      "title": "CHAOS field model_Core"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-oersted.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data OERSTED"
     },
     {
       "rel": "item",
@@ -84,27 +102,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-oersted.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-data-earth-core.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-core.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
+      "title": "CHAOS field model"
     },
     {
       "rel": "root",
@@ -134,7 +134,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-106.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-13.xml",
       "roles": [
         "metadata"
       ]

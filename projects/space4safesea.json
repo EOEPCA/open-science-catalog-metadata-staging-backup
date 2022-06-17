@@ -19,8 +19,8 @@
       "CLS (FR)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2021-07-02",
-    "end_datetime": "2022-07-02",
+    "start_datetime": "2021-07-02T00:00:00Z",
+    "end_datetime": "2022-07-02T00:00:00Z",
     "datetime": "2021-07-02T00:00:00Z"
   },
   "geometry": null,
@@ -58,7 +58,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-2.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-119.xml",
       "roles": [
         "metadata"
       ]

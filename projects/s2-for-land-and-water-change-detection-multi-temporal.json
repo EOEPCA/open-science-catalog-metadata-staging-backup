@@ -19,8 +19,8 @@
       "FONDAZIONE BRUNO KESSLER FBK (IT)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2015-12-01",
-    "end_datetime": "2018-04-30",
+    "start_datetime": "2015-12-01T00:00:00Z",
+    "end_datetime": "2018-04-30T00:00:00Z",
     "datetime": "2015-12-01T00:00:00Z"
   },
   "geometry": null,
@@ -37,15 +37,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-cover-map-italy-2018-s2.json",
-      "type": "application/json",
-      "title": "Land cover map_Italy_2018_S2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/multitemporal-crop-map-phenological-parameters-and-phenological-parameters-italy-2017-2018-s2.json",
       "type": "application/json",
       "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/land-cover-map-italy-2018-s2.json",
+      "type": "application/json",
+      "title": "Land cover map_Italy_2018_S2"
     },
     {
       "rel": "root",
@@ -70,7 +70,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-82.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-96.xml",
       "roles": [
         "metadata"
       ]

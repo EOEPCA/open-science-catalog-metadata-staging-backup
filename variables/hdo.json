@@ -16,17 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clear-sky-hdo-h2o-total-column-tropomi.json",
       "type": "application/json"
     },
     {
@@ -36,7 +31,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clear-sky-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-scattering-product-s5p-tropomi.json",
       "type": "application/json"
     },
     {

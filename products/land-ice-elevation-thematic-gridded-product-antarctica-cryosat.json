@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-204",
+  "id": "product-199",
   "properties": {
-    "start_datetime": "2010-01-01",
-    "end_datetime": "2021-12-31",
+    "start_datetime": "2010-01-01T00:00:00Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
     "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat",
     "description": "Gridded product containing a spatial interpolation of the point product onto a uniform grid of elevation and uncertainty. The gridded product is published on a monthly basis with one product per region on a 2km grid in polar stereographic coordinates. The monthly product contains 3 months of data on a rolling basis each month and uses the Thematic point product as its input. For example, the January 2020 gridded product will contain point data for a window starting on 1st December 2019 and ending on 29th February 2020.",
     "osc:missions": [
@@ -16,39 +16,39 @@
     ],
     "osc:variable": "Ice sheet topography",
     "osc:status": "ONGOING",
-    "osc:region": "Southern Andes",
+    "osc:region": "Iceland",
     "osc:type": "Product",
     "datetime": "2010-01-01T00:00:00Z"
   },
   "geometry": {
     "type": "Polygon",
     "bbox": [
-      -75.0,
-      -56.0,
-      -67.0,
-      -26.0
+      -24.5,
+      63.0,
+      -13.5,
+      67.0
     ],
     "coordinates": [
       [
         [
-          -75.0,
-          -56.0
+          -24.5,
+          63.0
         ],
         [
-          -67.0,
-          -56.0
+          -13.5,
+          63.0
         ],
         [
-          -67.0,
-          -26.0
+          -13.5,
+          67.0
         ],
         [
-          -75.0,
-          -26.0
+          -24.5,
+          67.0
         ],
         [
-          -75.0,
-          -56.0
+          -24.5,
+          63.0
         ]
       ]
     ]
@@ -96,17 +96,17 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-204.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-199.xml",
       "roles": [
         "metadata"
       ]
     }
   },
   "bbox": [
-    -75.0,
-    -56.0,
-    -67.0,
-    -26.0
+    -24.5,
+    63.0,
+    -13.5,
+    67.0
   ],
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"

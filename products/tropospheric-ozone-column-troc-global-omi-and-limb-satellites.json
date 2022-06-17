@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-156",
+  "id": "product-157",
   "properties": {
-    "start_datetime": "2004-01-01",
-    "end_datetime": "2020-12-31",
+    "start_datetime": "2004-01-01T00:00:00Z",
+    "end_datetime": "2020-12-31T00:00:00Z",
     "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites",
     "description": "Tropospheric ozone column (TrOC) from OMI and limb satellites",
     "osc:missions": [
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-156.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-157.xml",
       "roles": [
         "metadata"
       ]

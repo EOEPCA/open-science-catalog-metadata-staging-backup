@@ -21,8 +21,8 @@
       "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)"
     ],
     "osc:type": "Project",
-    "start_datetime": "2015-07-16",
-    "end_datetime": "2019-03-31",
+    "start_datetime": "2015-07-16T00:00:00Z",
+    "end_datetime": "2019-03-31T00:00:00Z",
     "datetime": "2015-07-16T00:00:00Z"
   },
   "geometry": null,
@@ -45,15 +45,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/prism-smos-rainfall-product-v2-0-3h-0-1-africa.json",
-      "type": "application/json",
-      "title": "PrISM SMOS Rainfall product v2.0_3h_0.1_Africa"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gpm-sm2rain-rainfall-product-v1-0-daily-0-25-quasi-global.json",
       "type": "application/json",
       "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/prism-smos-rainfall-product-v2-0-3h-0-1-africa.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product v2.0_3h_0.1_Africa"
     },
     {
       "rel": "item",
@@ -84,7 +84,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-96.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-34.xml",
       "roles": [
         "metadata"
       ]

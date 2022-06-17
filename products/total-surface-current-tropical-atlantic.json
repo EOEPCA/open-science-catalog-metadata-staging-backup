@@ -3,8 +3,8 @@
   "stac_version": "1.0.0",
   "id": "product-187",
   "properties": {
-    "start_datetime": "2018-01-01",
-    "end_datetime": "2018-12-31",
+    "start_datetime": "2018-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "title": "Total surface current_Tropical Atlantic",
     "description": "Tropical Altantic Total Surface Current,  contains the total surface current including CMEMS geostrophy and Ekman+Near-Inertial currents estimated from ERA5-10m winds with an empirically-adjusted 1D - depth model (Ubelmann et al., in prep)",
     "osc:missions": [],
