@@ -16,17 +16,22 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eddy-census.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-surface-current-oceans-agulhas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-agulhas-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
       "type": "application/json"
     },
     {
@@ -41,16 +46,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-geostrophic-currents-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
       "type": "application/json"
     },
@@ -61,7 +56,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eddy-census.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-agulhas-s1.json",
       "type": "application/json"
     },
     {

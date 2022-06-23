@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodetic-glacier-mass-balances-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/mountain-glacier-elevation-and-elevation-change-global-cryosat-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/mountain-glacier-elevation-and-elevation-change-global-cryosat-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodetic-glacier-mass-balances-antarctic-peninsula-70degs-between-2013-and-2017-antarctica-tandem-x.json",
       "type": "application/json"
     },
     {

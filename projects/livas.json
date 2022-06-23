@@ -36,75 +36,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-depth-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-boundaries-of-dust-layers-global-calipso.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": null,
-      "type": "application/json",
-      "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-property-profiles-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-global-calipso.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical property profiles for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-stratospheric-aerosol-and-cloud-optical-property-profiles-global-calipso-earthcare.json",
-      "type": "application/json",
-      "title": "Climatology of stratospheric aerosol and cloud optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-property-profiles-global-calipso-earthcare.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-depth-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
-      "type": "application/json",
-      "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-global-calipso.json",
-      "type": "application/json",
-      "title": "Cloud optical depth_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
-      "type": "application/json",
-      "title": "Cloud optical property profiles, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-stratospheric-aerosol-and-cloud-optical-depth-global-calipso-earthcare.json",
-      "type": "application/json",
-      "title": "Climatology of stratospheric aerosol and cloud optical depth_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
       "type": "application/json",
       "title": "Cloud optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-optical-depth-dod-of-dust-layers-global-calipso.json",
-      "type": "application/json",
-      "title": "Dust optical depth (DOD) of dust layers_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-property-profiles-dust-concentration-profiles-cloud-relevant-dust-number-concentrations-profiles-global-calipso.json",
-      "type": "application/json",
-      "title": "Aerosol and Dust aerosol optical property profiles_Dust concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
     },
     {
       "rel": "item",
@@ -114,9 +48,45 @@
     },
     {
       "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-stratospheric-aerosol-and-cloud-optical-depth-global-calipso-earthcare.json",
+      "type": "application/json",
+      "title": "Climatology of stratospheric aerosol and cloud optical depth_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-based-climatology-of-aerosol-optical-property-profiles-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-global-calipso.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-property-profiles-dust-concentration-profiles-cloud-relevant-dust-number-concentrations-profiles-global-calipso.json",
+      "type": "application/json",
+      "title": "Aerosol and Dust aerosol optical property profiles_Dust concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-global-calipso.json",
       "type": "application/json",
       "title": "Cloud optical property profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "type": "application/json",
+      "title": "Cloud optical property profiles, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-depth-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
     },
     {
       "rel": "item",
@@ -126,15 +96,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-depth-aod-global-calipso-earthcare.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-global-calipso.json",
       "type": "application/json",
-      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
+      "title": "Cloud optical depth_Global_CALIPSO"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-based-climatology-of-aerosol-optical-depth-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-boundaries-of-dust-layers-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-property-profiles-global-calipso-earthcare.json",
       "type": "application/json",
-      "title": "Time-Based Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-optical-depth-dod-of-dust-layers-global-calipso.json",
+      "type": "application/json",
+      "title": "Dust optical depth (DOD) of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-property-profiles-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-global-calipso.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
     },
     {
       "rel": "item",
@@ -144,9 +126,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-based-climatology-of-aerosol-optical-property-profiles-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-depth-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-boundaries-of-dust-layers-global-calipso.json",
       "type": "application/json",
-      "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+      "title": "Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-depth-aod-global-calipso-earthcare.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-stratospheric-aerosol-and-cloud-optical-property-profiles-global-calipso-earthcare.json",
+      "type": "application/json",
+      "title": "Climatology of stratospheric aerosol and cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-based-climatology-of-aerosol-optical-depth-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-boundaries-of-dust-layers-global-calipso.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
     },
     {
       "rel": "root",
@@ -171,7 +171,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-55.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-45.xml",
       "roles": [
         "metadata"
       ]

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>project-93</gco:CharacterString>
+    <gco:CharacterString>project-38</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeSpace="ISO 639-2" codeListValue="eng">eng</gmd:LanguageCode>
@@ -15,10 +15,10 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Christian Retscher</gco:CharacterString>
+        <gco:CharacterString>Ola Grabak</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
-        <gco:CharacterString>NOVELTIS SAS (FR)</gco:CharacterString>
+        <gco:CharacterString>Norwegian Research Centre (NORCE), project leader, The Norwegian Meteorological Institute (MET), Nansen Environmental and Remote Sensing Center (NERSC), Science and Technology (S&amp;T), The Norwegian Polar Institute (NPI)</gco:CharacterString>
       </gmd:organisationName>
       <gmd:contactInfo>
         <gmd:CI_Contact>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>christian.retscher@esa.int</gco:CharacterString>
+                <gco:CharacterString>ola.grabak@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-06-23T08:42:26.469999</gco:DateTime>
+    <gco:DateTime>2022-06-23T10:56:05.480645</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -129,15 +129,15 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>S5p Innovation - SIF</gco:CharacterString>
+            <gco:CharacterString>CRYOSPHERE VIRTUAL LAB</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Development of satellite Solar induced chlorophyll fluorescence (SIF) products</gco:CharacterString>
+        <gco:CharacterString>Collaborative Open Science Tool for the cryosphere scientific community</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
-        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
       </gmd:status>
       <gmd:resourceMaintenance>
         <gmd:MD_MaintenanceInformation>
@@ -149,10 +149,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>theme:Atmosphere</gco:CharacterString>
-          </gmd:keyword>
-          <gmd:keyword>
-            <gco:CharacterString>theme:Land</gco:CharacterString>
+            <gco:CharacterString>theme:Cryosphere</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -162,7 +159,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)</gco:CharacterString>
+            <gco:CharacterString>CRYOSPHERE VIRTUAL LABORATORY EXPRO +</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -208,8 +205,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2019-07-03 00:00:00</gml:beginPosition>
-                  <gml:endPosition>2021-11-09 00:00:00</gml:endPosition>
+                  <gml:beginPosition>2019-10-15 00:00:00</gml:beginPosition>
+                  <gml:endPosition>2022-11-15 00:00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -217,7 +214,7 @@
         </gmd:EX_Extent>
       </gmd:extent>
       <gmd:supplementalInformation>
-        <gco:CharacterString>https://eo4society.esa.int/projects/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/</gco:CharacterString>
+        <gco:CharacterString>https://eo4society.esa.int/projects/cryosphere-virtual-laboratory-expro/</gco:CharacterString>
       </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
@@ -289,7 +286,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://s5p-troposif.noveltis.fr/</gmd:URL>
+                <gmd:URL>https://cvl.eo.esa.int/metsis/search</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -308,7 +305,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-sif.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosphere-virtual-lab.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

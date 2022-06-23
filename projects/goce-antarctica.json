@@ -66,13 +66,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-113.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-9.xml",
       "roles": [
         "metadata"
       ]

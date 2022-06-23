@@ -42,6 +42,18 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
+      "type": "application/json",
+      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
       "type": "application/json",
       "title": "Particulate Inorganic Carbon"
@@ -54,9 +66,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-phytoplankton-carbon-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
       "type": "application/json",
-      "title": "Monthly global Phytoplankton Carbon dataset"
+      "title": "Dissolved Organic Carbon"
     },
     {
       "rel": "item",
@@ -66,21 +78,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-phytoplankton-carbon-dataset.json",
       "type": "application/json",
-      "title": "Dissolved Organic Carbon"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
-      "type": "application/json",
-      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
-      "type": "application/json",
-      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
+      "title": "Monthly global Phytoplankton Carbon dataset"
     },
     {
       "rel": "root",
@@ -105,7 +105,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-36.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-33.xml",
       "roles": [
         "metadata"
       ]

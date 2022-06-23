@@ -44,6 +44,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
+      "type": "application/json",
+      "title": "Extent and volume of hydrological surface features_Greenland_S1/2"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-surface-melt-greenland-s-1-2.json",
       "type": "application/json",
       "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
@@ -53,12 +59,6 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-greenland-s1-2.json",
       "type": "application/json",
       "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
-      "type": "application/json",
-      "title": "Extent and volume of hydrological surface features_Greenland_S1/2"
     },
     {
       "rel": "root",
@@ -83,7 +83,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-105.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-3.xml",
       "roles": [
         "metadata"
       ]

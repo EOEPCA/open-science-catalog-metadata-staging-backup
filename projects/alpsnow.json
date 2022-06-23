@@ -50,18 +50,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-for-european-alps-multimission.json",
-      "type": "application/json",
-      "title": "Snow albedo for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-size-for-european-alps-multimission.json",
-      "type": "application/json",
-      "title": "Snow grain size for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-depth-for-european-alps-multimission.json",
       "type": "application/json",
       "title": "Snow depth for European Alps_Multimission"
@@ -71,6 +59,18 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-content-wet-snow-for-european-alps-multimission.json",
       "type": "application/json",
       "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-for-european-alps-multimission.json",
+      "type": "application/json",
+      "title": "Snow albedo for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-size-for-european-alps-multimission.json",
+      "type": "application/json",
+      "title": "Snow grain size for European Alps_Multimission"
     },
     {
       "rel": "item",
@@ -101,7 +101,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-94.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-14.xml",
       "roles": [
         "metadata"
       ]

@@ -21,12 +21,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/nrt-sice-rasters-for-greenland-arctic-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-greenland-s3.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-greenland-s3.json",
       "type": "application/json"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-size-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-arctic-s3.json",
       "type": "application/json"
     },
     {
@@ -46,22 +46,22 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-arctic-s3.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-arctic-s3.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-size-for-european-alps-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/nrt-sice-rasters-for-greenland-arctic-s3.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-greenland-s3.json",
       "type": "application/json"
     },
     {

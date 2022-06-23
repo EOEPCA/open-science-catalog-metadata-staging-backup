@@ -36,30 +36,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-s5p-tropomi-and-limb-satellites.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stratospheric-ozone-column-from-limb-satellites-global.json",
-      "type": "application/json",
-      "title": "Stratospheric ozone column from limb satellites_Global"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stratospheric-ozone-column-from-limb-satellites-global.json",
       "type": "application/json",
       "title": "Stratospheric ozone column from limb satellites_Global"
@@ -69,6 +45,30 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-s5p-tropomi-and-limb-satellites.json",
       "type": "application/json",
       "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-s5p-tropomi-and-limb-satellites.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column(TrOC)_Global_S5p-TROPOMI and limb satellites"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stratospheric-ozone-column-from-limb-satellites-global.json",
+      "type": "application/json",
+      "title": "Stratospheric ozone column from limb satellites_Global"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-ozone-column-troc-global-omi-and-limb-satellites.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
     },
     {
       "rel": "root",
@@ -93,7 +93,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-14.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-61.xml",
       "roles": [
         "metadata"
       ]

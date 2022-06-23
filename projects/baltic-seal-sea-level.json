@@ -40,27 +40,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-ocean-heat-content-gohc-grace-grace-fo.json",
-      "type": "application/json",
-      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/earth-energy-imballance-eei-grace-grace-fo.json",
-      "type": "application/json",
-      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-data-deviation-from-sea-level-mean-multimission.json",
       "type": "application/json",
       "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-ocean-heat-content-gohc-grace-grace-fo.json",
+      "type": "application/json",
+      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-level-multimission.json",
       "type": "application/json",
       "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/earth-energy-imballance-eei-grace-grace-fo.json",
+      "type": "application/json",
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },
     {
       "rel": "root",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-26.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-19.xml",
       "roles": [
         "metadata"
       ]

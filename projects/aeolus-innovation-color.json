@@ -46,15 +46,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-bbp-global-aeolus.json",
-      "type": "application/json",
-      "title": "Particulate backscatter: bbp_Global_AEOLUS"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chromophoric-dissolved-organic-matter-cdom-absorption-global-aeolus.json",
       "type": "application/json",
       "title": "Chromophoric Dissolved Organic Matter (CDOM) absorption_Global_AEOLUS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-bbp-global-aeolus.json",
+      "type": "application/json",
+      "title": "Particulate backscatter: bbp_Global_AEOLUS"
     },
     {
       "rel": "root",
@@ -78,13 +78,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-75.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-8.xml",
       "roles": [
         "metadata"
       ]

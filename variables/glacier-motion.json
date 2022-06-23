@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-surface-flow-velocity-swissalps-s1-2.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
       "type": "application/json"
     },
     {

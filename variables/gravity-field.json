@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/density-temperature-and-viscosity-structure-of-the-antarctic-lithosphere-antarctica-goce.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/density-temperature-and-viscosity-structure-of-the-antarctic-lithosphere-antarctica-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
       "type": "application/json"
     },
     {

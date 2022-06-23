@@ -26,12 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/semi-empiric-model-of-ionosphere-processes-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/semi-empiric-model-of-ionosphere-processes-swarm.json",
       "type": "application/json"
     },
     {

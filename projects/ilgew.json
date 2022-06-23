@@ -65,13 +65,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-53.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-60.xml",
       "roles": [
         "metadata"
       ]

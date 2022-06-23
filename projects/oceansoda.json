@@ -42,12 +42,6 @@
       "rel": "item",
       "href": null,
       "type": "application/json",
-      "title": "Surface-ocean_pH_Global_v2021"
-    },
-    {
-      "rel": "item",
-      "href": null,
-      "type": "application/json",
       "title": "Surface-ocean_Omega_Global_v2021"
     },
     {
@@ -61,6 +55,12 @@
       "href": null,
       "type": "application/json",
       "title": "Surface-ocean_pCO2_Global_v2021"
+    },
+    {
+      "rel": "item",
+      "href": null,
+      "type": "application/json",
+      "title": "Surface-ocean_pH_Global_v2021"
     },
     {
       "rel": "item",
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-73.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-75.xml",
       "roles": [
         "metadata"
       ]

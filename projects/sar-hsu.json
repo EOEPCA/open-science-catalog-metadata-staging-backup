@@ -42,45 +42,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-sc-sentinel-1-systematic-effects-corrections-baltics-multimission.json",
-      "type": "application/json",
-      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/pta-res-extracted-target-locations-baltics-multimission.json",
-      "type": "application/json",
-      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sl-abs-absolute-sea-level-heights-baltics-multimission.json",
-      "type": "application/json",
-      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-td-tropospheric-delays-baltics-multimission.json",
       "type": "application/json",
       "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-obs-sar-observation-solution-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tg-ssh-corrected-sea-surface-height-at-tide-gauge-stations-baltics-multimission.json",
       "type": "application/json",
-      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
+      "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tg-hgt-tide-gauge-heights-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geo-hgt-geoid-heights-baltics-multimission.json",
       "type": "application/json",
-      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-ec2-ecr-electronic-delay-correction-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-id-ionospheric-delays-baltics-multimission.json",
       "type": "application/json",
-      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -96,21 +78,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-id-ionospheric-delays-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tg-hgt-tide-gauge-heights-baltics-multimission.json",
       "type": "application/json",
-      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tg-ssh-corrected-sea-surface-height-at-tide-gauge-stations-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sl-abs-absolute-sea-level-heights-baltics-multimission.json",
       "type": "application/json",
-      "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-gc-geodynamic-corrections-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/pta-res-extracted-target-locations-baltics-multimission.json",
       "type": "application/json",
-      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -120,9 +102,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geo-hgt-geoid-heights-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-obs-sar-observation-solution-baltics-multimission.json",
       "type": "application/json",
-      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-gc-geodynamic-corrections-baltics-multimission.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-ec2-ecr-electronic-delay-correction-baltics-multimission.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cor-sc-sentinel-1-systematic-effects-corrections-baltics-multimission.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
     },
     {
       "rel": "root",
@@ -147,7 +147,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-89.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-94.xml",
       "roles": [
         "metadata"
       ]

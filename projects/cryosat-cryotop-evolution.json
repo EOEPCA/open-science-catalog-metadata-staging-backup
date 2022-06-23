@@ -40,15 +40,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
-      "type": "application/json",
-      "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json",
       "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
+      "type": "application/json",
+      "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "item",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-8.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-68.xml",
       "roles": [
         "metadata"
       ]

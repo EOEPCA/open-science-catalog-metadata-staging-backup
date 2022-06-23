@@ -16,22 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v4-2.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-phytoplankton-carbon-dataset.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chromophoric-dissolved-organic-matter-cdom-absorption-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
       "type": "application/json"
     },
     {
@@ -41,12 +26,22 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/in-situ-measurements-baltics.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chromophoric-dissolved-organic-matter-cdom-absorption-global-aeolus.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v4-2.json",
       "type": "application/json"
     },
     {
@@ -56,12 +51,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-phytoplankton-carbon-dataset.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/in-situ-measurements-baltics.json",
       "type": "application/json"
     },
     {

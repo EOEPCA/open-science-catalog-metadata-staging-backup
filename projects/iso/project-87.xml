@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd">
   <gmd:fileIdentifier>
-    <gco:CharacterString>project-84</gco:CharacterString>
+    <gco:CharacterString>project-87</gco:CharacterString>
   </gmd:fileIdentifier>
   <gmd:language>
     <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeSpace="ISO 639-2" codeListValue="eng">eng</gmd:LanguageCode>
@@ -15,10 +15,10 @@
   <gmd:contact>
     <gmd:CI_ResponsibleParty id="contact-pointOfContact">
       <gmd:individualName>
-        <gco:CharacterString>Philippe Goryl</gco:CharacterString>
+        <gco:CharacterString>Christian Retscher</gco:CharacterString>
       </gmd:individualName>
       <gmd:organisationName>
-        <gco:CharacterString>VITO (BE), IMPERIAL COLLEGE LONDON (GB), UNIVERSITY OF ANTWERP ASTROPHYSICS (BE), UNIV LEICESTER (GB)</gco:CharacterString>
+        <gco:CharacterString>GRASP-SAS (FR)CATALYSTS GMBH (AT), KNMI (NL)</gco:CharacterString>
       </gmd:organisationName>
       <gmd:contactInfo>
         <gmd:CI_Contact>
@@ -34,7 +34,7 @@
                 <gco:CharacterString/>
               </gmd:postalCode>
               <gmd:electronicMailAddress>
-                <gco:CharacterString>philippe.goryl@esa.int</gco:CharacterString>
+                <gco:CharacterString>christian.retscher@esa.int</gco:CharacterString>
               </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
@@ -59,7 +59,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-06-23T08:42:23.391343</gco:DateTime>
+    <gco:DateTime>2022-06-23T10:56:04.346468</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -129,12 +129,12 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>TerrA-P</gco:CharacterString>
+            <gco:CharacterString>S5p Innovation - AOD and BRDF</gco:CharacterString>
           </gmd:title>
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>Define, implement and validate a model to derive information on the vegetation productivity based on data from MERIS and Sentinel-3.</gco:CharacterString>
+        <gco:CharacterString>Aerosol and surface reflectance characterisation using capabilities of Sentinel-5p (TROPOMI) measurements.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeSpace="ISOTC211/19115" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -149,7 +149,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>theme:Land</gco:CharacterString>
+            <gco:CharacterString>theme:Atmosphere</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -159,7 +159,7 @@
       <gmd:descriptiveKeywords>
         <gmd:MD_Keywords>
           <gmd:keyword>
-            <gco:CharacterString>Sentinel-3 Primary Production over Land (TerrA-P)</gco:CharacterString>
+            <gco:CharacterString>SENTINEL-5P+ INNOVATION - AEROSOL OPTICAL DEPTH (AOD) AND BIDIRECTIONAL REFLECTANCE DISTRIBUTION FUNCTION (BRDF)</gco:CharacterString>
           </gmd:keyword>
           <gmd:type>
             <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeSpace="ISOTC211/19115" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -205,8 +205,8 @@
             <gmd:EX_TemporalExtent>
               <gmd:extent>
                 <gml:TimePeriod gml:id="T001">
-                  <gml:beginPosition>2016-09-26 00:00:00</gml:beginPosition>
-                  <gml:endPosition>2022-01-01 00:00:00</gml:endPosition>
+                  <gml:beginPosition>2019-07-01 00:00:00</gml:beginPosition>
+                  <gml:endPosition>2021-12-30 00:00:00</gml:endPosition>
                 </gml:TimePeriod>
               </gmd:extent>
             </gmd:EX_TemporalExtent>
@@ -214,7 +214,7 @@
         </gmd:EX_Extent>
       </gmd:extent>
       <gmd:supplementalInformation>
-        <gco:CharacterString>https://eo4society.esa.int/projects/s3-primary-production-over-land/</gco:CharacterString>
+        <gco:CharacterString>https://eo4society.esa.int/projects/sentinel-5p-innovation-aod-brdf/</gco:CharacterString>
       </gmd:supplementalInformation>
     </gmd:MD_DataIdentification>
   </gmd:identificationInfo>
@@ -286,7 +286,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eo4society.esa.int/projects/s3-primary-production-over-land/</gmd:URL>
+                <gmd:URL>https://www.grasp-sas.com/projects/aod-brdf_sentinel-5p-innovation/</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
@@ -305,7 +305,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/projects/terra-p.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-innovation-aod-and-brdf.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

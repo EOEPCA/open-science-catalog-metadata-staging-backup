@@ -42,6 +42,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-cover-on-glaciers-swissalps-s1-2.json",
       "type": "application/json",
       "title": "Snow cover on glaciers_SwissAlps_S1/2"
@@ -57,12 +63,6 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
       "type": "application/json",
       "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
-      "type": "application/json",
-      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
       "rel": "root",
@@ -87,7 +87,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-20.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-13.xml",
       "roles": [
         "metadata"
       ]

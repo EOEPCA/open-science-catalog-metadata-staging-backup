@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-199",
+  "id": "product-202",
   "properties": {
     "start_datetime": "2010-01-01T00:00:00Z",
     "end_datetime": "2021-12-31T00:00:00Z",
@@ -16,39 +16,39 @@
     ],
     "osc:variable": "Ice sheet topography",
     "osc:status": "ONGOING",
-    "osc:region": "Iceland",
+    "osc:region": "Arctic Canada North",
     "osc:type": "Product",
     "datetime": "2010-01-01T00:00:00Z"
   },
   "geometry": {
     "type": "Polygon",
     "bbox": [
-      -24.5,
-      63.0,
-      -13.5,
-      67.0
+      -118.0,
+      73.0,
+      -63.0,
+      84.0
     ],
     "coordinates": [
       [
         [
-          -24.5,
-          63.0
+          -118.0,
+          73.0
         ],
         [
-          -13.5,
-          63.0
+          -63.0,
+          73.0
         ],
         [
-          -13.5,
-          67.0
+          -63.0,
+          84.0
         ],
         [
-          -24.5,
-          67.0
+          -118.0,
+          84.0
         ],
         [
-          -24.5,
-          63.0
+          -118.0,
+          73.0
         ]
       ]
     ]
@@ -96,17 +96,17 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-199.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-202.xml",
       "roles": [
         "metadata"
       ]
     }
   },
   "bbox": [
-    -24.5,
-    63.0,
-    -13.5,
-    67.0
+    -118.0,
+    73.0,
+    -63.0,
+    84.0
   ],
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"

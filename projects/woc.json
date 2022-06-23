@@ -48,9 +48,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-agulhas-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic.json",
       "type": "application/json",
-      "title": "Doppler derived surface current_Agulhas_S1"
+      "title": "Total surface current_Tropical Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
+      "type": "application/json",
+      "title": "Total surface current_North-Atlantic"
     },
     {
       "rel": "item",
@@ -66,15 +78,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wind-stress-vector-anomalies-hourly-era5.json",
       "type": "application/json",
-      "title": "Total surface current_North-Atlantic"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic.json",
-      "type": "application/json",
-      "title": "Total surface current_Tropical Atlantic"
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
     },
     {
       "rel": "item",
@@ -84,15 +90,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-2d-ocean-surface-currents-north-atlantic.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-agulhas-s1.json",
       "type": "application/json",
-      "title": "Daily 2D ocean surface currents_North Atlantic"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wind-stress-vector-anomalies-hourly-era5.json",
-      "type": "application/json",
-      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+      "title": "Doppler derived surface current_Agulhas_S1"
     },
     {
       "rel": "root",
@@ -117,7 +117,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-84.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-118.xml",
       "roles": [
         "metadata"
       ]

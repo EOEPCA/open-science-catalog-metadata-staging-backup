@@ -1,15 +1,15 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-120",
+  "id": "project-123",
   "properties": {
     "title": "BOOMS",
-    "description": "",
+    "description": "The BOOMS project aims to provide the best possible characterisation of oceanic seascapes (habitats defined by physical, chemical or biological characteristics), and its relationship to Essential Biodiversity Variables (EBV) globally. It will produce a >10-year time series of seascapes based on 4-km resolution remote sensing data over the global ocean, combining independent datasets from advanced algorithms of ocean colour and sea surface temperature. BOOMS will focus on three Science Case Studies, for different trophic levels: phytoplankton, zooplankton and fish.",
     "osc:name": "Ocean Health - Open Ocean Biodiversity",
     "osc:themes": [
       "Oceans"
     ],
-    "osc:status": "PLANNED",
+    "osc:status": "ONGOING",
     "osc:technical_officer": {
       "name": "Marie-Helene Rio",
       "e-mail": "marie-helene.rio@esa.int"
@@ -32,7 +32,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://eo4society.esa.int/projects/booms/",
       "title": "EO4Society Link"
     },
     {
@@ -58,7 +58,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-123.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-120.xml",
       "roles": [
         "metadata"
       ]

@@ -39,15 +39,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-1b.json",
-      "type": "application/json",
-      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 1B"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-3.json",
       "type": "application/json",
       "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheets-antarctica-sentinel-2-performance-improvement-level-1b.json",
+      "type": "application/json",
+      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 1B"
     },
     {
       "rel": "root",
@@ -72,7 +72,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-54.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-20.xml",
       "roles": [
         "metadata"
       ]

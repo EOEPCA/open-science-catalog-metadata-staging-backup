@@ -41,15 +41,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
-      "type": "application/json",
-      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-colored-dissolved-organic-matter-cdom-baltics-model.json",
       "type": "application/json",
       "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
+      "type": "application/json",
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
     },
     {
       "rel": "item",
@@ -79,13 +79,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-69.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-55.xml",
       "roles": [
         "metadata"
       ]

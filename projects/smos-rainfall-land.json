@@ -39,15 +39,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/prism-smos-rainfall-product-v2-0-3h-0-25-africa.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/prism-smos-rainfall-product-v4-0-3h-0-25-africa.json",
       "type": "application/json",
-      "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gpm-sm2rain-rainfall-product-v1-0-daily-0-25-quasi-global.json",
-      "type": "application/json",
-      "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
+      "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
     },
     {
       "rel": "item",
@@ -57,9 +51,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/prism-smos-rainfall-product-v4-0-3h-0-25-africa.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gpm-sm2rain-rainfall-product-v1-0-daily-0-25-quasi-global.json",
       "type": "application/json",
-      "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
+      "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/prism-smos-rainfall-product-v2-0-3h-0-25-africa.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
     },
     {
       "rel": "root",
@@ -84,7 +84,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-34.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-31.xml",
       "roles": [
         "metadata"
       ]
