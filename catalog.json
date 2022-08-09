@@ -11,7 +11,7 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
       "type": "application/json"
     },
     {
@@ -21,7 +21,12 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
       "type": "application/json"
     },
     {
@@ -31,12 +36,7 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     },
     {

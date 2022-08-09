@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-103",
+  "id": "secchi-disk-depth-lpf-physioglob",
   "properties": {
     "start_datetime": "1997-01-01T00:00:00Z",
-    "end_datetime": "2018-12-31T00:00:00Z",
+    "end_datetime": "2018-12-31T23:59:59Z",
     "title": "Secchi Disk depth_Global Oceans_Multimission",
     "description": "Data consist of global monthly-averaged maps of Hue angle, Forel-Ule index and Secchi disk depth at ~ 4 km spatial resolution at the equator. Data extend from 1997 and 2018 and were generated from the ESA-OC-CCI v4.0 multi-sensor merged remote-sensing reflectances. Two downsized subproducts are also provided: - The global dataset, reduced at 1 degree spatial resolution - A North Atlantic dataset, reduced at 0.25 degree spatial resolution",
     "osc:missions": [
@@ -94,7 +94,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-103.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/secchi-disk-depth-lpf-physioglob.xml",
       "roles": [
         "metadata"
       ]

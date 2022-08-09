@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-65",
+  "id": "photoproxy",
   "properties": {
     "title": "PHOTOPROXY",
     "description": "Quantitative assessment of vegetation photosynthesis and vegetation stress from space",
@@ -22,7 +22,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2018-10-30T00:00:00Z",
-    "end_datetime": "2020-07-31T00:00:00Z",
+    "end_datetime": "2020-07-31T23:59:59Z",
     "datetime": "2018-10-30T00:00:00Z"
   },
   "geometry": null,
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-107.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/photoproxy.xml",
       "roles": [
         "metadata"
       ]

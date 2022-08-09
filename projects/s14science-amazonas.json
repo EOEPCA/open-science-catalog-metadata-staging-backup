@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-79",
+  "id": "s14science-amazonas",
   "properties": {
     "title": "S14SCIENCE AMAZONAS",
     "description": "Develop, test and validate an operational-level Multi-temporal forest Change Detection (MCD) algorithm; estimate carbon loss and gain from anthropogenic and natural land use changes (LUC) in the Amazonas based on the MCD outputs, and perform scientific analysis and interpretation of the quantified carbon gain/loss, accounting for seasonal stressors such as severe droughts or fires.",
@@ -9,7 +9,7 @@
     "osc:themes": [
       "Land"
     ],
-    "osc:status": "ONGOING",
+    "osc:status": "COMPLETED",
     "osc:technical_officer": {
       "name": "Anca Anghelea",
       "e-mail": "anca.anghelea@esa.int"
@@ -22,7 +22,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-04-28T00:00:00Z",
-    "end_datetime": "2022-05-05T00:00:00Z",
+    "end_datetime": "2022-05-05T23:59:59Z",
     "datetime": "2020-04-28T00:00:00Z"
   },
   "geometry": null,
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-121.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s14science-amazonas.xml",
       "roles": [
         "metadata"
       ]

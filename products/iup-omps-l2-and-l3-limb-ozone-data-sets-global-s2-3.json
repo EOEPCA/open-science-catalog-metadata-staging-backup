@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-148",
+  "id": "limb-ozone-lpf-solve",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-148.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/limb-ozone-lpf-solve.xml",
       "roles": [
         "metadata"
       ]

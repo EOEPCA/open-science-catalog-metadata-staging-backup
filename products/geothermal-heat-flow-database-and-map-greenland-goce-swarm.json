@@ -1,12 +1,12 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-1",
+  "id": "geothermal-heat-flow-greenland-3d-earth",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
     "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM",
-    "description": "Some Greenland Geothermal Heat Flow Database and Map",
+    "description": "Greenland Geothermal Heat Flow Database and Map",
     "osc:missions": [
       "GOCE",
       "Swarm"
@@ -15,11 +15,11 @@
     "osc:themes": [
       "Solid Earth"
     ],
-    "osc:variable": "Gravity field",
+    "osc:variable": "Geothermal energy",
     "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
-    "sci:doi": "https://doi.org/10.22008/FK2/F9P03L",
+    "sci:doi": "10.22008/FK2/F9P03L",
     "datetime": null
   },
   "geometry": {
@@ -67,7 +67,7 @@
     },
     {
       "rel": "cite-as",
-      "href": "https://doi.org/https%3A//doi.org/10.22008/FK2/F9P03L"
+      "href": "https://doi.org/10.22008/FK2/F9P03L"
     },
     {
       "rel": "root",
@@ -76,7 +76,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geothermal-energy.json",
       "type": "application/json"
     },
     {
@@ -91,13 +91,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-field.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geothermal-energy.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-1.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/geothermal-heat-flow-greenland-3d-earth.xml",
       "roles": [
         "metadata"
       ]

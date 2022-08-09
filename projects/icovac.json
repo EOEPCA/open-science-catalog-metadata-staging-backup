@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-51",
+  "id": "icovac",
   "properties": {
     "title": "ICOVAC",
     "description": "The project investigated whether a COVID-19 footprint can be detected in available satellite and ground-based data sets for a number of pollutants. The project attempted to assess the potential impact of the lockdown measures on air quality and climate by deriving updated NOx and CO emissions but also on climate with the analysis of satellite greenhouse gas data products, such as XCO2 columns and/or via the use of the NOx emissions as a proxy to derive fossil fuel CO2 emissions.",
@@ -22,7 +22,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-04-29T00:00:00Z",
-    "end_datetime": "2021-06-30T00:00:00Z",
+    "end_datetime": "2021-06-30T23:59:59Z",
     "datetime": "2020-04-29T00:00:00Z"
   },
   "geometry": null,
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-51.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/icovac.xml",
       "roles": [
         "metadata"
       ]

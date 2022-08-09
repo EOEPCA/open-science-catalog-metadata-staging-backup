@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-18",
+  "id": "arcflux",
   "properties": {
     "title": "ArcFlux",
     "description": "The overarching project objectiveis threefold: 1) Supporting the development of novel products and enhanced data sets responding to the needs of the Arctic science community;2) Fostering new scientific results addressing the main priority areas of Arctic research;3) Preparing a solid scientific basis for larger activities addressing the priorities of the Arctic science community; This shall involve the collaborationamong the different scientific communities involved in Arctic process studies, modellers and EO experts.",
@@ -21,7 +21,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2016-06-25T00:00:00Z",
-    "end_datetime": "2018-03-01T00:00:00Z",
+    "end_datetime": "2018-03-01T23:59:59Z",
     "datetime": "2016-06-25T00:00:00Z"
   },
   "geometry": null,
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-95.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/arcflux.xml",
       "roles": [
         "metadata"
       ]

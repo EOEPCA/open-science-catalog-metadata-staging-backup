@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-98",
+  "id": "lpf-smows",
   "properties": {
     "title": "(LPF) SMOWS",
     "description": "How salinity impacts the formation of sub-surface waters (Mode Waters) in the South-West Pacific Ocean",
@@ -19,7 +19,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2018-10-09T00:00:00Z",
-    "end_datetime": "2020-10-31T00:00:00Z",
+    "end_datetime": "2020-10-31T23:59:59Z",
     "datetime": "2018-10-09T00:00:00Z"
   },
   "geometry": null,
@@ -57,7 +57,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-40.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-smows.xml",
       "roles": [
         "metadata"
       ]

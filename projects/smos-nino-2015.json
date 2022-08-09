@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-47",
+  "id": "smos-nino-2015",
   "properties": {
     "title": "SMOS-NINO 2015",
     "description": "SMOS Sea Surface Salinity (SSS) is not yet widely used by the ocean modelling community. In part this is due to the technical challenges of assimilating satellite SSS and assessing the impact of the assimilation using objective tools and reporting. The Global Ocean Data Assimilation Experiment (GODAE) Ocean View Science Team (GOV-ST) group Observing System Evaluation Task Team (OSEVal-TT, see https://www.godae-oceanview.org/science/task-teams/observing-system-evaluation-tt-oseval-tt/) was convened by GOV-ST to evaluate the impact of different measurement systems by running specific observing system experiments and producing an Observation Impact Statement Report. This allows GOV-ST to formulate specific requirements for ocean observations on the basis of improved understanding of data utility.This activity is focussed on the design, implementation and reporting of an Observing System Evaluation of satellite SSS during the strong El Nino 2015/16 event. Strong SSS signals are present in SMOS data prior and during to the El Nino event. Inaddition to SMOS, full use of the NASA SMAP mission data will be encouraged. The output will be a GOV-ST Observation Impact Statement Report focussed on satellite SSS, journal publications and a workshop dedicated to the findings and approach taken by the study team.",
@@ -21,7 +21,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2016-07-27T00:00:00Z",
-    "end_datetime": "2019-05-15T00:00:00Z",
+    "end_datetime": "2019-05-15T23:59:59Z",
     "datetime": "2016-07-27T00:00:00Z"
   },
   "geometry": null,
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-47.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/smos-nino-2015.xml",
       "roles": [
         "metadata"
       ]

@@ -11,12 +11,22 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/dissolved_inorganic_carbon_dic",
       "title": "Link"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-dissolved-inorganic-carbon-global-v2021.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-omega-aragonite-saturation-state-global-v2021.json",
       "type": "application/json"
     },
     {

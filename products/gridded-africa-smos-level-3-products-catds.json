@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-146",
+  "id": "smos-l3-africa-smos-vegetation",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-146.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/smos-l3-africa-smos-vegetation.xml",
       "roles": [
         "metadata"
       ]

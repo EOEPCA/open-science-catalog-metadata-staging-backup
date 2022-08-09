@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-70",
+  "id": "ice-sheet-temperature-antarctica-cryosmos",
   "properties": {
     "start_datetime": "2013-01-01T00:00:00Z",
-    "end_datetime": "2014-12-31T00:00:00Z",
+    "end_datetime": "2014-12-31T23:59:59Z",
     "title": "Internal ice-sheet temperature_Antarctica_SMOS",
     "description": "The product provides an estimate of the Ice Thickness in an area of East Antarctica where the BEDMAP2 data has an uncertainty of 1000 m. The product consists of a NETCDF file containing data in SMOS L3 format. The spatial coverage is provided as an index map in SMOS L3 coordinates. Both ice thickness estimate as well as ice thickness estimate merged onto the surrounding BEDMAP2 ice thickness data, are proved as maps. For user convenience the latitude and longitude coordinate values are also provided. The filename is \u201cSMOS_IceThickness_YYYY_vvv.nc\u201d, where YYYY is the year and vvv is the version number. File size is approximately 7 Mbyte. Only year 2015 version 300 is currently provided. Product details are available at: http://www.ifac.cnr.it/cryosmos/products/CryoSMOS_D8_EDUM_V2.0.pdf. The data are freely disseminated, however the use of this data set must be cited as: Macelloni G., M. Brogioni, G. Picard and M. Leduc-Leballeur. 2019. SMOS Internal ice-sheet temperature, Version 2. [Indicate subset used]. \u201cCryosmos. STSE SMOS+Cryosphere\u201d. ESA contract No.4000112262/14/I-NB.",
     "osc:missions": [
@@ -18,7 +18,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Antarctica",
     "osc:type": "Product",
-    "sci:doi": "https://doi.org/10.1016/j.rse.2019.111405",
+    "sci:doi": "10.1016/j.rse.2019.111405",
     "datetime": "2013-01-01T00:00:00Z"
   },
   "geometry": {
@@ -66,7 +66,7 @@
     },
     {
       "rel": "cite-as",
-      "href": "https://doi.org/https%3A//doi.org/10.1016/j.rse.2019.111405"
+      "href": "https://doi.org/10.1016/j.rse.2019.111405"
     },
     {
       "rel": "root",
@@ -96,7 +96,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-70.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ice-sheet-temperature-antarctica-cryosmos.xml",
       "roles": [
         "metadata"
       ]

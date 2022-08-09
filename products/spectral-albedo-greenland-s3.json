@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-139",
+  "id": "spectral-albedo-greenland-s34science-snow",
   "properties": {
     "start_datetime": "2017-01-01T00:00:00Z",
-    "end_datetime": "2018-12-31T00:00:00Z",
+    "end_datetime": "2018-12-31T23:59:59Z",
     "title": "Spectral albedo_Greenland_S3",
     "description": "1 km Greenland daily, geotiff at https://github.com/AdrienWehrle/SICE/tree/master/masks",
     "osc:missions": [
@@ -76,7 +76,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-3-for-science-snow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s34science-snow.json",
       "type": "application/json"
     },
     {
@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-139.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/spectral-albedo-greenland-s34science-snow.xml",
       "roles": [
         "metadata"
       ]

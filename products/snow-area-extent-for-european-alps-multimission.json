@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-17",
+  "id": "snow-area-europe-alps-alpsnow",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -17,7 +17,7 @@
       "Cryosphere"
     ],
     "osc:variable": "Snow cover",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": "Europe",
     "osc:type": "Product",
     "datetime": null
@@ -98,7 +98,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-17.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/snow-area-europe-alps-alpsnow.xml",
       "roles": [
         "metadata"
       ]

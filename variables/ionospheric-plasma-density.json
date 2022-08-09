@@ -11,8 +11,13 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ionospheric_plasma_density",
       "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/semi-empiric-model-of-ionosphere-processes-swarm.json",
+      "type": "application/json"
     },
     {
       "rel": "item",
@@ -27,11 +32,6 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/semi-empiric-model-of-ionosphere-processes-swarm.json",
       "type": "application/json"
     },
     {

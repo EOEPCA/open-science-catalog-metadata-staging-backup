@@ -11,17 +11,17 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/coastal_sea_level_tide",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-data-deviation-from-sea-level-mean-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-level-multimission.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-level-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-data-deviation-from-sea-level-mean-multimission.json",
       "type": "application/json"
     },
     {

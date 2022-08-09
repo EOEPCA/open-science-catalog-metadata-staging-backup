@@ -11,17 +11,17 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/soil_moisture_at_surface",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-africa-smos-level-3-products-catds.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-soil-moisture-time-series-1-km-resolution-southern-italy-s1.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-soil-moisture-time-series-1-km-resolution-southern-italy-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gridded-africa-smos-level-3-products-catds.json",
       "type": "application/json"
     },
     {

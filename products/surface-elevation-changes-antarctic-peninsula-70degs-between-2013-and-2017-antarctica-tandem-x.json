@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-99",
+  "id": "surface-elevation-change-lpf-mitap",
   "properties": {
     "start_datetime": "2013-01-01T00:00:00Z",
-    "end_datetime": "2017-12-31T00:00:00Z",
+    "end_datetime": "2017-12-31T23:59:59Z",
     "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X",
     "description": "Surface elevation changes derived from Digital Elevation Model differentiating using data from TanDEM-X acquisitions from austral winters 2013 and 2017",
     "osc:missions": [
@@ -15,7 +15,7 @@
       "Cryosphere"
     ],
     "osc:variable": "Ice sheet topography",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": "Antarctica",
     "osc:type": "Product",
     "datetime": "2013-01-01T00:00:00Z"
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-99.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/surface-elevation-change-lpf-mitap.xml",
       "roles": [
         "metadata"
       ]

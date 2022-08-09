@@ -11,7 +11,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/o3_stratospheric_column",
       "title": "Link"
     },
     {
@@ -22,11 +22,6 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iup-omps-l2-and-l3-limb-ozone-data-sets-global-s2-3.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stratospheric-ozone-column-from-limb-satellites-global.json",
       "type": "application/json"
     },
     {

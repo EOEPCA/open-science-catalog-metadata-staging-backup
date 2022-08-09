@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-48",
+  "id": "hr-albedomap",
   "properties": {
     "title": "HR-AlbedoMap",
     "description": "Improving a current surface albedo generation system by adapting and integrating a deep learning system for cloud detection, an advanced atmospheric correction model which considers the surface BRDF effects, and a new technology allowing to retrieve high-resolution albedo from high-resolution reflectance by combining with downscaled MODIS BRDF climatology",
@@ -19,7 +19,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-03-25T00:00:00Z",
-    "end_datetime": "2021-07-10T00:00:00Z",
+    "end_datetime": "2021-07-10T23:59:59Z",
     "datetime": "2020-03-25T00:00:00Z"
   },
   "geometry": null,
@@ -57,7 +57,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-117.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/hr-albedomap.xml",
       "roles": [
         "metadata"
       ]

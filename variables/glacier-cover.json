@@ -11,8 +11,43 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/glacier_cover",
       "title": "Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/supraglaciallake-westantarcticicesheet2017-s2l8-v1-1.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-lake-drainage-and-filling-antarctica-multimission.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/multifrequenciesmeltindicator-antarctica-multimission-2012-2022.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-melt-classification-antarctica-ascat-v1.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/radar-brightness-antarctica-sentinel-1-v1.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/icetemperature-antarctica-smos.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-melt-classification-antarctic-peninsula-sentinel-1-v1.json",
+      "type": "application/json"
     },
     {
       "rel": "self",

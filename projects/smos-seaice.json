@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-101",
+  "id": "smos-seaice",
   "properties": {
     "title": "SMOS+ SeaIce",
     "description": "Develop a data fusion product based on CryoSat and SMOS data, now termed the CS2SMOS product",
@@ -24,7 +24,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2014-08-20T00:00:00Z",
-    "end_datetime": "2017-10-30T00:00:00Z",
+    "end_datetime": "2017-10-30T23:59:59Z",
     "datetime": "2014-08-20T00:00:00Z"
   },
   "geometry": null,
@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-101.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/smos-seaice.xml",
       "roles": [
         "metadata"
       ]

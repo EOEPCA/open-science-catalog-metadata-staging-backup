@@ -11,18 +11,8 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_dynamic_topography",
       "title": "Link"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-absolute-dynamic-topography-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
-      "type": "application/json"
     },
     {
       "rel": "item",
@@ -32,6 +22,11 @@
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
       "type": "application/json"
     },
     {

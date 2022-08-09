@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-53",
+  "id": "lpf-l2a-rut",
   "properties": {
     "title": "(LPF) L2A-RUT",
     "description": "The study focuses on a mathematical expression of the atmospheric correction of the operational S2 L2A products using the Sen2Cor processor.",
@@ -9,7 +9,7 @@
     "osc:themes": [
       "Land"
     ],
-    "osc:status": "ONGOING",
+    "osc:status": "COMPLETED",
     "osc:technical_officer": {
       "name": "Stephen Plummer",
       "e-mail": "stephen.plummer@esa.int"
@@ -19,7 +19,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-05-20T00:00:00Z",
-    "end_datetime": "2022-07-01T00:00:00Z",
+    "end_datetime": "2022-07-01T23:59:59Z",
     "datetime": "2020-05-20T00:00:00Z"
   },
   "geometry": null,
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-53.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-l2a-rut.xml",
       "roles": [
         "metadata"
       ]

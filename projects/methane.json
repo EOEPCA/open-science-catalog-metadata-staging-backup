@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-57",
+  "id": "methane",
   "properties": {
     "title": "Methane+",
     "description": "The ESA Methane+ project aims at exploiting the SWIR and TIR CH4 observations from different satellites in order to better differentiate between sources and sinks of CH4 on the regional and global scale. For this we will use the CH4 observations of TROPOMI on Copernicus Sentinel-5p, IASI on MetOp-B, and CrIS on Suomi NPP in combination with atmospheric inversion models.",
@@ -25,7 +25,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-01-20T00:00:00Z",
-    "end_datetime": "2022-02-20T00:00:00Z",
+    "end_datetime": "2022-02-20T23:59:59Z",
     "datetime": "2020-01-20T00:00:00Z"
   },
   "geometry": null,
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-77.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/methane.xml",
       "roles": [
         "metadata"
       ]

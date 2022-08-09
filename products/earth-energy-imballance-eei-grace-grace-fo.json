@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-49",
+  "id": "earth-energy-imballance-baltic-seal",
   "properties": {
     "start_datetime": "2002-01-01T00:00:00Z",
-    "end_datetime": "2016-12-31T00:00:00Z",
+    "end_datetime": "2016-12-31T23:59:59Z",
     "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO",
     "description": "https://www.aviso.altimetry.fr/fileadmin/documents/data/tools/MOHeaCAN-DT-006-MAG_PUM.pdf",
     "osc:missions": [
@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-49.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/earth-energy-imballance-baltic-seal.xml",
       "roles": [
         "metadata"
       ]

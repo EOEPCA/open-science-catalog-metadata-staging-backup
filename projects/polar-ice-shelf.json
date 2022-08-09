@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-67",
+  "id": "polar-ice-shelf",
   "properties": {
     "title": "Polar+ Ice Shelf",
     "description": "Exploiting the 25-year record of ESA satellite observations, including SMOS, S-1, S-2, and swath mode processed CryoSat-2 data, to produce a comprehensive record of ice shelf change that extends the temporal coverage and improves the spatial resolution with which we can study Antarctic Ice Shelves",
@@ -24,7 +24,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-09-03T00:00:00Z",
-    "end_datetime": "2022-08-31T00:00:00Z",
+    "end_datetime": "2022-08-31T23:59:59Z",
     "datetime": "2020-09-03T00:00:00Z"
   },
   "geometry": null,
@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-67.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/polar-ice-shelf.xml",
       "roles": [
         "metadata"
       ]

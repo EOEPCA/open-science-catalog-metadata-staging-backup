@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-104",
+  "id": "swarm-outflow",
   "properties": {
     "title": "Swarm+ Outflow",
     "description": "The Swarm+ Coupling High-Low Atmosphere Interactions: Ion Outflow (\u201cSwarm+ Outflow\u201d) project, which began in May 2019, centers on using Swarm spacecraft to tackle unanswered questions around non-thermal processes that lead to ion outflow.",
@@ -19,7 +19,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2019-02-22T00:00:00Z",
-    "end_datetime": "2020-09-30T00:00:00Z",
+    "end_datetime": "2020-09-30T23:59:59Z",
     "datetime": "2019-02-22T00:00:00Z"
   },
   "geometry": null,
@@ -36,9 +36,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-a-and-c-conjunctions.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
       "type": "application/json",
-      "title": "Cluster/Swarm A and C conjunctions"
+      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
     },
     {
       "rel": "item",
@@ -48,15 +48,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/champ-and-swarm-solar-activity-and-height-scaled-polar-cap-plasma-density-measurements.json",
-      "type": "application/json",
-      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-2013-2019.json",
       "type": "application/json",
       "title": "Swarm-EISCAT conjunction list (2013-2019)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-a-and-c-conjunctions.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm A and C conjunctions"
     },
     {
       "rel": "root",
@@ -81,7 +81,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-104.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/swarm-outflow.xml",
       "roles": [
         "metadata"
       ]

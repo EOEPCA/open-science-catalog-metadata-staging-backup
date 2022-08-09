@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-173",
+  "id": "chaos-field-model-4d-earth-swarm",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -24,7 +24,7 @@
     "osc:region": "Global",
     "osc:type": "Product",
     "version": "7.8",
-    "sci:doi": "https://doi.org/10.1186/s40623-020-01252-9",
+    "sci:doi": "10.1186/s40623-020-01252-9",
     "datetime": null
   },
   "geometry": {
@@ -72,7 +72,7 @@
     },
     {
       "rel": "cite-as",
-      "href": "https://doi.org/https%3A//doi.org/10.1186/s40623-020-01252-9"
+      "href": "https://doi.org/10.1186/s40623-020-01252-9"
     },
     {
       "rel": "root",
@@ -102,7 +102,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-173.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/chaos-field-model-4d-earth-swarm.xml",
       "roles": [
         "metadata"
       ]

@@ -11,13 +11,8 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_diffuse_attenuation_coefficient_dac",
       "title": "Link"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-turbidity-300m-daily-and-monthly.json",
-      "type": "application/json"
     },
     {
       "rel": "item",
@@ -26,17 +21,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-turbidity-300m-daily-and-monthly.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {

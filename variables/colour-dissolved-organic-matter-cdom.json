@@ -11,7 +11,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/colour_dissolved_organic_matter_cdom",
       "title": "Link"
     },
     {
@@ -21,17 +21,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-colored-dissolved-organic-matter-cdom-baltics-model.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/in-situ-measurements-baltics.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
       "type": "application/json"
     },
     {
@@ -46,12 +41,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
       "type": "application/json"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/in-situ-measurements-baltics.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-colored-dissolved-organic-matter-cdom-baltics-model.json",
       "type": "application/json"
     },
     {

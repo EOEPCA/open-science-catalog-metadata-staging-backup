@@ -1,12 +1,12 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-231",
+  "id": "particulate-inorganic-carbon-bicep",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
     "title": "Particulate Inorganic Carbon",
-    "description": "",
+    "description": "Particulate Inorganic Carbon Product, Global",
     "osc:missions": [
       "Sentinel-3"
     ],
@@ -96,7 +96,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-231.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/particulate-inorganic-carbon-bicep.xml",
       "roles": [
         "metadata"
       ]

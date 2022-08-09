@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-227",
+  "id": "global-marine-phytoplankton-primary-production-bicep",
   "properties": {
     "start_datetime": "1998-01-01T00:00:00Z",
-    "end_datetime": "2020-12-31T00:00:00Z",
+    "end_datetime": "2020-12-31T23:59:59Z",
     "title": "Monthly global Marine Phytoplankton Primary Production dataset",
     "description": "Primary production by marine phytoplankton was modelled using ocean-colour remote sensing products and a spectrally-resolved primary production model that incorporates the vertical structure of phytoplankton and simulates changes in photosynthesis as a function of irradiance using a two-parameter photosynthesis versus irradiance (P-I) function (see Kulk et al. 2020, Sathyendranath et al. 2020a, and references therein for details). Chlorophyll-a products were obtained from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI v4.2 dataset). Photosynthetic Active Radiation (PAR) products were obtained from the National Aeronautics and Space Administration (NASA) and were corrected for inter-sensor bias in products. In situ datasets of chlorophyll-a profile parameters and P-I parameters were incorporated as described in Kulk et al. (2020). Data are provided as netCDF files containing global, monthly marine phytoplankton primary production products (in mg C m-2 d-1) for the period of 1998 to 2020 at 9 km spatial resolution.",
     "osc:missions": [
@@ -18,7 +18,7 @@
     "osc:status": "COMPLETED",
     "osc:region": "Global",
     "osc:type": "Product",
-    "sci:doi": "http://dx.doi.org/10.5285/69b2c9c6c4714517ba10dab3515e4ee6",
+    "sci:doi": "10.5285/69b2c9c6c4714517ba10dab3515e4ee6",
     "datetime": "1998-01-01T00:00:00Z"
   },
   "geometry": {
@@ -71,7 +71,7 @@
     },
     {
       "rel": "cite-as",
-      "href": "https://doi.org/http%3A//dx.doi.org/10.5285/69b2c9c6c4714517ba10dab3515e4ee6"
+      "href": "https://doi.org/10.5285/69b2c9c6c4714517ba10dab3515e4ee6"
     },
     {
       "rel": "root",
@@ -101,7 +101,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-227.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/global-marine-phytoplankton-primary-production-bicep.xml",
       "roles": [
         "metadata"
       ]

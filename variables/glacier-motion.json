@@ -11,12 +11,17 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/glacier_motion",
       "title": "Link"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-greenland-s1-2.json",
       "type": "application/json"
     },
     {
@@ -26,7 +31,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-in-glacier-forefields-swissalps-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-swissalps-s1-2.json",
       "type": "application/json"
     },
     {

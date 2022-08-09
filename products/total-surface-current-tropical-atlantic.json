@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-187",
+  "id": "total-surface-current-tropical-atlantic-world-ocean-circulation",
   "properties": {
     "start_datetime": "2018-01-01T00:00:00Z",
-    "end_datetime": "2018-12-31T00:00:00Z",
+    "end_datetime": "2018-12-31T23:59:59Z",
     "title": "Total surface current_Tropical Atlantic",
     "description": "Tropical Altantic Total Surface Current,  contains the total surface current including CMEMS geostrophy and Ekman+Near-Inertial currents estimated from ERA5-10m winds with an empirically-adjusted 1D - depth model (Ubelmann et al., in prep)",
     "osc:missions": [],
@@ -13,7 +13,7 @@
       "Oceans"
     ],
     "osc:variable": "Ocean surface currents (vector)",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": "Tropical Atlantic",
     "osc:type": "Product",
     "datetime": "2018-01-01T00:00:00Z"
@@ -89,7 +89,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-187.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/total-surface-current-tropical-atlantic-world-ocean-circulation.xml",
       "roles": [
         "metadata"
       ]

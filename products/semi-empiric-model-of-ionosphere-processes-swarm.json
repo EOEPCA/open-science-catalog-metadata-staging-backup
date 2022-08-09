@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-7",
+  "id": "model-ionosphere-4dionosphere",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -15,7 +15,7 @@
       "Magnetosphere_Ionosphere"
     ],
     "osc:variable": "Ionospheric plasma density",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": null,
     "osc:type": "Product",
     "datetime": null
@@ -43,7 +43,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/swarm-space-weather-variability-of-ionospheric-plasma-swarm-vip.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/swarm-vip.json",
       "type": "application/json"
     },
     {
@@ -59,7 +59,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-7.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/model-ionosphere-4dionosphere.xml",
       "roles": [
         "metadata"
       ]

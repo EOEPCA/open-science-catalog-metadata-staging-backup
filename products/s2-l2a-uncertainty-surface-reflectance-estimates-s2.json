@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-77",
+  "id": "s2l2a-uncertainty-sr-lpf-l2arut",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-77.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/s2l2a-uncertainty-sr-lpf-l2arut.xml",
       "roles": [
         "metadata"
       ]

@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-102",
+  "id": "sea-level-variability-lpf-ovalie",
   "properties": {
     "start_datetime": "1993-01-01T00:00:00Z",
-    "end_datetime": "2015-12-31T00:00:00Z",
+    "end_datetime": "2015-12-31T23:59:59Z",
     "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations",
     "description": "This data set contains the interannual variability fields for the sea level and its steric and manometric components over 1993-2015 from the OCCIPUT ensemble simulations.",
     "osc:missions": [],
@@ -16,7 +16,7 @@
     "osc:status": "ONGOING",
     "osc:region": "Global",
     "osc:type": "Product",
-    "sci:doi": "https://doi.org/10.5281/zenodo.5564399",
+    "sci:doi": "10.5281/zenodo.5564399",
     "datetime": "1993-01-01T00:00:00Z"
   },
   "geometry": {
@@ -69,7 +69,7 @@
     },
     {
       "rel": "cite-as",
-      "href": "https://doi.org/https%3A//doi.org/10.5281/zenodo.5564399"
+      "href": "https://doi.org/10.5281/zenodo.5564399"
     },
     {
       "rel": "root",
@@ -99,7 +99,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-102.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/sea-level-variability-lpf-ovalie.xml",
       "roles": [
         "metadata"
       ]

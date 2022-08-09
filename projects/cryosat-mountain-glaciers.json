@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-36",
+  "id": "cryosat-mountain-glaciers",
   "properties": {
     "title": "CryoSat+ Mountain Glaciers",
     "description": "Quantify the volume, mass change and contribution to sea level change of mountain glaciers using CryoSat satellite radar altimeter data",
@@ -23,7 +23,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2015-05-13T00:00:00Z",
-    "end_datetime": "2020-12-31T00:00:00Z",
+    "end_datetime": "2020-12-31T23:59:59Z",
     "datetime": "2015-05-13T00:00:00Z"
   },
   "geometry": null,
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-16.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/cryosat-mountain-glaciers.xml",
       "roles": [
         "metadata"
       ]

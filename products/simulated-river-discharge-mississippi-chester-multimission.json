@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-123",
+  "id": "simulated-river-discharge-mississippi-chester-ridesat",
   "properties": {
     "start_datetime": "2016-01-01T00:00:00Z",
-    "end_datetime": "2019-12-31T00:00:00Z",
+    "end_datetime": "2019-12-31T23:59:59Z",
     "title": "Simulated River discharge_Mississippi Chester_Multimission",
     "description": "Simulated river discharge estimated from the combination of multispectral and altimetry datasets",
     "osc:missions": [
@@ -73,7 +73,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-123.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/simulated-river-discharge-mississippi-chester-ridesat.xml",
       "roles": [
         "metadata"
       ]

@@ -11,7 +11,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_chlorophyll_concentration",
       "title": "Link"
     },
     {
@@ -26,22 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-bbp-global-aeolus.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
       "type": "application/json"
     },
     {

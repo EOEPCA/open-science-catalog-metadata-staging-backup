@@ -1,0 +1,81 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "s5p-inno-sif",
+  "properties": {
+    "title": "S5p Inno - SIF",
+    "description": "Development of satellite Solar induced chlorophyll fluorescence (SIF) products",
+    "osc:name": "SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)",
+    "osc:themes": [
+      "Atmosphere",
+      "Land"
+    ],
+    "osc:status": "COMPLETED",
+    "osc:technical_officer": {
+      "name": "Christian Retscher",
+      "e-mail": "christian.retscher@esa.int"
+    },
+    "osc:consortium": [
+      "NOVELTIS SAS (FR)"
+    ],
+    "osc:type": "Project",
+    "start_datetime": "2019-07-03T00:00:00Z",
+    "end_datetime": "2021-11-09T23:59:59Z",
+    "datetime": "2019-07-03T00:00:00Z"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "via",
+      "href": "https://s5p-troposif.noveltis.fr/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/sentinel-5p-innovation-solar-induced-chlorophyll-fluorescence-sif/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-ungridded-l2b-sif-and-surface-reflectance-estimates-derived-from-tropomi.json",
+      "type": "application/json",
+      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
+    },
+    {
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/atmosphere.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s5p-inno-sif.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "iso-metadata": {
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s5p-inno-sif.xml",
+      "roles": [
+        "metadata"
+      ]
+    }
+  },
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ]
+}

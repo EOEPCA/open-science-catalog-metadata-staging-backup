@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-230",
+  "id": "export-production-bicep",
   "properties": {
     "start_datetime": "1998-01-01T00:00:00Z",
-    "end_datetime": "2019-12-31T00:00:00Z",
+    "end_datetime": "2019-12-31T23:59:59Z",
     "title": "Export Production",
     "description": "Export production can be defined as steady-state Net Community Production (NCP) with all temporal lags accounted for and with a well-defined depth horizon over which the community production is integrated over (Laws 1991). This is the net amount of carbon assimilated in the euphotic zone that will be exported to deeper waters. Export Production can by definition only vary on timescales significantly longer that any processes directly controlling production and respiration as to not violate the steady state assumption. We include Export production calculated using three different algorithms: Dunne et al, 2005, Henson et al, 2011 and Li et al, 2016.",
     "osc:missions": [
@@ -96,7 +96,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-230.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/export-production-bicep.xml",
       "roles": [
         "metadata"
       ]

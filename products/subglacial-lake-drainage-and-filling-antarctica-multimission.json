@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-3",
+  "id": "subglacial-lake-drainage-4dantarctica",
   "properties": {
     "start_datetime": "2010-01-01T00:00:00Z",
-    "end_datetime": "2019-12-31T00:00:00Z",
+    "end_datetime": "2019-12-31T23:59:59Z",
     "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission",
     "description": "Repeat Subglacial Lake Drainage and Filling Beneath Thwaites Glacier",
     "osc:missions": [
@@ -17,17 +17,18 @@
       "ENVISAT",
       "AMSR-E",
       "TanDEM-X",
-      "Landsat"
+      "Landsat-8"
     ],
     "osc:project": "4DANTARCTICA",
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:variable": "Ice sheet topography",
-    "osc:status": "ONGOING",
+    "osc:variable": "Glacier cover",
+    "osc:status": "COMPLETED",
     "osc:region": "Antarctica",
     "osc:type": "Product",
-    "sci:doi": "https://doi.org/10.1029/2020GL089658",
+    "version": "2.1",
+    "sci:doi": "10.1029/2020GL089658",
     "datetime": "2010-01-01T00:00:00Z"
   },
   "geometry": {
@@ -74,8 +75,13 @@
       "title": "Access"
     },
     {
+      "rel": "via",
+      "href": "https://4d-antarctica.org/wp-content/uploads/2021/01/Malczyk_etal_2020_data_v2.docx",
+      "title": "Documentation"
+    },
+    {
       "rel": "cite-as",
-      "href": "https://doi.org/https%3A//doi.org/10.1029/2020GL089658"
+      "href": "https://doi.org/10.1029/2020GL089658"
     },
     {
       "rel": "root",
@@ -84,7 +90,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-cover.json",
       "type": "application/json"
     },
     {
@@ -99,13 +105,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-cover.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-3.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/subglacial-lake-drainage-4dantarctica.xml",
       "roles": [
         "metadata"
       ]

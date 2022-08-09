@@ -16,37 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/4d-greenland.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/polar-ice-shelf.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/smos-seaice.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/akross.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosphere-virtual-lab.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/alpglacier.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/alpsnow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/stse-arctic.json",
       "type": "application/json"
     },
     {
@@ -56,37 +26,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/metheo.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-3-for-science-snow.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/phase-based-sentinel-1-ice-velocity.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/liam.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-arcticsummit.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-3-performance-improvement-for-ice-sheets.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-3-snow-and-ice-products.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/shape.json",
       "type": "application/json"
     },
     {
@@ -96,12 +36,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/goce-antarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryotop-evolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/arctic-earth-observation-impact-assessment.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/akross.json",
       "type": "application/json"
     },
     {
@@ -111,47 +51,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/arctic-snow-on-sea-ice.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-cassis.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/albatross.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosmos.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/eo-for-surface-mass-balance.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-iceflow.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/arctic-scientific-challenges-arkatlas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/pre-melt.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/sentinel-1-for-science-snow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/metheo.json",
       "type": "application/json"
     },
     {
@@ -161,22 +66,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/arkatlas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosat-cryotop-evolution.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/shape.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/4d-antarctica.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-mit-ap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/4d-greenland.json",
       "type": "application/json"
     },
     {
@@ -186,7 +86,107 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryotop-evolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s34science-snow.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/phab-iv.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosat-oceans.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-mit-ap.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-iceflow.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/4d-antarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/smos-seaice.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/alpsnow.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s14science-snow.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/goce-antarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/s3-snow-and-ice-products.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-cassis.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cvl.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/pre-melt.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/liam.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosmos.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/eo4smb.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/polar-ice-shelf.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/spice.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/alpglacier.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-arcticsummit.json",
       "type": "application/json"
     },
     {
@@ -196,17 +196,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/cryosat-oceans.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-thickness.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-type.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/arctic-snow-on-sea-ice.json",
       "type": "application/json"
     },
     {
@@ -216,7 +206,7 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-cover.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-elevation.json",
       "type": "application/json"
     },
     {
@@ -226,12 +216,22 @@
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-elevation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-thickness.json",
       "type": "application/json"
     },
     {
       "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-motion.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-type.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/sea-ice-cover.json",
       "type": "application/json"
     },
     {
@@ -269,14 +269,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "assets": {
-    "image": {
-      "href": "./images/EO_Cryosphere.webp",
-      "title": "image",
-      "roles": [
-        "thumbnail"
-      ]
-    }
-  }
+  "license": "proprietary"
 }

@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-2",
+  "id": "4d-antarctica",
   "properties": {
     "title": "4D-ANTARCTICA",
     "description": "Advancing the understanding of the Antarctic Ice Sheet\u201a supra and sub-glacial hydrology, its evolution, and its role within the broader ice sheet and ocean systems.",
@@ -31,7 +31,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2019-09-24T00:00:00Z",
-    "end_datetime": "2022-10-15T00:00:00Z",
+    "end_datetime": "2022-10-15T23:59:59Z",
     "datetime": "2019-09-24T00:00:00Z"
   },
   "geometry": null,
@@ -48,9 +48,81 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-melt.json",
+      "type": "application/json",
+      "title": "Subglacial Melt"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/modelled-subglacial-catchement-boundaries.json",
+      "type": "application/json",
+      "title": "Modelled subglacial catchement boundaries"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/supraglaciallake-westantarcticicesheet2017-s2l8-v1-1.json",
+      "type": "application/json",
+      "title": "SupraglacialLake_WestAntarcticIceSheet2017_S2L8_V1.1"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gravity-anomalies-from-goce-and-airborne-data.json",
+      "type": "application/json",
+      "title": "Gravity anomalies from GOCE and airborne data"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-lake-drainage-and-filling-antarctica-multimission.json",
       "type": "application/json",
       "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/modelled-subglacial-discharge-and-drainage-pathways.json",
+      "type": "application/json",
+      "title": "Modelled subglacial discharge and drainage pathways"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flux-estimate-from-aeromagnetic-data.json",
+      "type": "application/json",
+      "title": "Geothermal Heat flux estimate from aeromagnetic data"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/multifrequenciesmeltindicator-antarctica-multimission-2012-2022.json",
+      "type": "application/json",
+      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/modelled-subglacial-lake-locations.json",
+      "type": "application/json",
+      "title": "Modelled subglacial lake locations"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-melt-classification-antarctica-ascat-v1.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctica_ASCAT_v1"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/radar-brightness-antarctica-sentinel-1-v1.json",
+      "type": "application/json",
+      "title": "Radar Brightness_Antarctica_Sentinel-1_v1"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/icetemperature-antarctica-smos.json",
+      "type": "application/json",
+      "title": "IceTemperature_Antarctica_SMOS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-melt-classification-antarctic-peninsula-sentinel-1-v1.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctic-Peninsula_Sentinel-1_v1"
     },
     {
       "rel": "root",
@@ -75,7 +147,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-89.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/4d-antarctica.xml",
       "roles": [
         "metadata"
       ]

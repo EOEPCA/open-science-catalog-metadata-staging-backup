@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-84",
+  "id": "terra-p",
   "properties": {
     "title": "TerrA-P",
     "description": "Define, implement and validate a model to derive information on the vegetation productivity based on data from MERIS and Sentinel-3.",
@@ -22,7 +22,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2016-09-26T00:00:00Z",
-    "end_datetime": "2022-01-01T00:00:00Z",
+    "end_datetime": "2022-01-01T23:59:59Z",
     "datetime": "2016-09-26T00:00:00Z"
   },
   "geometry": null,
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-10.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/terra-p.xml",
       "roles": [
         "metadata"
       ]

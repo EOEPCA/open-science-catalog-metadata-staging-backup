@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-100",
+  "id": "cryosat-cryotop-evolution",
   "properties": {
     "title": "CryoSat+ CryoTop Evolution",
     "description": "Generate L2, L3 and L4 products over the Greenland and Antarctic ice sheets from swath processing of CryoSat SARIn mode data",
@@ -23,7 +23,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2016-03-03T00:00:00Z",
-    "end_datetime": "2019-11-30T00:00:00Z",
+    "end_datetime": "2019-11-30T23:59:59Z",
     "datetime": "2016-03-03T00:00:00Z"
   },
   "geometry": null,
@@ -40,18 +40,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
-      "type": "application/json",
-      "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
-      "type": "application/json",
-      "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-antarctic-ice-sheet-2011-2016-cryosat-2.json",
       "type": "application/json",
       "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
@@ -61,6 +49,18 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-gridded-topography-rates-of-surface-elevation-change-greenland-cryosat-2.json",
       "type": "application/json",
       "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-elevation-greenland-ice-sheet-2011-2016-cryosat-2.json",
+      "type": "application/json",
+      "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swath-derived-elevation-and-elevation-change-antarctic-ice-sheet-2011-2016-cryosat-2.json",
+      "type": "application/json",
+      "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "root",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-68.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/cryosat-cryotop-evolution.xml",
       "roles": [
         "metadata"
       ]

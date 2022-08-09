@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-17",
+  "id": "arctic-salinity",
   "properties": {
     "title": "Arctic + Salinity",
     "description": "Sea surface salinity measurements by L-band radiometry satellites SMOS and SMAP for the Arctic: algorithm development, long term data set production, quantification of the freshwater fluxes through SSS products",
@@ -22,7 +22,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2018-10-16T00:00:00Z",
-    "end_datetime": "2020-04-30T00:00:00Z",
+    "end_datetime": "2020-04-30T23:59:59Z",
     "datetime": "2018-10-16T00:00:00Z"
   },
   "geometry": null,
@@ -71,7 +71,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-124.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/arctic-salinity.xml",
       "roles": [
         "metadata"
       ]

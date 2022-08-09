@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-6",
+  "id": "ice-sheet-subglacial-hydrology-4dgreenland",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -15,8 +15,8 @@
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:variable": "Ice sheet topography",
-    "osc:status": "PLANNED",
+    "osc:variable": "Glacier motion",
+    "osc:status": "COMPLETED",
     "osc:region": "Greenland",
     "osc:type": "Product",
     "datetime": null
@@ -71,7 +71,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-motion.json",
       "type": "application/json"
     },
     {
@@ -86,13 +86,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/ice-sheet-topography.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/glacier-motion.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-6.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ice-sheet-subglacial-hydrology-4dgreenland.xml",
       "roles": [
         "metadata"
       ]

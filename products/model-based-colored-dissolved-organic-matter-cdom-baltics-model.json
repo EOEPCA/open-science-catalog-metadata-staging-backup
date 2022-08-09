@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-43",
+  "id": "model-based-cdom-baltic-sealabio",
   "properties": {
     "start_datetime": "2016-01-01T00:00:00Z",
-    "end_datetime": "2019-12-31T00:00:00Z",
+    "end_datetime": "2019-12-31T23:59:59Z",
     "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model",
     "description": "Concentrations (expressed with absorption values) of Colored Dissolved Organic Matter (CDOM) simulated with the Ecological Regional Ocean Model (ERGOM). In this simulation river discharge and CDOM values estimated with Sentinel-2 data from 69 river mouth areas were used as input data. The results are visualized in TARKKA (https://wwwi4.ymparisto.fi/i4/eng/tarkka/index.html?type=ERGOM_CDOM&lang=en). The corresponding GeoTiff files are available in WAF (http://eo.ymparisto.fi/data/water/Baltic_SeaLaBio/ERGOM_results/P95/).",
     "osc:missions": [
@@ -76,7 +76,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/baltic-sea-land-biogeochemical-links.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/baltic-sea-land.json",
       "type": "application/json"
     },
     {
@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-43.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/model-based-cdom-baltic-sealabio.xml",
       "roles": [
         "metadata"
       ]

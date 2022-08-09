@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-116",
+  "id": "lpf-ovalie",
   "properties": {
     "title": "(LPF) OVALIE",
     "description": "Global mean sea level rise is one of the most direct consequences of actual global warming. Since the beginning of the 20th century, global mean sea level experiences an unabated increase of 1.1-1.9 mm.yr-1 recorded by tide gauges. Based on satellite altimetry and since 1993, global mean sea level rises at a higher rate of 3 mm.yr-1. This higher rate denotes a possible acceleration in this global rise. Actual global mean sea level rise mainly reflects global ocean warming (through thermal expansion of sea water) and land ice melt (from Greenland, Antarctica and mountain glaciers). Monitoring precisely these climate variables is mandatory to better understand processes at work under current global warming and to validate climate models used for projections. The OVALIE project proposes to scientifically investigate and partition the respective contribution of the atmospheric forced variability versus the oceanic intrinsic variability for the sea level observations (satellite data -based on Topex/Poseidon, Jason 1-2-3, ERS1, ERS2, ENVISAT, Altika and GRACE- and in situ measurements \u2013based on Argo floats and other in situ measurements).\n",
@@ -19,7 +19,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2018-10-17T00:00:00Z",
-    "end_datetime": "2020-10-31T00:00:00Z",
+    "end_datetime": "2020-10-31T23:59:59Z",
     "datetime": "2018-10-17T00:00:00Z"
   },
   "geometry": null,
@@ -36,15 +36,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
-      "type": "application/json",
-      "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
       "type": "application/json",
       "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
+      "type": "application/json",
+      "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
     },
     {
       "rel": "root",
@@ -69,7 +69,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-108.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-ovalie.xml",
       "roles": [
         "metadata"
       ]

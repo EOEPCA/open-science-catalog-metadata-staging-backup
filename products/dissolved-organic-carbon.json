@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-229",
+  "id": "dissolved-organic-carbon-bicep",
   "properties": {
     "start_datetime": "2010-01-01T00:00:00Z",
-    "end_datetime": "2018-12-31T00:00:00Z",
+    "end_datetime": "2018-12-31T23:59:59Z",
     "title": "Dissolved Organic Carbon",
     "description": "By using in situ data set from Hansell et al. 2021 (https://doi.org/10.25921/s4f4-ye35) a random forest regression model for near surface ocean Dissolved Organic Carbon (DOC) is trained. The model used ocean colour Earth observation reflectances, phytoplankton primary production (PP), sea surface temperature (SST), salinity and geographical information as predictors. The model has been used to produce monthly global marine DOC for years 2010-2019 using global monthly version of the predictors, namely Ocean Colour, PP, Salinity and SST.",
     "osc:missions": [
@@ -18,7 +18,7 @@
     "osc:status": "COMPLETED",
     "osc:region": "Global",
     "osc:type": "Product",
-    "sci:doi": "https://doi.org/10.25921/s4f4-ye35",
+    "sci:doi": "10.25921/s4f4-ye35",
     "datetime": "2010-01-01T00:00:00Z"
   },
   "geometry": {
@@ -61,12 +61,17 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0227166",
       "title": "Access"
     },
     {
+      "rel": "via",
+      "href": "https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0227166",
+      "title": "Documentation"
+    },
+    {
       "rel": "cite-as",
-      "href": "https://doi.org/https%3A//doi.org/10.25921/s4f4-ye35"
+      "href": "https://doi.org/10.25921/s4f4-ye35"
     },
     {
       "rel": "root",
@@ -96,7 +101,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-229.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/dissolved-organic-carbon-bicep.xml",
       "roles": [
         "metadata"
       ]

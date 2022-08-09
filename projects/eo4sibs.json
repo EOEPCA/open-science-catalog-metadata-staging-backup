@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-42",
+  "id": "eo4sibs",
   "properties": {
     "title": "EO4SIBS",
     "description": "Novel EO-based products and enhanced data sets dedicated to the Black Sea as concerns: Ocean colour data, Coastal altimetry, High resolution salinity, River plume extent, Eddy tracking, Water mass classification, Stratification Index",
@@ -26,7 +26,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2019-04-26T00:00:00Z",
-    "end_datetime": "2021-05-03T00:00:00Z",
+    "end_datetime": "2021-05-03T23:59:59Z",
     "datetime": "2019-04-26T00:00:00Z"
   },
   "geometry": null,
@@ -43,27 +43,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-sea-level-anomaly-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
       "type": "application/json",
-      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-product-sss-0-05deg-0-0505deg.json",
-      "type": "application/json",
-      "title": "Level 4 product SSS, 0.05\u00b0*0.0505\u00b0"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-turbidity-300m-daily-and-monthly.json",
-      "type": "application/json",
-      "title": "Level 3 Turbidity, 300m, daily and monthly"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-2-smos-descending-orbit-0-25deg-0-25deg-daily-averaged-produced-daily.json",
-      "type": "application/json",
-      "title": "Level 2 SMOS , Descending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
     },
     {
       "rel": "item",
@@ -79,15 +61,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-product-sss-0-05deg-0-0505deg.json",
       "type": "application/json",
-      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-suspended-particulate-matter-300m-daily-and-monthly.json",
-      "type": "application/json",
-      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
+      "title": "Level 4 product SSS, 0.05\u00b0*0.0505\u00b0"
     },
     {
       "rel": "item",
@@ -97,15 +73,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-geostrophic-currents-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-2-smos-descending-orbit-0-25deg-0-25deg-daily-averaged-produced-daily.json",
       "type": "application/json",
-      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-absolute-dynamic-topography-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
-      "type": "application/json",
-      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+      "title": "Level 2 SMOS , Descending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
     },
     {
       "rel": "item",
@@ -115,51 +85,39 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-cryosat-2-2011-2019-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-ocean-colour-products-chl-a-300m-daily.json",
       "type": "application/json",
-      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-cryosat-2-2011-2019-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
-      "type": "application/json",
-      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
-      "type": "application/json",
-      "title": "Level 3 Chl-a, 300m daily and monthly"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-sentinel-3a-mid-2016-2018-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
-      "type": "application/json",
-      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-sea-level-anomaly-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
-      "type": "application/json",
-      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
-      "type": "application/json",
-      "title": "Level 3 Chl-a, 300m daily and monthly"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eddy-census.json",
-      "type": "application/json",
-      "title": "Eddy census"
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-2-smos-ascending-orbit-0-25deg-0-25deg-daily-averaged-produced-daily.json",
       "type": "application/json",
       "title": "Level 2 SMOS , Ascending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-geostrophic-currents-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-chl-a-300m-daily-and-monthly.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-cryosat-2-2011-2019-along-track-5hz-product-sea-level-anomaly-1km-resolution.json",
+      "type": "application/json",
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eddy-census.json",
+      "type": "application/json",
+      "title": "Eddy census"
     },
     {
       "rel": "item",
@@ -190,7 +148,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-15.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/eo4sibs.xml",
       "roles": [
         "metadata"
       ]

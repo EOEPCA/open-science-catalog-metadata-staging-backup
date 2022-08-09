@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-97",
+  "id": "dem-antarctica-2013-lpf-mitap",
   "properties": {
     "start_datetime": "2013-01-01T00:00:00Z",
-    "end_datetime": "2013-12-31T00:00:00Z",
+    "end_datetime": "2013-12-31T23:59:59Z",
     "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X",
     "description": "Digital Elevation Model of the Antarctic Peninsula based on multiple TanDEM-X acquisitions during austral winter 2013",
     "osc:missions": [
@@ -15,7 +15,7 @@
       "Cryosphere"
     ],
     "osc:variable": "Ice sheet topography",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": "Antarctica",
     "osc:type": "Product",
     "datetime": "2013-01-01T00:00:00Z"
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-97.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/dem-antarctica-2013-lpf-mitap.xml",
       "roles": [
         "metadata"
       ]

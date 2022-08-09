@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-2",
+  "id": "crust-and-upper-mantle-model-3d-earth",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-2.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/crust-and-upper-mantle-model-3d-earth.xml",
       "roles": [
         "metadata"
       ]

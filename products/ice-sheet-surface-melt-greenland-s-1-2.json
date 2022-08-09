@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-4",
+  "id": "ice-sheet-surface-melt-4dgreenland",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -16,7 +16,7 @@
       "Cryosphere"
     ],
     "osc:variable": "Ice sheet topography",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": "Greenland",
     "osc:type": "Product",
     "datetime": null
@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-4.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ice-sheet-surface-melt-4dgreenland.xml",
       "roles": [
         "metadata"
       ]

@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-37",
+  "id": "cryosmos",
   "properties": {
     "title": "CryoSMOS",
     "description": "Testing the capabilities of SMOS for monitoring Antarctica's ice sheet and ice shelves, focusing on 4 case studies: the estimate of the temperature profile of the ice sheet;the capability of investigating bedrock topography; the study of the ice shelves stability ; the monitoring of wet snow.",
@@ -24,7 +24,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2014-09-23T00:00:00Z",
-    "end_datetime": "2017-10-31T00:00:00Z",
+    "end_datetime": "2017-10-31T23:59:59Z",
     "datetime": "2014-09-23T00:00:00Z"
   },
   "geometry": null,
@@ -41,15 +41,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/internal-ice-sheet-temperature-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/occurrence-of-surface-melting-antarctica-smos.json",
       "type": "application/json",
-      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
+      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bedrock-topography-and-or-geothermal-heat-flux-antarctica-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/internal-ice-sheet-temperature-antarctica-smos.json",
       "type": "application/json",
-      "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
+      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
     },
     {
       "rel": "item",
@@ -59,9 +59,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/occurrence-of-surface-melting-antarctica-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bedrock-topography-and-or-geothermal-heat-flux-antarctica-goce.json",
       "type": "application/json",
-      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
+      "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
     },
     {
       "rel": "root",
@@ -86,7 +86,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-28.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/cryosmos.xml",
       "roles": [
         "metadata"
       ]

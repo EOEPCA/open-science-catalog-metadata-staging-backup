@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-71",
+  "id": "prisma-s5p-for-covid-19",
   "properties": {
     "title": "PRISMA+S5p for COVID-19",
     "description": "Investigate the possibility to exploit PRISMA (PRecursore IperSpettrale della Missione Applicativa, an Italian Space Agency (ASI) hyperspectral mission) fine resolution measurements together with daily S5P/TROPOMI and AERONET measurements for motoring environmental dynamics associated with COVID-19 epidemic appearance and evolution in regional scale.",
@@ -24,7 +24,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-07-24T00:00:00Z",
-    "end_datetime": "2021-06-16T00:00:00Z",
+    "end_datetime": "2021-06-16T23:59:59Z",
     "datetime": "2020-07-24T00:00:00Z"
   },
   "geometry": null,
@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-98.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/prisma-s5p-for-covid-19.xml",
       "roles": [
         "metadata"
       ]

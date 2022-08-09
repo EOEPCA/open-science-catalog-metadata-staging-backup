@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-99",
+  "id": "lpf-solve",
   "properties": {
     "title": "(LPF) SOLVE",
     "description": "This project aims at investigating long-term ozone changes over the last two decades, by exploiting ESA and NASA limb satellite instruments. In particular, we build on the expertise at the University of Bremen acquired with SCIAMACHY data and use OMPS-LP satellite measurements to bridge the gap in limb observations before the ALTIUS launch. All these instruments exploit the same measurement technique, i.e. they collect scattered solar light in limb geometry.",
@@ -19,7 +19,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-09-11T00:00:00Z",
-    "end_datetime": "2023-11-01T00:00:00Z",
+    "end_datetime": "2023-11-01T23:59:59Z",
     "datetime": "2020-09-11T00:00:00Z"
   },
   "geometry": null,
@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-78.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-solve.xml",
       "roles": [
         "metadata"
       ]

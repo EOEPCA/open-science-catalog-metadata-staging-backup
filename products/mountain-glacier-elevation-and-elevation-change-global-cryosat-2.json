@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-69",
+  "id": "glacier-elevation-cryosat-mountain-glaciers",
   "properties": {
     "start_datetime": "2010-01-01T00:00:00Z",
-    "end_datetime": "2015-12-31T00:00:00Z",
+    "end_datetime": "2015-12-31T23:59:59Z",
     "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2",
     "description": "Available by request to: noel.gourmelen@ed.ac.uk",
     "osc:missions": [
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-69.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/glacier-elevation-cryosat-mountain-glaciers.xml",
       "roles": [
         "metadata"
       ]

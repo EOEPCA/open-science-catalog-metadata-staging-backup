@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-33",
+  "id": "costo",
   "properties": {
     "title": "COSTO",
     "description": "The main objective of COSTO (Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards) project is to better characterize, understand and discover coupling processes and interactions between the ionosphere/magnetosphere, the lower atmosphere and the Earth\u2019s surface and sea level vertical displacements. The proposed research effort targets to tsunamis that are the result of earthquakes, volcano eruptions or landslides. An early warning for tsunami occurrence, and especially an estimation of the amplitude of a tsunami are still a challenge.",
@@ -23,7 +23,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2019-02-22T00:00:00Z",
-    "end_datetime": "2020-10-28T00:00:00Z",
+    "end_datetime": "2020-10-28T23:59:59Z",
     "datetime": "2019-02-22T00:00:00Z"
   },
   "geometry": null,
@@ -66,13 +66,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/magnetosphere-ionosphere.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-79.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/costo.xml",
       "roles": [
         "metadata"
       ]

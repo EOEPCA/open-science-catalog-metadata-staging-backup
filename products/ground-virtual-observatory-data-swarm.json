@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-166",
+  "id": "ground-virtual-observatory-swarm-4d-earth-swarm",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-166.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ground-virtual-observatory-swarm-4d-earth-swarm.xml",
       "roles": [
         "metadata"
       ]

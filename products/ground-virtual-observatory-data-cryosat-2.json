@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-168",
+  "id": "ground-virtual-observatory-cryosat2-4d-earth-swarm",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -60,7 +60,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-168.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ground-virtual-observatory-cryosat2-4d-earth-swarm.xml",
       "roles": [
         "metadata"
       ]

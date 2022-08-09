@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-10",
+  "id": "cdom-aeolus-innovation-color",
   "properties": {
     "start_datetime": null,
     "end_datetime": null,
@@ -15,7 +15,7 @@
       "Oceans"
     ],
     "osc:variable": "Colour Dissolved Organic Matter (CDOM)",
-    "osc:status": "PLANNED",
+    "osc:status": "COMPLETED",
     "osc:region": "Global",
     "osc:type": "Product",
     "datetime": null
@@ -75,7 +75,7 @@
     },
     {
       "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/aeolus-inno-color.json",
       "type": "application/json"
     },
     {
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-10.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/cdom-aeolus-innovation-color.xml",
       "roles": [
         "metadata"
       ]

@@ -1,10 +1,10 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "product-179",
+  "id": "total-column-h2o-hdo-cloudy-lpf-wift",
   "properties": {
     "start_datetime": "2017-01-01T00:00:00Z",
-    "end_datetime": "2022-12-31T00:00:00Z",
+    "end_datetime": "2022-12-31T23:59:59Z",
     "title": "HDO/H2O scattering product_S5p-TROPOMI",
     "description": "total columns of H2O and HDO for cloudy and clear-sky scenes",
     "osc:missions": [
@@ -91,7 +91,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/product-179.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/total-column-h2o-hdo-cloudy-lpf-wift.xml",
       "roles": [
         "metadata"
       ]

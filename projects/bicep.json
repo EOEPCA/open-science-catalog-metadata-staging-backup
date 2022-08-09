@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "project-28",
+  "id": "bicep",
   "properties": {
     "title": "BICEP",
     "description": "Better characterisation of the different components of the ocean biological carbon pump, its pools and fluxes, its variability in space and time and the understanding of its processes and interactions with the earth system, based on a synergetic use of space data, in-situ measurements and model outputs",
@@ -25,7 +25,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2019-12-09T00:00:00Z",
-    "end_datetime": "2021-07-13T00:00:00Z",
+    "end_datetime": "2021-07-13T23:59:59Z",
     "datetime": "2019-12-09T00:00:00Z"
   },
   "geometry": null,
@@ -42,21 +42,21 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-particulate-organic-carbon-dataset-4-km-oc-cci-v5.json",
       "type": "application/json",
       "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
       "type": "application/json",
-      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
-      "type": "application/json",
-      "title": "Particulate Inorganic Carbon"
+      "title": "Export Production"
     },
     {
       "rel": "item",
@@ -66,15 +66,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/monthly-global-marine-phytoplankton-primary-production-dataset.json",
       "type": "application/json",
-      "title": "Dissolved Organic Carbon"
+      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon.json",
       "type": "application/json",
-      "title": "Export Production"
+      "title": "Dissolved Organic Carbon"
     },
     {
       "rel": "item",
@@ -105,7 +105,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/project-33.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/bicep.xml",
       "roles": [
         "metadata"
       ]
