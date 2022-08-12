@@ -1059,5 +1059,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "image": {
+      "href": "./images/EO_Atmosphere.webp",
+      "title": "image",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
 }

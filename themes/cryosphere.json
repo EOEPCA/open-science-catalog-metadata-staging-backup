@@ -269,5 +269,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "image": {
+      "href": "./images/EO_Cryosphere.webp",
+      "title": "image",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
 }
