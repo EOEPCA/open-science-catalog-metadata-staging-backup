@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-content-wet-snow-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-water-equivalent-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-water-equivalent-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {

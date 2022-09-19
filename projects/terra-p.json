@@ -23,6 +23,7 @@
     "osc:type": "Project",
     "start_datetime": "2016-09-26T00:00:00Z",
     "end_datetime": "2022-01-01T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2016-09-26T00:00:00Z"
   },
   "geometry": null,
@@ -60,7 +61,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/terra-p.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/terra-p.xml",
       "roles": [
         "metadata"
       ]
@@ -68,5 +69,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Land"
 }

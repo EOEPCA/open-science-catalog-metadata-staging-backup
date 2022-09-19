@@ -28,6 +28,7 @@
     "osc:type": "Project",
     "start_datetime": "2020-10-20T00:00:00Z",
     "end_datetime": "2022-12-01T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2020-10-20T00:00:00Z"
   },
   "geometry": null,
@@ -44,39 +45,39 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-area-extent-for-european-alps-multimission.json",
-      "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-depth-for-european-alps-multimission.json",
-      "type": "application/json",
-      "title": "Snow depth for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-content-wet-snow-for-european-alps-multimission.json",
-      "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-for-european-alps-multimission.json",
-      "type": "application/json",
-      "title": "Snow albedo for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-size-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-europe-alps-alpsnow.json",
       "type": "application/json",
       "title": "Snow grain size for European Alps_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-water-equivalent-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-depth-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow depth for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-area-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow area extent for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-water-equivalent-europe-alps-alpsnow.json",
       "type": "application/json",
       "title": "Snow water equivalent for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow albedo for European Alps_Multimission"
     },
     {
       "rel": "root",
@@ -101,7 +102,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/alpsnow.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/alpsnow.xml",
       "roles": [
         "metadata"
       ]
@@ -109,5 +110,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Cryosphere"
 }

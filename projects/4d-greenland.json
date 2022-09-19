@@ -28,6 +28,7 @@
     "osc:type": "Project",
     "start_datetime": "2020-08-26T00:00:00Z",
     "end_datetime": "2022-09-01T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2020-08-26T00:00:00Z"
   },
   "geometry": null,
@@ -44,21 +45,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-greenland-s1-2.json",
-      "type": "application/json",
-      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-surface-melt-greenland-s-1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-surface-melt-4dgreenland.json",
       "type": "application/json",
       "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extent-and-volume-of-hydrological-surface-features-greenland-s1-2.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrological-surface-features-4dgreenland.json",
       "type": "application/json",
       "title": "Extent and volume of hydrological surface features_Greenland_S1/2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
+      "type": "application/json",
+      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
     },
     {
       "rel": "root",
@@ -83,7 +84,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/4d-greenland.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/4d-greenland.xml",
       "roles": [
         "metadata"
       ]
@@ -91,5 +92,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Cryosphere"
 }

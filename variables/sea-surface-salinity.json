@@ -16,47 +16,47 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-sss-0-25deg-0-25deg-9-day-averaged-produced-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l4-sss-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-product-sss-0-05deg-0-0505deg.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-surface-salinity-europe-smos-med.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l4-maps-v-2-0-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-2-smos-descending-orbit-0-25deg-0-25deg-daily-averaged-produced-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l2-smos-sss-daily-descending-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l3-maps-v-2-0-baltics-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l3-baltic-salinity-dynamics.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l4-interpolated-sea-surface-salinity-europe-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-surface-salinity-godae-oceanview.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-2-smos-ascending-orbit-0-25deg-0-25deg-daily-averaged-produced-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l3-sss-9day-average-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-surface-salinity-l2-orbits-and-l3-maps-v-3-1-arctic-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l2-smos-sss-daily-ascending-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-surface-salinity-bias-global-smos.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-surface-salinity-arctic-salinity.json",
       "type": "application/json"
     },
     {

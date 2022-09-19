@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stratospheric-ozone-column-from-limb-satellites-global.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stratospheric-ozone-column-limb-sunlit.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iup-omps-l2-and-l3-limb-ozone-data-sets-global-s2-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/limb-ozone-lpf-solve.json",
       "type": "application/json"
     },
     {

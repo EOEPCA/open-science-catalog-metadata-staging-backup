@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-regional-s3a-slstr.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-circas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-for-european-alps-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-europe-alps-alpsnow.json",
       "type": "application/json"
     },
     {

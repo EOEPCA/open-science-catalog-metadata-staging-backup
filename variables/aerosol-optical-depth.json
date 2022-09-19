@@ -16,77 +16,77 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lidar-aerosol-retrieval-based-on-information-from-surface-signal-of-aeolus-global-oceans-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-mass-op-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-and-aerosol-products-regional-s3a-slstr.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-op-all-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-depth-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-all-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-stratospheric-aerosol-and-cloud-optical-property-profiles-global-calipso-earthcare.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-od-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-property-profiles-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-property-profiles-global-calipso-earthcare.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-od-all-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-depth-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-boundaries-of-dust-layers-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-strat-aerosol-cloud-op-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-aerosol-optical-depth-aod-global-calipso-earthcare.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-od-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-property-profiles-dust-mass-concentration-profiles-cloud-relevant-dust-number-concentrations-profiles-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-all-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-depth-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-od-averaged-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/climatology-of-stratospheric-aerosol-and-cloud-optical-depth-global-calipso-earthcare.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-based-climatology-of-aerosol-optical-property-profiles-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-strat-aerosol-cloud-od-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-optical-depth-dod-of-dust-layers-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-based-climatology-of-aerosol-optical-depth-for-all-aerosols-and-separately-for-the-calipso-aerosol-types-pure-dust-marine-smoke-and-continental-boundaries-of-dust-layers-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lidar-aerosol-aeolus-swails.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-and-dust-aerosol-optical-property-profiles-pure-dust-concentration-profiles-cloud-relevant-dust-number-concentrations-profiles-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-pure-dust-op-livas.json",
       "type": "application/json"
     },
     {

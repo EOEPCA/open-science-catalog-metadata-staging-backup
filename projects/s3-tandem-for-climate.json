@@ -26,6 +26,7 @@
     "osc:type": "Project",
     "start_datetime": "2018-05-28T00:00:00Z",
     "end_datetime": "2020-03-16T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2018-05-28T00:00:00Z"
   },
   "geometry": null,
@@ -63,7 +64,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s3-tandem-for-climate.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/s3-tandem-for-climate.xml",
       "roles": [
         "metadata"
       ]
@@ -71,5 +72,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Oceans"
 }

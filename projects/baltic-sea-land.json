@@ -25,6 +25,7 @@
     "osc:type": "Project",
     "start_datetime": "2018-12-14T00:00:00Z",
     "end_datetime": "2020-05-31T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2018-12-14T00:00:00Z"
   },
   "geometry": null,
@@ -41,30 +42,25 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/in-situ-measurements-baltics.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/in-situ-sealabio.json",
       "type": "application/json",
       "title": "In-situ measurements_Baltics"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-color-disolved-organic-matter-baltics-s3.json",
-      "type": "application/json",
-      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-colored-dissolved-organic-matter-cdom-baltics-model.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-cdom-baltic-sealabio.json",
       "type": "application/json",
       "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
-      "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
-      "type": "application/json"
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-cdom-baltic-sealabio.json",
+      "type": "application/json",
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
     },
     {
-      "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -79,13 +75,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/baltic-sea-land.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/baltic-sea-land.xml",
       "roles": [
         "metadata"
       ]
@@ -93,5 +89,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Land"
 }

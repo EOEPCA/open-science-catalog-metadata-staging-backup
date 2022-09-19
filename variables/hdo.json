@@ -16,27 +16,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-non-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-h2o-scattering-product-s5p-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-total-column-tropomi-clear-sky-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/extended-scientific-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-total-column-tropomi-extended-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gosat-pbl-xh2o-and-stable-water-vapour-isotopologues-global.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/water-vapour-isotopologues-lpf-weather.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clear-sky-hdo-h2o-total-column-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
       "type": "application/json"
     },
     {

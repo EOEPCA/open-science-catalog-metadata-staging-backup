@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon-bicep.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-dissolved-inorganic-carbon-global-v2021.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-omega-aragonite-saturation-oceansoda.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-omega-aragonite-saturation-state-global-v2021.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-dic-oceansoda.json",
       "type": "application/json"
     },
     {

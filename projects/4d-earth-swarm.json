@@ -26,6 +26,7 @@
     "osc:type": "Project",
     "start_datetime": "2019-04-16T00:00:00Z",
     "end_datetime": "2022-04-30T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2019-04-16T00:00:00Z"
   },
   "geometry": null,
@@ -42,78 +43,73 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-swarm.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data SWARM"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/webgeodyn-python-package.json",
-      "type": "application/json",
-      "title": "Webgeodyn Python package"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-splinecoefficients.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-cryosat-2.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-core.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model.json",
-      "type": "application/json",
-      "title": "CHAOS field model"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-observatory-data.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-observatory-data-4d-earth-swarm.json",
       "type": "application/json",
       "title": "Ground Observatory data"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-oersted.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-spline-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
+      "title": "CHAOS field model_SplineCoefficients"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-data-earth-core.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-swarm-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
+      "title": "Ground Virtual Observatory Data SWARM"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-data-champ.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-champ-4d-earth-swarm.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data CHAMP"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vector-and-scalar-satellite-data-files-as-used-in-the-chaos-field-model.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "CHAOS field model"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-oersted-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data OERSTED"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-core-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "CHAOS field model_Core"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-data-chaos-field-model-4d-earth-swarm.json",
       "type": "application/json",
       "title": "Vector and scalar satellite data files as used in the CHAOS field model"
     },
     {
-      "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
-      "type": "application/json"
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Geodynamo simulation data_Earth core"
     },
     {
-      "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/webgeodyn-py-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Webgeodyn Python package"
+    },
+    {
+      "rel": "root",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
       "type": "application/json"
     },
     {
@@ -134,7 +130,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/4d-earth-swarm.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/4d-earth-swarm.xml",
       "roles": [
         "metadata"
       ]
@@ -142,5 +138,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Magnetosphere_Ionosphere"
 }

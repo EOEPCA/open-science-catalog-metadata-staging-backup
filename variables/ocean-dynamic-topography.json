@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-4-absolute-dynamic-topography-multi-mission-gridded-merged-products-for-a-period-of-1-year-0-0625deg-0-0625deg-daily.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-variability-lpf-ovalie.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/atmospherically-forced-and-chaotic-interannual-variability-of-the-sea-level-and-its-components-over-1993-2015-from-the-occiput-ensemble-simulations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-lpf-ovalie.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-level-trends-over-1993-2015-and-2005-2015-from-the-occiput-ensemble-simulation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l4-dynamic-topography-eo4sibs.json",
       "type": "application/json"
     },
     {

@@ -16,22 +16,32 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-op-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-depth-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-cloud-profile-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-averaged-per-overpass-along-1x1-degree-grid-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-op-averaged-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-optical-property-profiles-global-calipso.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-od-livas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cliima-cloud-od-livas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-od-averaged-livas.json",
       "type": "application/json"
     },
     {

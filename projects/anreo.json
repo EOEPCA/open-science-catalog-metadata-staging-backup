@@ -20,6 +20,7 @@
     "osc:type": "Project",
     "start_datetime": "2020-03-25T00:00:00Z",
     "end_datetime": "2021-07-05T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2020-03-25T00:00:00Z"
   },
   "geometry": null,
@@ -36,7 +37,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-ozone-product-from-olci-s-3-antarctica-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-ozone-anreo.json",
       "type": "application/json",
       "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
     },
@@ -63,7 +64,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/anreo.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/anreo.xml",
       "roles": [
         "metadata"
       ]
@@ -71,5 +72,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Atmosphere"
 }

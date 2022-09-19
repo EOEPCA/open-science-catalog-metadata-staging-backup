@@ -22,6 +22,7 @@
     "osc:type": "Project",
     "start_datetime": "2019-02-22T00:00:00Z",
     "end_datetime": "2020-11-30T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2019-02-22T00:00:00Z"
   },
   "geometry": null,
@@ -38,7 +39,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sudden-stratospheric-warming-ssw.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sudden-stratospheric-warming-vera.json",
       "type": "application/json",
       "title": "Sudden Stratospheric Warming (SSW)"
     },
@@ -65,7 +66,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/vera.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/vera.xml",
       "roles": [
         "metadata"
       ]
@@ -73,5 +74,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Magnetosphere_Ionosphere"
 }

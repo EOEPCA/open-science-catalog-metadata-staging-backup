@@ -21,6 +21,7 @@
     "osc:type": "Project",
     "start_datetime": "2017-07-17T00:00:00Z",
     "end_datetime": "2019-10-02T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2017-07-17T00:00:00Z"
   },
   "geometry": null,
@@ -37,21 +38,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-and-aerosol-products-regional-s3a-slstr.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/radiation-budget-circas.json",
       "type": "application/json",
-      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
+      "title": "Radiation budget_Regional_S3"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-regional-s3a-slstr.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-circas.json",
       "type": "application/json",
       "title": "Albedo_Regional_S3A/SLSTR"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/radiation-budget-regional-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
       "type": "application/json",
-      "title": "Radiation budget_Regional_S3"
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
     },
     {
       "rel": "root",
@@ -76,7 +77,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/circas.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/circas.xml",
       "roles": [
         "metadata"
       ]
@@ -84,5 +85,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Atmosphere"
 }

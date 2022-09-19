@@ -16,7 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-ungridded-l2b-sif-and-surface-reflectance-estimates-derived-from-tropomi.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l2b-sif-surface-reflectance-tropomi-troposif.json",
       "type": "application/json"
     },
     {

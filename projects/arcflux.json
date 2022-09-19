@@ -22,6 +22,7 @@
     "osc:type": "Project",
     "start_datetime": "2016-06-25T00:00:00Z",
     "end_datetime": "2018-03-01T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2016-06-25T00:00:00Z"
   },
   "geometry": null,
@@ -38,7 +39,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ocean-freshwater-fluxes-arctic-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ocean-freshwater-flux-arctic-theme3.json",
       "type": "application/json",
       "title": "Ocean freshwater fluxes_Arctic_Multimission"
     },
@@ -65,7 +66,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/arcflux.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/arcflux.xml",
       "roles": [
         "metadata"
       ]
@@ -73,5 +74,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Cryosphere"
 }

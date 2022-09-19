@@ -26,6 +26,7 @@
     "osc:type": "Project",
     "start_datetime": "2019-10-22T00:00:00Z",
     "end_datetime": "2020-11-12T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2019-10-22T00:00:00Z"
   },
   "geometry": null,
@@ -42,15 +43,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flow-greenland-3d-earth.json",
       "type": "application/json",
-      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
+      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flow-database-and-map-greenland-goce-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/crust-and-upper-mantle-model-3d-earth.json",
       "type": "application/json",
-      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
+      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
     },
     {
       "rel": "root",
@@ -75,7 +76,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/3d-earth.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/3d-earth.xml",
       "roles": [
         "metadata"
       ]
@@ -83,5 +84,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Solid Earth"
 }

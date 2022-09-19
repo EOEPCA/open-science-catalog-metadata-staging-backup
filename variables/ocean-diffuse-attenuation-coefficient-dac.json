@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-kd-global-aeolus.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l3-turbidity-daily-monthly-eo4sibs.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/level-3-turbidity-300m-daily-and-monthly.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-aeolus-innovation-color.json",
       "type": "application/json"
     },
     {

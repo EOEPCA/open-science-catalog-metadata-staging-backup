@@ -16,22 +16,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/goce-antarctica.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/costo.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-vmdl.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/vista.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/goce-antarctica.json",
       "type": "application/json"
     },
     {
@@ -45,8 +40,8 @@
       "type": "application/json"
     },
     {
-      "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-gradients.json",
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/lpf-vmdl.json",
       "type": "application/json"
     },
     {
@@ -57,6 +52,11 @@
     {
       "rel": "child",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/geothermal-energy.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/variables/gravity-gradients.json",
       "type": "application/json"
     },
     {

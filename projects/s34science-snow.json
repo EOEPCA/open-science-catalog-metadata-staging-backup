@@ -24,6 +24,7 @@
     "osc:type": "Project",
     "start_datetime": "2016-11-10T00:00:00Z",
     "end_datetime": "2019-03-31T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2016-11-10T00:00:00Z"
   },
   "geometry": null,
@@ -40,30 +41,25 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-greenland-s34science-snow.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-greenland-s34science-snow.json",
       "type": "application/json",
       "title": "Snow grain diameter_Greenland_S3"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-greenland-s3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/broadband-albedo-greenland-s34science-snow.json",
       "type": "application/json",
       "title": "Broadband albedo_Greenland_S3"
     },
     {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-greenland-s3.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Greenland_S3"
-    },
-    {
       "rel": "root",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/catalog.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "collection",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     },
     {
@@ -84,7 +80,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s34science-snow.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/s34science-snow.xml",
       "roles": [
         "metadata"
       ]
@@ -92,5 +88,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Land"
 }

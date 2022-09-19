@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-level-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-level-baltic-seal.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-data-deviation-from-sea-level-mean-multimission.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-baltic-seal.json",
       "type": "application/json"
     },
     {

@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/modelled-subglacial-catchement-boundaries.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-lakes-4dantarctica.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-models-of-alpine-lakes-western-europe-s2-3.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-catchements-4dantarctica.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/modelled-subglacial-lake-locations.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-alpine-lakes-s24land.json",
       "type": "application/json"
     },
     {

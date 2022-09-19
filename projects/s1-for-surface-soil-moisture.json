@@ -23,6 +23,7 @@
     "osc:type": "Project",
     "start_datetime": "2016-10-20T00:00:00Z",
     "end_datetime": "2018-11-01T23:59:59Z",
+    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2016-10-20T00:00:00Z"
   },
   "geometry": null,
@@ -39,7 +40,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-soil-moisture-time-series-1-km-resolution-southern-italy-s1.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-soil-moisture-s1-for-surface-soil-moisture.json",
       "type": "application/json",
       "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
     },
@@ -66,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s1-for-surface-soil-moisture.xml",
+      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/s1-for-surface-soil-moisture.xml",
       "roles": [
         "metadata"
       ]
@@ -74,5 +75,6 @@
   },
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
-  ]
+  ],
+  "collection": "Land"
 }
