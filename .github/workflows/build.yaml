@@ -7,10 +7,15 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: true
+          fetch-depth: 2
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v29.0.7
+        with:
+          separator: ','
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -21,8 +26,9 @@ jobs:
         run: |
           sudo apt install -y proj-bin libproj-dev
           pip install open-science-catalog-builder/
-          # osc build data/ -o dist/ --root-href "https://metadata.osc.develop.eoepca.org/open-science-catalog-metadata-staging/"
-          osc build data/ -o dist/ --root-href "https://eoepca.github.io/open-science-catalog-metadata-staging/"
+          osc build data/ -o dist/ \
+            --root-href "https://eoepca.github.io/open-science-catalog-metadata-staging/" \
+            --updated-files ${{ steps.changed-files.outputs.all_changed_files }}
       - name: Copying Catalog client
         run: |
           cp -r client/* dist/
