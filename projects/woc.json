@@ -43,15 +43,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic-world-ocean-circulation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-3d-ocean-currents-world-ocean-circulation.json",
       "type": "application/json",
-      "title": "Total surface current_Tropical Atlantic"
+      "title": "Daily 3D ocean currents_North Atlantic"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/oceanic-current-fronts-world-ocean-circulation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wind-stress-vector-world-ocean-circulation.json",
       "type": "application/json",
-      "title": "Oceanic/current fronts_Gibraltar"
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
     },
     {
       "rel": "item",
@@ -61,27 +61,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-world-ocean-circulation.json",
-      "type": "application/json",
-      "title": "Doppler derived surface current_Agulhas_S1"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stokes-drift-atlantic-world-ocean-circulation.json",
-      "type": "application/json",
-      "title": "Stokes drift estimation_Atlantic Ocean"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/daily-3d-ocean-currents-world-ocean-circulation.json",
-      "type": "application/json",
-      "title": "Daily 3D ocean currents_North Atlantic"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-north-atlantic-world-ocean-circulation.json",
       "type": "application/json",
       "title": "Total surface current_North-Atlantic"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-surface-current-tropical-atlantic-world-ocean-circulation.json",
+      "type": "application/json",
+      "title": "Total surface current_Tropical Atlantic"
     },
     {
       "rel": "item",
@@ -91,9 +79,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wind-stress-vector-world-ocean-circulation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/oceanic-current-fronts-world-ocean-circulation.json",
       "type": "application/json",
-      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+      "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/stokes-drift-atlantic-world-ocean-circulation.json",
+      "type": "application/json",
+      "title": "Stokes drift estimation_Atlantic Ocean"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/doppler-derived-surface-current-world-ocean-circulation.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
     },
     {
       "rel": "root",
@@ -118,7 +118,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/woc.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/woc.xml",
       "roles": [
         "metadata"
       ]

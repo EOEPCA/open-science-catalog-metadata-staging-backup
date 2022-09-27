@@ -104,7 +104,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/rainfall-prism-0.25-v4-africa-smos-rainfall.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/rainfall-prism-0.25-v4-africa-smos-rainfall.xml",
       "roles": [
         "metadata"
       ]

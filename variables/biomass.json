@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/biomass-s3-africa-albiom.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vod-africa-smos-vegetation.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vod-africa-smos-vegetation.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/biomass-s3-africa-albiom.json",
       "type": "application/json"
     },
     {

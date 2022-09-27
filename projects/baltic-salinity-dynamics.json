@@ -39,15 +39,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics.json",
-      "type": "application/json",
-      "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l3-baltic-salinity-dynamics.json",
       "type": "application/json",
       "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics.json",
+      "type": "application/json",
+      "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
     },
     {
       "rel": "root",
@@ -72,7 +72,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/baltic-salinity-dynamics.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/baltic-salinity-dynamics.xml",
       "roles": [
         "metadata"
       ]

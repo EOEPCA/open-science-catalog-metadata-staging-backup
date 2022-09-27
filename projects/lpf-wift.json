@@ -37,15 +37,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
-      "type": "application/json",
-      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-total-column-tropomi-clear-sky-wift.json",
       "type": "application/json",
       "title": "Clear-sky HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
     },
     {
       "rel": "item",
@@ -55,9 +55,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
       "type": "application/json",
-      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
     },
     {
       "rel": "root",
@@ -82,7 +82,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/lpf-wift.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-wift.xml",
       "roles": [
         "metadata"
       ]

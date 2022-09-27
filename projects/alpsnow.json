@@ -45,27 +45,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-europe-alps-alpsnow.json",
-      "type": "application/json",
-      "title": "Snow grain size for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-depth-europe-alps-alpsnow.json",
       "type": "application/json",
       "title": "Snow depth for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-europe-alps-alpsnow.json",
-      "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-area-europe-alps-alpsnow.json",
-      "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
     },
     {
       "rel": "item",
@@ -75,9 +57,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow grain size for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-liquid-water-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-europe-alps-alpsnow.json",
       "type": "application/json",
       "title": "Snow albedo for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-area-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow area extent for European Alps_Multimission"
     },
     {
       "rel": "root",
@@ -102,7 +102,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/alpsnow.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/alpsnow.xml",
       "roles": [
         "metadata"
       ]

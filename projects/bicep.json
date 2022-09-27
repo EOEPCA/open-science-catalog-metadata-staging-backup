@@ -43,21 +43,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon-bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-marine-phytoplankton-carbon-bicep.json",
       "type": "application/json",
-      "title": "Particulate Inorganic Carbon"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-particulate-organic-carbon-v5-bicep.json",
-      "type": "application/json",
-      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production-bicep.json",
-      "type": "application/json",
-      "title": "Export Production"
+      "title": "Monthly global Phytoplankton Carbon dataset"
     },
     {
       "rel": "item",
@@ -67,15 +55,27 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon-bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-inorganic-carbon-bicep.json",
       "type": "application/json",
-      "title": "Dissolved Organic Carbon"
+      "title": "Particulate Inorganic Carbon"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-marine-phytoplankton-carbon-bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production-bicep.json",
       "type": "application/json",
-      "title": "Monthly global Phytoplankton Carbon dataset"
+      "title": "Export Production"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-particulate-organic-carbon-v5-bicep.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon-bicep.json",
+      "type": "application/json",
+      "title": "Dissolved Organic Carbon"
     },
     {
       "rel": "item",
@@ -106,7 +106,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/bicep.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/bicep.xml",
       "roles": [
         "metadata"
       ]

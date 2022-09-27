@@ -99,7 +99,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/snow-depth-europe-alps-alpsnow.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/snow-depth-europe-alps-alpsnow.xml",
       "roles": [
         "metadata"
       ]

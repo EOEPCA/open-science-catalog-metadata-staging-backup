@@ -93,7 +93,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/s2l2a-uncertainty-sr-lpf-l2arut.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/s2l2a-uncertainty-sr-lpf-l2arut.xml",
       "roles": [
         "metadata"
       ]

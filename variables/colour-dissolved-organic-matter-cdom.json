@@ -21,22 +21,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-cdom-baltic-sealabio.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-particulate-organic-carbon-v5-bicep.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-cdom-baltic-sealabio.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production-bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-marine-phytoplankton-carbon-bicep.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-cdom-baltic-sealabio.json",
       "type": "application/json"
     },
     {
@@ -46,17 +41,22 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon-bicep.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cdom-aeolus-innovation-color.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-marine-phytoplankton-carbon-bicep.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/export-production-bicep.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-particulate-organic-carbon-v5-bicep.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dissolved-organic-carbon-bicep.json",
       "type": "application/json"
     },
     {

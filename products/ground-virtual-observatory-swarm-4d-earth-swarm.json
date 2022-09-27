@@ -67,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/ground-virtual-observatory-swarm-4d-earth-swarm.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ground-virtual-observatory-swarm-4d-earth-swarm.xml",
       "roles": [
         "metadata"
       ]

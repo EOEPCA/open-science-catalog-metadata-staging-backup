@@ -37,12 +37,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/solar-activity-polar-cap-plasma-density-ion-outflow.json",
-      "type": "application/json",
-      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-ion-outflow.json",
       "type": "application/json",
       "title": "Swarm-EISCAT conjunction list (2013-2019)"
@@ -52,6 +46,12 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-ac-conjunctions-ion-outflow.json",
       "type": "application/json",
       "title": "Cluster/Swarm A and C conjunctions"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/solar-activity-polar-cap-plasma-density-ion-outflow.json",
+      "type": "application/json",
+      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
     },
     {
       "rel": "item",
@@ -82,7 +82,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/swarm-outflow.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/swarm-outflow.xml",
       "roles": [
         "metadata"
       ]

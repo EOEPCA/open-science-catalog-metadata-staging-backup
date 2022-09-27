@@ -56,13 +56,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/solid-earth.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/vista.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/vista.xml",
       "roles": [
         "metadata"
       ]

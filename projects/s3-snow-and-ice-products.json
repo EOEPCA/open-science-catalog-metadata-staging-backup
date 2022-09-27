@@ -38,15 +38,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/nrt-sice-rasters-greenland-arctic-sice.json",
-      "type": "application/json",
-      "title": "NRT SICE rasters for Greenland_Arctic_S3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-arctic-sice.json",
       "type": "application/json",
       "title": "Spectral albedo_Arctic_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/nrt-sice-rasters-greenland-arctic-sice.json",
+      "type": "application/json",
+      "title": "NRT SICE rasters for Greenland_Arctic_S3"
     },
     {
       "rel": "item",
@@ -83,7 +83,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/s3-snow-and-ice-products.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s3-snow-and-ice-products.xml",
       "roles": [
         "metadata"
       ]

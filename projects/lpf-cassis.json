@@ -37,15 +37,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-snow-depth-envisat-lpf-cassis.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-snow-depth-cryosat-lpf-cassis.json",
       "type": "application/json",
-      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR-2 snow depth_Antarctic_Envisat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-clima-snow-depth-lpf-cassis.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
+      "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR-2 snow depth_Antarctic_CryoSat-2/SARAL"
     },
     {
       "rel": "item",
@@ -55,15 +49,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-snow-depth-cryosat-lpf-cassis.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR-2 snow depth_Antarctic_CryoSat-2/SARAL"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-clima-snow-depth-lpf-cassis.json",
       "type": "application/json",
       "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR climatology snow depth_Antarctic_CryoSat-2/SARAL"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-clima-snow-depth-lpf-cassis.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-snow-depth-envisat-lpf-cassis.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR-2 snow depth_Antarctic_Envisat"
     },
     {
       "rel": "root",
@@ -88,7 +88,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/lpf-cassis.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-cassis.xml",
       "roles": [
         "metadata"
       ]

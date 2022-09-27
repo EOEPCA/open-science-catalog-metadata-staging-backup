@@ -61,13 +61,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/arctic-salinity.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/arctic-salinity.xml",
       "roles": [
         "metadata"
       ]

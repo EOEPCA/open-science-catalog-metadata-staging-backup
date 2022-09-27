@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/shape.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/shape.xml",
       "roles": [
         "metadata"
       ]

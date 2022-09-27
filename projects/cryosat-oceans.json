@@ -51,27 +51,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hr-tidal-atlas-arctic-ocean-cp4o.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-altimeter-polar-ocean-cp4o.json",
       "type": "application/json",
-      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
+      "title": "Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lr-satellite-altimeter-open-ocean-cp4o.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rdsar-satellite-sar-altimeter-open-ocean-cp4o.json",
       "type": "application/json",
-      "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bathymetry-arctic-cp4o.json",
-      "type": "application/json",
-      "title": "Bathymetry_Arctic_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-sar-altimeter-coastal-cp4o.json",
-      "type": "application/json",
-      "title": "Satellite SAR altimeter product_Coastal Ocean_Cryosat"
+      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
     },
     {
       "rel": "item",
@@ -87,9 +75,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rdsar-satellite-sar-altimeter-open-ocean-cp4o.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hr-tidal-atlas-arctic-ocean-cp4o.json",
       "type": "application/json",
-      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
+      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
     },
     {
       "rel": "item",
@@ -99,9 +87,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-altimeter-polar-ocean-cp4o.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bathymetry-arctic-cp4o.json",
       "type": "application/json",
-      "title": "Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
+      "title": "Bathymetry_Arctic_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lr-satellite-altimeter-open-ocean-cp4o.json",
+      "type": "application/json",
+      "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-sar-altimeter-coastal-cp4o.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Coastal Ocean_Cryosat"
     },
     {
       "rel": "root",
@@ -120,13 +120,13 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/oceans.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/cryosat-oceans.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/cryosat-oceans.xml",
       "roles": [
         "metadata"
       ]

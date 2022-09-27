@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l3-turbidity-daily-monthly-eo4sibs.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-aeolus-innovation-color.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/l3-turbidity-daily-monthly-eo4sibs.json",
       "type": "application/json"
     },
     {

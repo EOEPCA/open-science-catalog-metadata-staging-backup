@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/dem-antarctica-2013-lpf-mitap.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/dem-antarctica-2013-lpf-mitap.xml",
       "roles": [
         "metadata"
       ]

@@ -98,7 +98,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/land-ice-elevation-grid-arctic-canada-south-cryotop-evolution.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/land-ice-elevation-grid-arctic-canada-south-cryotop-evolution.xml",
       "roles": [
         "metadata"
       ]

@@ -98,7 +98,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/time-clima-aerosol-od-all-livas.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/time-clima-aerosol-od-all-livas.xml",
       "roles": [
         "metadata"
       ]

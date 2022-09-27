@@ -58,7 +58,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/wacmos-irrigation.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/wacmos-irrigation.xml",
       "roles": [
         "metadata"
       ]

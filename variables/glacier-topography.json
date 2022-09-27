@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-mass-balance-lpf-mitap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-elevation-cryosat-mountain-glaciers.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-elevation-cryosat-mountain-glaciers.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-mass-balance-lpf-mitap.json",
       "type": "application/json"
     },
     {

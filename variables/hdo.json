@@ -16,12 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-total-column-tropomi-clear-sky-wift.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hdo-total-column-tropomi-clear-sky-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
       "type": "application/json"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-cloudy-lpf-wift.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/total-column-h2o-hdo-clear-sky-lpf-wift.json",
       "type": "application/json"
     },
     {

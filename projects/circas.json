@@ -38,6 +38,12 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
+      "type": "application/json",
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/radiation-budget-circas.json",
       "type": "application/json",
       "title": "Radiation budget_Regional_S3"
@@ -47,12 +53,6 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-circas.json",
       "type": "application/json",
       "title": "Albedo_Regional_S3A/SLSTR"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
-      "type": "application/json",
-      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
     },
     {
       "rel": "root",
@@ -77,7 +77,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/circas.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/circas.xml",
       "roles": [
         "metadata"
       ]

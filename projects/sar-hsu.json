@@ -43,57 +43,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/absolute-sea-level-heights-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamic-corrections-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-raw-measurements-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/target-locations-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-positioning-solution-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-delays-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-surface-heights-corrected-baltics-sar-hsu.json",
       "type": "application/json",
       "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-observation-solution-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ionospheric-delays-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -103,15 +55,39 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tide-gauge-heights-baltics-sar-hsu.json",
-      "type": "application/json",
-      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/electronic-delay-correction-baltics-sar-hsu.json",
       "type": "application/json",
       "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-positioning-solution-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-raw-measurements-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tropospheric-delays-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/target-locations-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ionospheric-delays-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
     },
     {
       "rel": "item",
@@ -124,6 +100,30 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geoid-heights-baltics-sar-hsu.json",
       "type": "application/json",
       "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamic-corrections-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/tide-gauge-heights-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/absolute-sea-level-heights-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sar-observation-solution-baltics-sar-hsu.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
     },
     {
       "rel": "root",
@@ -148,7 +148,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/sar-hsu.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/sar-hsu.xml",
       "roles": [
         "metadata"
       ]

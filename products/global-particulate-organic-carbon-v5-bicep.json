@@ -104,7 +104,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/global-particulate-organic-carbon-v5-bicep.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/global-particulate-organic-carbon-v5-bicep.xml",
       "roles": [
         "metadata"
       ]

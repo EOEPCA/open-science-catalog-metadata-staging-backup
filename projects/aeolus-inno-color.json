@@ -41,9 +41,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-aeolus-innovation-color.json",
       "type": "application/json",
-      "title": "Particulate backscatter: bbp_Global_AEOLUS"
+      "title": "Diffuse attenuation: Kd_Global_AEOLUS"
     },
     {
       "rel": "item",
@@ -53,9 +53,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/diffuse-attenuation-aeolus-innovation-color.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/particulate-backscatter-aeolus-innovation-color.json",
       "type": "application/json",
-      "title": "Diffuse attenuation: Kd_Global_AEOLUS"
+      "title": "Particulate backscatter: bbp_Global_AEOLUS"
     },
     {
       "rel": "root",
@@ -80,7 +80,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/aeolus-inno-color.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/aeolus-inno-color.xml",
       "roles": [
         "metadata"
       ]

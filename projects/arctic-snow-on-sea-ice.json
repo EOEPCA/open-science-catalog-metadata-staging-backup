@@ -62,7 +62,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/arctic-snow-on-sea-ice.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/arctic-snow-on-sea-ice.xml",
       "roles": [
         "metadata"
       ]

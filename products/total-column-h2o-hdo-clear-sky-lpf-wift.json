@@ -93,7 +93,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/total-column-h2o-hdo-clear-sky-lpf-wift.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/total-column-h2o-hdo-clear-sky-lpf-wift.xml",
       "roles": [
         "metadata"
       ]

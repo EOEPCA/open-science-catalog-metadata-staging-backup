@@ -99,7 +99,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/sea-ice-retracker-snow-depth-cryosat--lpf-cassis.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/sea-ice-retracker-snow-depth-cryosat--lpf-cassis.xml",
       "roles": [
         "metadata"
       ]

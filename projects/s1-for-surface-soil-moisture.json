@@ -67,7 +67,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/s1-for-surface-soil-moisture.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/s1-for-surface-soil-moisture.xml",
       "roles": [
         "metadata"
       ]

@@ -48,15 +48,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-cdom-baltic-sealabio.json",
-      "type": "application/json",
-      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/eo-based-cdom-baltic-sealabio.json",
       "type": "application/json",
       "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/model-based-cdom-baltic-sealabio.json",
+      "type": "application/json",
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
       "rel": "root",
@@ -81,7 +81,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/baltic-sea-land.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/baltic-sea-land.xml",
       "roles": [
         "metadata"
       ]

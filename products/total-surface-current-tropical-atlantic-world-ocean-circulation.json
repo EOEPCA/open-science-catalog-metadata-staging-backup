@@ -90,7 +90,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/total-surface-current-tropical-atlantic-world-ocean-circulation.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/total-surface-current-tropical-atlantic-world-ocean-circulation.xml",
       "roles": [
         "metadata"
       ]

@@ -84,7 +84,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/4d-greenland.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/4d-greenland.xml",
       "roles": [
         "metadata"
       ]

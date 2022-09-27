@@ -72,7 +72,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/smos-vegetation.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/smos-vegetation.xml",
       "roles": [
         "metadata"
       ]

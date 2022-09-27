@@ -65,7 +65,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/smos-mediterranean.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/smos-mediterranean.xml",
       "roles": [
         "metadata"
       ]

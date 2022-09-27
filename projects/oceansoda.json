@@ -41,15 +41,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/suface-ocean-ph-oceansoda.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-total-alcalinity-oceansoda.json",
       "type": "application/json",
-      "title": "Surface-ocean_pH_Global_v2021"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-omega-aragonite-saturation-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
+      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
     },
     {
       "rel": "item",
@@ -59,15 +53,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-total-alcalinity-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-dic-oceansoda.json",
       "type": "application/json",
       "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-omega-aragonite-saturation-oceansoda.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/suface-ocean-ph-oceansoda.json",
+      "type": "application/json",
+      "title": "Surface-ocean_pH_Global_v2021"
     },
     {
       "rel": "root",
@@ -92,7 +92,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/oceansoda.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/oceansoda.xml",
       "roles": [
         "metadata"
       ]

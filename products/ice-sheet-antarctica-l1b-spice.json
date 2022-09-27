@@ -98,7 +98,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/ice-sheet-antarctica-l1b-spice.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/ice-sheet-antarctica-l1b-spice.xml",
       "roles": [
         "metadata"
       ]

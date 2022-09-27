@@ -40,15 +40,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rainfall-prism-0-25-v2-africa-smos-rainfall.json",
-      "type": "application/json",
-      "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rainfall-prism-0-25-v4-africa-smos-rainfall.json",
       "type": "application/json",
       "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rainfall-prism-0-25-v2-africa-smos-rainfall.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
     },
     {
       "rel": "item",
@@ -85,7 +85,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/smos-rainfall-land.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/smos-rainfall-land.xml",
       "roles": [
         "metadata"
       ]

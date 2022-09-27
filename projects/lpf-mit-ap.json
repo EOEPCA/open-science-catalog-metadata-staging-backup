@@ -43,9 +43,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-elevation-change-lpf-mitap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-mass-balance-lpf-mitap.json",
       "type": "application/json",
-      "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "item",
@@ -55,9 +55,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/glacier-mass-balance-lpf-mitap.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-elevation-change-lpf-mitap.json",
       "type": "application/json",
-      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+      "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "root",
@@ -82,7 +82,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/lpf-mit-ap.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/lpf-mit-ap.xml",
       "roles": [
         "metadata"
       ]

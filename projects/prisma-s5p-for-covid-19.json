@@ -63,7 +63,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/prisma-s5p-for-covid-19.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/prisma-s5p-for-covid-19.xml",
       "roles": [
         "metadata"
       ]

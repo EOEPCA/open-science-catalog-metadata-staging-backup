@@ -66,7 +66,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/solar-activity-polar-cap-plasma-density-ion-outflow.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/solar-activity-polar-cap-plasma-density-ion-outflow.xml",
       "roles": [
         "metadata"
       ]

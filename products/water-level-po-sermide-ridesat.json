@@ -75,7 +75,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/water-level-po-sermide-ridesat.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/water-level-po-sermide-ridesat.xml",
       "roles": [
         "metadata"
       ]

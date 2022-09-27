@@ -93,7 +93,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/hydrological-surface-features-4dgreenland.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/hydrological-surface-features-4dgreenland.xml",
       "roles": [
         "metadata"
       ]

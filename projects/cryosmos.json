@@ -42,15 +42,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-shelf-antarctica-cryosmos.json",
-      "type": "application/json",
-      "title": "Ice shelf product_Antarctica_SMOS"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bedrock-topography-antarctica-cryosmos.json",
       "type": "application/json",
       "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-shelf-antarctica-cryosmos.json",
+      "type": "application/json",
+      "title": "Ice shelf product_Antarctica_SMOS"
     },
     {
       "rel": "item",
@@ -87,7 +87,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/cryosmos.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/cryosmos.xml",
       "roles": [
         "metadata"
       ]

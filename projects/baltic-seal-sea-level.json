@@ -41,9 +41,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ocean-heat-content-baltic-seal.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-baltic-seal.json",
       "type": "application/json",
-      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     },
     {
       "rel": "item",
@@ -53,15 +53,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/earth-energy-imballance-baltic-seal.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ocean-heat-content-baltic-seal.json",
       "type": "application/json",
-      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
+      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hydrodynamic-model-baltic-seal.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/earth-energy-imballance-baltic-seal.json",
       "type": "application/json",
-      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },
     {
       "rel": "root",
@@ -86,7 +86,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/projects/iso/baltic-seal-sea-level.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/iso/baltic-seal-sea-level.xml",
       "roles": [
         "metadata"
       ]

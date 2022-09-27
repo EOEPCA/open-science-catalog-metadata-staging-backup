@@ -16,12 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/solar-activity-polar-cap-plasma-density-ion-outflow.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lightning-whistler-ilgew.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/addit-earthquake-tsunami-tool-costo.json",
       "type": "application/json"
     },
     {
@@ -31,7 +26,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/addit-earthquake-tsunami-tool-costo.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lightning-whistler-ilgew.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/solar-activity-polar-cap-plasma-density-ion-outflow.json",
       "type": "application/json"
     },
     {

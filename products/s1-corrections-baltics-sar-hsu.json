@@ -96,7 +96,7 @@
   ],
   "assets": {
     "iso-metadata": {
-      "href": "/home/runner/work/open-science-catalog-metadata-staging/open-science-catalog-metadata-staging/data/products/iso/s1-corrections-baltics-sar-hsu.xml",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/s1-corrections-baltics-sar-hsu.xml",
       "roles": [
         "metadata"
       ]
