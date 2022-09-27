@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-09-27T09:35:27.713665</gco:DateTime>
+    <gco:DateTime>2022-09-27T09:54:47.109219</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -325,7 +325,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/products/global-model-of-crust-and-upper-mantle-winterc-g-goce.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/products/crust-and-upper-mantle-model-3d-earth.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>

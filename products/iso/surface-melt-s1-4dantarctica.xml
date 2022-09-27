@@ -53,7 +53,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2022-09-27T09:35:29.033713</gco:DateTime>
+    <gco:DateTime>2022-09-27T09:54:48.426926</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115:2003 - Geographic information - Metadata</gco:CharacterString>
@@ -306,7 +306,7 @@
           <gmd:onLine>
             <gmd:CI_OnlineResource>
               <gmd:linkage>
-                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-melt-classification-antarctic-peninsula-sentinel-1-v1.json</gmd:URL>
+                <gmd:URL>https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-melt-s1-4dantarctica.json</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
                 <gco:CharacterString>WWW:LINK</gco:CharacterString>
