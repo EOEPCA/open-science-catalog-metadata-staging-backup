@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": null,
+  "properties": {
+    "title": "A new Test Project",
+    "description": "Hello World",
+    "osc:name": null,
+    "osc:themes": [],
+    "osc:status": null,
+    "osc:technical_officer": {
+      "name": "SP",
+      "e-mail": "sp@eox.at"
+    },
+    "osc:consortium": "EOX",
+    "osc:type": "Project",
+    "start_datetime": "2022-10-03T00:00:00Z",
+    "end_datetime": "2022-10-10T00:00:00Z"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "via",
+      "href": "staging.opensciencedata.esa.int",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "",
+      "title": "EO4Society Link"
+    }
+  ],
+  "assets": {},
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ]
+}
