@@ -4,9 +4,9 @@
   "id": "sea-ice-phys-ocean-lpf-arcticsummit",
   "properties": {
     "start_datetime": "2021-01-01T00:00:00Z",
-    "end_datetime": "2021-12-31T23:59:59Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
     "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations",
-    "description": "This dataset presents monthly gridded sea ice and ocean parameters for the Arctic derived from the European Space Agency's satellite CryoSat-2. Parameters include sea ice freeboard, sea ice thickness, sea ice surface roughness, mean sea surface height, sea level anomaly, and geostrophic circulation.",
+    "description": "This dataset presents monthly gridded sea ice and ocean parameters for the Arctic derived from the European Space Agency's satellite CryoSat-2. Parameters include sea ice freeboard, sea ice thickness, sea ice surface roughness, mean sea surface height, sea level anomaly, and geostrophic circulation. Foo",
     "osc:missions": [
       "CryoSat-2"
     ],
@@ -18,9 +18,6 @@
     "osc:status": "ONGOING",
     "osc:region": "Arctic",
     "osc:type": "Product",
-    "created": "2019-11-14T00:00:00Z",
-    "sci:doi": "10.5285/cbd2cf78-462a-4968-be20-05f9c125ad10",
-    "updated": "2022-09-19T13:28:30Z",
     "datetime": "2021-01-01T00:00:00Z"
   },
   "geometry": {
@@ -58,8 +55,7 @@
   },
   "links": [
     {
-      "rel": "via",
-      "href": "https://eo4society.esa.int/projects/arcticsummit-arctic-summer-ice-thickness/"
+      "rel": "via"
     },
     {
       "rel": "via",
@@ -70,10 +66,6 @@
       "rel": "via",
       "href": "https://data.bas.ac.uk/metadata.php?id=GB/NERC/BAS/PDC/01257",
       "title": "Documentation"
-    },
-    {
-      "rel": "cite-as",
-      "href": "https://doi.org/10.5285/cbd2cf78-462a-4968-be20-05f9c125ad10"
     }
   ],
   "assets": {},
@@ -84,7 +76,6 @@
     84.2454100786
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
-    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ]
 }
