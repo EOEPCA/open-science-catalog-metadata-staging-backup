@@ -37,9 +37,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-ion-outflow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-b-conjunctions-ion-outflow.json",
       "type": "application/json",
-      "title": "Swarm-EISCAT conjunction list (2013-2019)"
+      "title": "Cluster/Swarm B conjunctions"
     },
     {
       "rel": "item",
@@ -55,9 +55,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-b-conjunctions-ion-outflow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-ion-outflow.json",
       "type": "application/json",
-      "title": "Cluster/Swarm B conjunctions"
+      "title": "Swarm-EISCAT conjunction list (2013-2019)"
     },
     {
       "rel": "root",

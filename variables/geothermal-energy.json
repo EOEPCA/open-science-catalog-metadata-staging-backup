@@ -16,7 +16,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-melt-4dantarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flux-4dantarctica.json",
       "type": "application/json"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geothermal-heat-flux-4dantarctica.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/subglacial-melt-4dantarctica.json",
       "type": "application/json"
     },
     {

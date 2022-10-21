@@ -30,7 +30,7 @@
     "created": "2021-01-01T00:00:00Z",
     "version": "2.1",
     "sci:doi": "10.1029/2020GL089658",
-    "updated": "2022-09-19T13:28:30Z",
+    "updated": "2022-10-21T16:35:29Z",
     "datetime": "2010-01-01T00:00:00Z"
   },
   "geometry": {
@@ -112,6 +112,114 @@
     }
   ],
   "assets": {
+    "Thw124_2013_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw124_2013_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw124_2013_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw124_2017_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw124_2017_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw124_2017_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw124_timeseries": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw124_timeseries.csv",
+      "type": "text/csv",
+      "title": "Thw124_timeseries",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw142_2013_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw142_2013_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw142_2013_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw142_2017_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw142_2017_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw142_2017_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw142_timeseries": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw142_timeseries.csv",
+      "type": "text/csv",
+      "title": "Thw142_timeseries",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw170_2013_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw170_2013_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw170_2013_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw170_2017_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw170_2017_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw170_2017_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw170_timeseries": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw170_timeseries.csv",
+      "type": "text/csv",
+      "title": "Thw170_timeseries",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw70_2013_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw70_2013_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw70_2013_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw70_2017_mask": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw70_2017_mask.tif",
+      "type": "image/tiff",
+      "title": "Thw70_2017_mask",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
+    "Thw70_timeseries": {
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/OSCAssets/4DANTARCTICA/Subglacial%20lake%20Drainage%20and%20filling%20Antarctica%20multimission/Thw70_timeseries.csv",
+      "type": "text/csv",
+      "title": "Thw70_timeseries",
+      "description": "",
+      "roles": [
+        "data"
+      ]
+    },
     "iso-metadata": {
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/iso/subglacial-lake-drainage-4dantarctica.xml",
       "roles": [

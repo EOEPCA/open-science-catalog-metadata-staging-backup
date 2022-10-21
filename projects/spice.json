@@ -40,15 +40,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-antarctica-l3-spice.json",
-      "type": "application/json",
-      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-antarctica-l1b-spice.json",
       "type": "application/json",
       "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 1B"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-antarctica-l3-spice.json",
+      "type": "application/json",
+      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
     },
     {
       "rel": "root",

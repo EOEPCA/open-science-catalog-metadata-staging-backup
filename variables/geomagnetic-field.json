@@ -16,37 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-ion-outflow.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sudden-stratospheric-warming-vera.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-oersted-4d-earth-swarm.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-champ-4d-earth-swarm.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-data-chaos-field-model-4d-earth-swarm.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/webgeodyn-py-4d-earth-swarm.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-4d-earth-swarm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
       "type": "application/json"
     },
     {
@@ -56,7 +31,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-ac-conjunctions-ion-outflow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-observatory-data-4d-earth-swarm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-oersted-4d-earth-swarm.json",
       "type": "application/json"
     },
     {
@@ -66,12 +46,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-observatory-data-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sudden-stratospheric-warming-vera.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-swarm-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-champ-4d-earth-swarm.json",
       "type": "application/json"
     },
     {
@@ -81,12 +61,32 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cluster-swarm-ac-conjunctions-ion-outflow.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-data-chaos-field-model-4d-earth-swarm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/swarm-eiscat-conjunction-list-ion-outflow.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-swarm-4d-earth-swarm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/webgeodyn-py-4d-earth-swarm.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-4d-earth-swarm.json",
       "type": "application/json"
     },
     {

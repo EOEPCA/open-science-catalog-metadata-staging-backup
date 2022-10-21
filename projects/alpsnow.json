@@ -45,21 +45,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-depth-europe-alps-alpsnow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-area-europe-alps-alpsnow.json",
       "type": "application/json",
-      "title": "Snow depth for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-water-equivalent-europe-alps-alpsnow.json",
-      "type": "application/json",
-      "title": "Snow water equivalent for European Alps_Multimission"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-europe-alps-alpsnow.json",
-      "type": "application/json",
-      "title": "Snow grain size for European Alps_Multimission"
+      "title": "Snow area extent for European Alps_Multimission"
     },
     {
       "rel": "item",
@@ -69,15 +57,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow grain size for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-albedo-europe-alps-alpsnow.json",
       "type": "application/json",
       "title": "Snow albedo for European Alps_Multimission"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-area-europe-alps-alpsnow.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-depth-europe-alps-alpsnow.json",
       "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
+      "title": "Snow depth for European Alps_Multimission"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-water-equivalent-europe-alps-alpsnow.json",
+      "type": "application/json",
+      "title": "Snow water equivalent for European Alps_Multimission"
     },
     {
       "rel": "root",

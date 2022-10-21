@@ -43,9 +43,39 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Geodynamo simulation data_Earth core"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-core-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "CHAOS field model_Core"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-observatory-data-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "Ground Observatory data"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-oersted-4d-earth-swarm.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data OERSTED"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-spline-4d-earth-swarm.json",
+      "type": "application/json",
+      "title": "CHAOS field model_SplineCoefficients"
     },
     {
       "rel": "item",
@@ -61,51 +91,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/webgeodyn-py-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "Webgeodyn Python package"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/geodynamo-simulation-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-core-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-spline-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-observatory-data-4d-earth-swarm.json",
-      "type": "application/json",
-      "title": "Ground Observatory data"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-swarm-4d-earth-swarm.json",
       "type": "application/json",
       "title": "Ground Virtual Observatory Data SWARM"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/webgeodyn-py-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "CHAOS field model"
+      "title": "Webgeodyn Python package"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ground-virtual-observatory-cryosat2-4d-earth-swarm.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/chaos-field-model-4d-earth-swarm.json",
       "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
+      "title": "CHAOS field model"
     },
     {
       "rel": "root",

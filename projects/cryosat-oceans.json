@@ -57,15 +57,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rdsar-satellite-sar-altimeter-open-ocean-cp4o.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wet-troposphere-correction-cryosat-cp4o.json",
       "type": "application/json",
-      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-sarin-altimeter-coastal-cp4o.json",
-      "type": "application/json",
-      "title": "Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
+      "title": "Wet Troposphere Correction_for Cryosat"
     },
     {
       "rel": "item",
@@ -75,27 +69,33 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hr-tidal-atlas-arctic-ocean-cp4o.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/rdsar-satellite-sar-altimeter-open-ocean-cp4o.json",
       "type": "application/json",
-      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/wet-troposphere-correction-cryosat-cp4o.json",
-      "type": "application/json",
-      "title": "Wet Troposphere Correction_for Cryosat"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bathymetry-arctic-cp4o.json",
-      "type": "application/json",
-      "title": "Bathymetry_Arctic_Cryosat"
+      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lr-satellite-altimeter-open-ocean-cp4o.json",
       "type": "application/json",
       "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/hr-tidal-atlas-arctic-ocean-cp4o.json",
+      "type": "application/json",
+      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/satellite-sarin-altimeter-coastal-cp4o.json",
+      "type": "application/json",
+      "title": "Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/bathymetry-arctic-cp4o.json",
+      "type": "application/json",
+      "title": "Bathymetry_Arctic_Cryosat"
     },
     {
       "rel": "item",

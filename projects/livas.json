@@ -43,15 +43,21 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-all-livas.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-cloud-profile-livas.json",
       "type": "application/json",
       "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-livas.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-all-livas.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
     },
     {
       "rel": "item",
@@ -67,51 +73,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-od-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-od-averaged-livas.json",
       "type": "application/json",
-      "title": "Cloud optical depth_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cliima-cloud-od-livas.json",
-      "type": "application/json",
-      "title": "Climatology of cloud optical depth_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-op-all-livas.json",
-      "type": "application/json",
-      "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-od-all-livas.json",
-      "type": "application/json",
-      "title": "Time-Based Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-all-livas.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical property profiles for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-od-livas.json",
-      "type": "application/json",
-      "title": "Dust optical depth (DOD) of dust layers_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-livas.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-mass-op-livas.json",
-      "type": "application/json",
-      "title": "Aerosol and Dust aerosol optical property profiles_Dust mass concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+      "title": "Cloud optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
     },
     {
       "rel": "item",
@@ -121,9 +85,33 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-op-averaged-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-od-livas.json",
       "type": "application/json",
-      "title": "Cloud optical property profiles, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+      "title": "Cloud optical depth_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-op-all-livas.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-livas.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-all-livas.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-od-all-livas.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
     },
     {
       "rel": "item",
@@ -133,21 +121,33 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-od-livas.json",
+      "type": "application/json",
+      "title": "Dust optical depth (DOD) of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cliima-cloud-od-livas.json",
+      "type": "application/json",
+      "title": "Climatology of cloud optical depth_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-mass-op-livas.json",
+      "type": "application/json",
+      "title": "Aerosol and Dust aerosol optical property profiles_Dust mass concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-op-livas.json",
       "type": "application/json",
       "title": "Cloud optical property profiles_Global_CALIPSO"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-od-averaged-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-op-averaged-livas.json",
       "type": "application/json",
-      "title": "Cloud optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-livas.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
+      "title": "Cloud optical property profiles, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
     },
     {
       "rel": "root",

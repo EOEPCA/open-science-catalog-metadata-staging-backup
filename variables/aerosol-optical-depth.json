@@ -21,32 +21,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-all-livas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-strat-aerosol-cloud-od-livas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-od-averaged-livas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-op-all-livas.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-od-all-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-livas.json",
       "type": "application/json"
     },
     {
@@ -56,17 +31,17 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-od-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-strat-aerosol-cloud-od-livas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-op-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-mass-op-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-od-averaged-livas.json",
       "type": "application/json"
     },
     {
@@ -76,7 +51,27 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-op-all-livas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-livas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-all-livas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lidar-aerosol-aeolus-swails.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/time-clima-aerosol-od-all-livas.json",
       "type": "application/json"
     },
     {
@@ -86,7 +81,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/clima-aerosol-od-livas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dust-od-livas.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/aerosol-dust-mass-op-livas.json",
       "type": "application/json"
     },
     {

@@ -39,15 +39,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/smos-l3-africa-smos-vegetation.json",
-      "type": "application/json",
-      "title": "Gridded_Africa_SMOS level 3 products CATDS"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/vod-africa-smos-vegetation.json",
       "type": "application/json",
       "title": "VOD_Africa_SMOS IC products CATDS"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/smos-l3-africa-smos-vegetation.json",
+      "type": "application/json",
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
     },
     {
       "rel": "root",

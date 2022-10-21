@@ -47,15 +47,15 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-greenland-s34science-snow.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Greenland_S3"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/snow-grain-diameter-greenland-s34science-snow.json",
       "type": "application/json",
       "title": "Snow grain diameter_Greenland_S3"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/spectral-albedo-greenland-s34science-snow.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
     },
     {
       "rel": "root",
@@ -74,7 +74,7 @@
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/land.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/themes/cryosphere.json",
       "type": "application/json"
     }
   ],

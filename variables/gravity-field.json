@@ -16,17 +16,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/crust-and-upper-mantle-model-3d-earth.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/gravity-anomalies-goce-airborne-4dantarctica.json",
       "type": "application/json"
     },
     {
       "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/lithosphere-density-temperature-viscosity-goce-antarctica.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/crust-and-upper-mantle-model-3d-earth.json",
       "type": "application/json"
     },
     {

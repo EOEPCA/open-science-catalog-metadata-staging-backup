@@ -41,12 +41,6 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-total-alcalinity-oceansoda.json",
-      "type": "application/json",
-      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-pco2-oceansoda.json",
       "type": "application/json",
       "title": "Surface-ocean_pCO2_Global_v2021"
@@ -56,6 +50,12 @@
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-dic-oceansoda.json",
       "type": "application/json",
       "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/surface-ocean-total-alcalinity-oceansoda.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
     },
     {
       "rel": "item",

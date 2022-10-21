@@ -16,17 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-snow-depth-cryosat-lpf-cassis.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-snow-depth-lpf-cassis.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-snow-volume-north-sea-stse-arctic-yopp.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-clima-snow-depth-lpf-cassis.json",
       "type": "application/json"
     },
     {
@@ -36,12 +31,17 @@
     },
     {
       "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-and-snow-volume-north-sea-stse-arctic-yopp.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
       "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-clima-snow-depth-lpf-cassis.json",
       "type": "application/json"
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-clima-snow-depth-lpf-cassis.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/sea-ice-retracker-snow-depth-cryosat-lpf-cassis.json",
       "type": "application/json"
     },
     {

@@ -38,9 +38,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-circas.json",
       "type": "application/json",
-      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
+      "title": "Albedo_Regional_S3A/SLSTR"
     },
     {
       "rel": "item",
@@ -50,9 +50,9 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/albedo-circas.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/cloud-aerosol-circas.json",
       "type": "application/json",
-      "title": "Albedo_Regional_S3A/SLSTR"
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
     },
     {
       "rel": "root",

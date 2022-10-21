@@ -16,7 +16,12 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-alpglacier.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-glacier-forefields-alpglacier.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
       "type": "application/json"
     },
     {
@@ -26,12 +31,7 @@
     },
     {
       "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/slope-instabilities-glacier-forefields-alpglacier.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "item",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/ice-sheet-subglacial-hydrology-4dgreenland.json",
+      "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/products/dynamics-of-glacier-lakes-alpglacier.json",
       "type": "application/json"
     },
     {
