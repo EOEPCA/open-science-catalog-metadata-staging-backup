@@ -69,7 +69,16 @@
       "title": "Documentation"
     }
   ],
-  "assets": {},
+  "assets": {
+    "data": {
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme3/ocean_currents/woc-l4-cureul-natl-1h/v2.0/2010/016/20100116-WOC-L4-CUReul-ENATL_1H-v2.0-fv2.0.nc",
+      "type": "application/netcdf",
+      "title": "Data",
+      "roles": [
+        "data"
+      ]
+    }
+  },
   "bbox": [
     -76.002623842,
     20.4479407425,
