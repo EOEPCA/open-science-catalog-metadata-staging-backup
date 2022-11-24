@@ -1,0 +1,149 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "fronts-derived-from-remote-sensing-sst-observations-by-seviri-over-western-europe-region",
+  "properties": {
+    "start_datetime": "2011-08-01T00:00:00Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
+    "title": "Fronts Derived from Remote Sensing SST Observations by SEVIRI over Western Europe Region",
+    "description": "This dataset provides detections of fronts derived from high resolution remote sensing SST observations by SEVIRI L3C from OSISAF over Western Europe region.",
+    "osc:missions": [
+      "MSG-2/SEVIRI",
+      "MSG-3/SEVIRI",
+      "MSG-4 / SEVIRI"
+    ],
+    "osc:project": {
+      "id": "woc",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              -90
+            ],
+            [
+              -180,
+              90
+            ],
+            [
+              180,
+              90
+            ],
+            [
+              180,
+              -90
+            ],
+            [
+              -180,
+              -90
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "externalId": "woc",
+        "datetime": "2022-10-10T12:47:21.838662",
+        "start_datetime": "2020-04-28 00:00:00+00:00",
+        "end_datetime": "2022-05-31 23:59:59+00:00",
+        "recordUpdated": "2022-10-20T11:25:37Z",
+        "type": "datasetcollection",
+        "updated": "2022-10-10T12:47:21.838662",
+        "title": "WOC",
+        "description": "The objectives of this activity are to (i) develop and validate innovative methodologies allowing to optimize the synergetic capacity offered by satellite data, in situ measurements and numerical models for improving the retrieval of upper-layer ocean circulation products over 4 high-priority pilot areas chosen as to represent at best the diversity of the world ocean circulation regimes, i.e. one polar sea area, one western boundary current, one upwelling region, one coastal area, and ii) in line with the objectives of the United Nations Decade of Ocean Science for Sustainable Development, demonstrate the unique capacity of the innovative products to support effective actions aiming at procuring a clean, safe, sustainably harvested and productive ocean by targeting FOUR high priority pilot applications, i.e. Pollution Monitoring, Safe Navigation, Sustainable Fisheries and Renewable Marine Energies.",
+        "keywords": [
+          "theme:Oceans",
+          "World Ocean circulation"
+        ],
+        "associations": [
+          {
+            "href": "https://www.worldoceancirculation.org/",
+            "name": "website",
+            "description": "website",
+            "type": "WWW:LINK",
+            "rel": "WWW:LINK"
+          },
+          {
+            "href": "https://eoepca.github.io/open-science-catalog-metadata-staging/projects/woc.json",
+            "name": "self",
+            "description": "self",
+            "type": "WWW:LINK",
+            "rel": "WWW:LINK"
+          }
+        ],
+        "extent": {
+          "spatial": {
+            "bbox": [
+              [
+                -180,
+                -90,
+                180,
+                90
+              ]
+            ],
+            "crs": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+          }
+        }
+      },
+      "links": [],
+      "assets": {}
+    },
+    "osc:themes": [
+      "Oceans"
+    ],
+    "osc:variable": [],
+    "osc:status": "ONGOING",
+    "osc:region": "Western Europe",
+    "osc:type": "Product",
+    "datetime": "2022-05-03T00:00:00Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "bbox": "-25.00, 30.00, 5.00, 50.00",
+    "coordinates": [
+      [
+        [
+          "-",
+          "2"
+        ],
+        [
+          "5",
+          "2"
+        ],
+        [
+          "5",
+          "."
+        ],
+        [
+          "-",
+          "."
+        ],
+        [
+          "-",
+          "2"
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "via"
+    },
+    {
+      "rel": "via",
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme2/ocean_fronts/v2.0/hr/western-europe/seviri/",
+      "title": "Access"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.worldoceancirculation.org/Products#/metadata/a22d1f89-2690-4041-a16f-963923009f8b",
+      "title": "Documentation"
+    }
+  ],
+  "assets": {},
+  "bbox": "-25.00, 30.00, 5.00, 50.00",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ]
+}
