@@ -5,7 +5,7 @@
   "properties": {
     "title": "WOC",
     "description": "The objectives of this activity are to (i) develop and validate innovative methodologies allowing to optimize the synergetic capacity offered by satellite data, in situ measurements and numerical models for improving the retrieval of upper-layer ocean circulation products over 4 high-priority pilot areas chosen as to represent at best the diversity of the world ocean circulation regimes, i.e. one polar sea area, one western boundary current, one upwelling region, one coastal area, and ii) in line with the objectives of the United Nations Decade of Ocean Science for Sustainable Development, demonstrate the unique capacity of the innovative products to support effective actions aiming at procuring a clean, safe, sustainably harvested and productive ocean by targeting FOUR high priority pilot applications, i.e. Pollution Monitoring, Safe Navigation, Sustainable Fisheries and Renewable Marine Energies.",
-    "osc:name": "World Ocean circulation",
+    "osc:name": "World Ocean Circulation",
     "osc:themes": [
       "Oceans"
     ],
@@ -25,9 +25,7 @@
     ],
     "osc:type": "Project",
     "start_datetime": "2020-04-28T00:00:00Z",
-    "end_datetime": "2022-05-31T23:59:59Z",
-    "updated": "2022-09-19T13:28:30Z",
-    "datetime": "2020-04-28T00:00:00Z"
+    "end_datetime": "2022-05-31T00:00:00Z"
   },
   "geometry": null,
   "links": [
