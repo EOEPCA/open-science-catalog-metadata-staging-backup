@@ -1,0 +1,40 @@
+{
+  "type": "Catalog",
+  "id": "sea-surface-temperature",
+  "stac_version": "1.0.0",
+  "description": "Temperature of the sea water at surface.   The \u00e2\u20ac\u0153bulk\u00e2\u20ac\u009d temperature refers to the depth of typically 2 m, the \u00e2\u20ac\u0153skin\u00e2\u20ac\u009d temperature refers to within the upper 1 mm.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/sea_surface_temperature",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "https://github.com/stac-extensions/osc#theme",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
+    }
+  ],
+  "title": "Sea surface temperature"
+}

@@ -1,0 +1,92 @@
+{
+  "type": "Collection",
+  "id": "ocean-heat-content-baltic-seal",
+  "stac_version": "1.0.0",
+  "description": "https://www.aviso.altimetry.fr/fileadmin/documents/data/tools/MOHeaCAN-DT-006-MAG_PUM.pdf",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.aviso.altimetry.fr/en/data/products/ocean-indicators-products/ocean-heat-content-and-earth-energy-imbalance.html",
+      "title": "Access"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Products"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO",
+  "osc:missions": [
+    "GRACE",
+    "GRACE-FO"
+  ],
+  "osc:project": "BALTIC+ SEAL - Sea Level",
+  "osc:variables": [
+    "Sea surface height anomaly"
+  ],
+  "osc:status": "ongoing",
+  "osc:region": "Global",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "https://github.com/stac-extensions/osc#theme",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Sea surface height anomaly"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "GRACE"
+        },
+        {
+          "id": "GRACE-FO"
+        }
+      ]
+    }
+  ],
+  "created": "2021-10-04T00:00:00Z",
+  "start_datetime": "2002-01-01T00:00:00Z",
+  "end_datetime": "2016-12-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2002-01-01T00:00:00Z",
+          "2016-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

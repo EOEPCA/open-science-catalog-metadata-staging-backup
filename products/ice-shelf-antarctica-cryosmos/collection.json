@@ -1,0 +1,88 @@
+{
+  "type": "Collection",
+  "id": "ice-shelf-antarctica-cryosmos",
+  "stac_version": "1.0.0",
+  "description": "The ice shelf product consists of two types of NETCDF-4 files, one containing yearly mean quantities and one containing differential quantities as well as static surface type masks. Names of the first file type are \u00e2\u20ac\u0153SMOS_TB_for_Origin_yyyy_vvv.nc\u00e2\u20ac\u009d, where \u00e2\u20ac\u0153yyyy\u00e2\u20ac\u009d is the respective year and \u00e2\u20ac\u0153vvv\u00e2\u20ac\u009d the dataset version. Names of the second file type are \u00e2\u20ac\u0153SMOS_Origin_yyyy_yyyy_vvv.nc\u00e2\u20ac\u009d where the first \u00e2\u20ac\u0153yyyy\u00e2\u20ac\u009d indicates the first year, the second \u00e2\u20ac\u0153yyyy\u00e2\u20ac\u009d the second year and \u00e2\u20ac\u0153vvv\u00e2\u20ac\u009d the dataset version. All differential quantities are based on the yearly mean of the second year minus the yearly mean of first year. Product details are available at: http://www.ifac.cnr.it/cryosmos/products/CryoSMOS_D8_EDUM_V2.0.pdf.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.ifac.cnr.it/cryosmos/products/CRYOSMOS_shelf.tgz",
+      "title": "Access"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Products"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "title": "Ice shelf product_Antarctica_SMOS",
+  "osc:missions": [
+    "SMOS"
+  ],
+  "osc:project": "CryoSMOS",
+  "osc:variables": [
+    "Ice sheet topography"
+  ],
+  "osc:status": "ongoing",
+  "osc:region": "Antarctica",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "https://github.com/stac-extensions/osc#theme",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Ice sheet topography"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "SMOS"
+        }
+      ]
+    }
+  ],
+  "created": "2020-03-19T00:00:00Z",
+  "start_datetime": "2013-01-01T00:00:00Z",
+  "end_datetime": "2014-12-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        -180.0,
+        -83.0,
+        180.0,
+        -60.0
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2013-01-01T00:00:00Z",
+          "2014-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
