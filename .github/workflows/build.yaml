@@ -1,44 +1,56 @@
-name: Build and Deploy
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
+
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches:
-      - main
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-22.04
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true
-          fetch-depth: 2
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.10.x'
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v29.0.7
-        with:
-          separator: ','
-      - name: Build static Catalog
+      - name: Checkout
+        uses: actions/checkout@v3
+      # Fix timestamps
+      - name: restore timestamps
+        uses: chetan/git-restore-mtime-action@v1
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Install dependencies
         run: |
-          sudo apt install -y proj-bin libproj-dev
-          pip install open-science-catalog-builder/
-          osc build data/ -o dist/ \
-            --root-href "https://eoepca.github.io/open-science-catalog-metadata-staging/" \
-            --updated-files ${{ steps.changed-files.outputs.all_changed_files }}
-      - name: Copying Catalog client
+          pip install -U pip
+          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@03c904a253309f2475411f7e4010e5d7e9bf0132
+      - name: Build static catalog
         run: |
-          cp -r client/* dist/
-      # - name: Building Catalog client
-      #   run: |
-      #     cd stac-browser/
-      #     npm install
-      #     npm run build -- --catalogUrl="https://${GITHUB_REPOSITORY_OWNER}.github.io/$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')/catalog.json" --pathPrefix="/$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')/"
-      #     cp -r dist/* ../dist
-      #     cd ..
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+          osc build . -o dist/ \
+            --root-href "https://eoepca.github.io/open-science-catalog-metadata-staging/"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          branch: gh-pages
-          folder: dist
+          # Upload entire repository
+          path: 'dist'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+
+
