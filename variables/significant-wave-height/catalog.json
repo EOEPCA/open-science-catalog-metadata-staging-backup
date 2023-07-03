@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "significant-wave-height",
   "stac_version": "1.0.0",
-  "description": "Average amplitude of the highest 30 of 100 waves.",
+  "description": "The average height of the highest one-third of all waves occurring in a particular time period.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/significant_wave_height",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/all/1ac6850e-9266-4e90-ba83-b6a6cc4ae365?gtm_keyword=SIGNIFICANT%20WAVE%20HEIGHT&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Significant wave height"
+  "title": "Significant Wave Height"
 }

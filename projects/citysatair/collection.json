@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "citysatair",
   "stac_version": "1.0.0",
-  "description": "Develop and demonstrate a methodology that is capable of exploiting the various available data sources of urban air quality, to combine them in a mathematically objective and scientifically meaningful manner, and to provide value-added maps of urban air quality at high spatial resolution.",
+  "description": "Develop and demonstrate a methodology that is capable of exploiting the various available data sources of urban air quality, to combine them in a mathematically objective and scientifically meaningful manner, and to provide value:added maps of urban air quality at high spatial resolution.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "CITYSATAIR",
   "osc:name": "CITYSATAIR",
   "osc:status": "completed",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,18 +53,8 @@
       "role": "consortium_member"
     },
     {
-      "name": "NILU - NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)",
+      "name": "NILU : NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-01-07T00:00:00Z",

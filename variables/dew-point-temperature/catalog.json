@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "dew-point-temperature",
   "stac_version": "1.0.0",
-  "description": "Temperature to which air must be cooled to become saturated with water vapor\u00c2\u00a0 at a known height\u00c2\u00a0 above surface, with the height specified in the metadata (K)",
+  "description": "The temperature to which a given air parcel must be cooled at constant pressure and constant water vapor content in order for saturation to occur.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/dew_point_temperature",
+      "href": "https://gcos.wmo.int/en/essential-climate-variables/upper-vapour",
       "type": "text/html",
       "title": "Description"
     },

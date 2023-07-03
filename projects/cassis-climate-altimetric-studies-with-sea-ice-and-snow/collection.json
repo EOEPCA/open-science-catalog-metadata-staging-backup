@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "cassis-climate-altimetric-studies-with-sea-ice-and-snow",
   "stac_version": "1.0.0",
-  "description": "This project aims to demonstrate: the use of radar echo processing methods (also called \u00e2\u20ac\u02dcretrackers\u00e2\u20ac\u2122) based on physical models instead of current heuristic models; the use of new snow depth observation products (dual-frequency altimetry, Advanced Microwave Scanning Radiometer, AMSR); a better quantification of uncertainties in sea ice products.",
+  "description": "This project aims to demonstrate: the use of radar echo processing methods (also called retrackers) based on physical models instead of current heuristic models; the use of new snow depth observation products (dual frequency altimetry, Advanced Microwave Scanning Radiometer, AMSR); a better quantification of uncertainties in sea ice products.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "(LPF) CASSIS",
   "osc:name": "CASSIS (Climate Altimetric Studies with Sea Ice and Snow)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -49,16 +51,6 @@
     {
       "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-01-11T00:00:00Z",

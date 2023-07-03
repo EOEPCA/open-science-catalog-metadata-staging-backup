@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "phytoplankton-primary-production",
   "stac_version": "1.0.0",
-  "description": "Gross primary production of carbon in sea water [mg C m-2 d-1]",
+  "description": "Primary productivity may be defined as the amount of organic material produced per unit area per unit time; or simply as the product of phytoplankton biomass times phytoplankton growth rate (Cloern and others, 2014).",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/11349/rsocr_printedition.compressed_Part16.pdf?sequence=17&isAllowed=y",
       "type": "text/html",
       "title": "Description"
     },

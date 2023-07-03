@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "understand-and-mitigate-impacts-of-3d-clouds-on-uv-vis-no2-trace-gas-retrievals-by-ai-exploration-of-synthetic-and-real-data-mit3d",
   "stac_version": "1.0.0",
-  "description": "Operational retrievals of trace gas column amounts assume (near) cloud free conditions.  However, the large pixel size of the satellite instruments (for example the TROPOspheric Monitoring Instrument on Sentinel 5P, TROPOMI-S5P, is 5.5 km by 3.5 km at nadir) imply  that pixels may be contaminated by sub-pixel sized cloud(s). Furthermore, clouds in neighbour pixels may lead to in-scattering of radiation or cloud shadow effects, both which are three-dimensional (3D) radiative transfer effects that may both decrease (cloud shadow) and increase (in-scattering) the retrieved trace gas amount. The goal of the ESA MIT3D project is to understand and mitigate impacts of 3D clouds on UV-VIS NO 2 trace gas retrievals by AI (artifical intelligence) exploration of synthetic and real data. The main objectives of the activity are to: Use AI to find parameters that affect NO2 retrievals using a unique synthetic TROPOMI-S5P data set based on 3D Monte Carlo simulations which includes realistic clouds from large eddy scale simulations. Identify associations between TROPOMI-S5P NO2 and Suomi NPP Visible Infrared Imaging Radiometer Suite (VIIRS) products using maximal information-based nonparametrix exploration statistics. Improve standard 1D NO2 cloud correction. The MIT3D activity thus aims to reduce errors due to the impact of 3D clouds. The  achievement of the main objectives will be demonstrated by analysis of cloud affected synthetic and real TROPOMI-S5P data and the quantitative comparison of the MIT3D improved NO2 cloud correction  and the standard NO2 cloud correction.",
+  "description": "Operational retrievals of trace gas column amounts assume (near) cloud free conditions.  However, the large pixel size of the satellite instruments (for example the TROPOspheric Monitoring Instrument on Sentinel 5P, TROPOMI-S5P, is 5.5 km by 3.5 km at nadir) imply  that pixels may be contaminated by sub-pixel sized cloud(s). Furthermore, clouds in neighbour pixels may lead to in:scattering of radiation or cloud shadow effects, both which are three-dimensional (3D) radiative transfer effects that may both decrease (cloud shadow) and increase (in scattering) the retrieved trace gas amount. The goal of the ESA MIT3D project is to understand and mitigate impacts of 3D clouds on UV VIS NO 2 trace gas retrievals by AI (artifical intelligence) exploration of synthetic and real data. The main objectives of the activity are to: Use AI to find parameters that affect NO2 retrievals using a unique synthetic TROPOMI S5P data set based on 3D Monte Carlo simulations which includes realistic clouds from large eddy scale simulations. Identify associations between TROPOMI-S5P NO2 and Suomi NPP Visible Infrared Imaging Radiometer Suite (VIIRS) products using maximal information-based nonparametrix exploration statistics. Improve standard 1D NO2 cloud correction. The MIT3D activity thus aims to reduce errors due to the impact of 3D clouds. The  achievement of the main objectives will be demonstrated by analysis of cloud affected synthetic and real TROPOMI S5P data and the quantitative comparison of the MIT3D improved NO2 cloud correction  and the standard NO2 cloud correction.",
   "links": [
     {
       "rel": "root",
@@ -23,13 +23,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "MIT3D",
   "osc:name": "Understand and mitigate impacts of 3D clouds on UV-VIS NO2 trace gas retrievals by AI exploration of synthetic and real data (MIT3D)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -42,22 +44,12 @@
       ]
     },
     {
-      "name": "NILU - NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA-IASB) (BE)",
+      "name": "NILU NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA IASB) (BE)",
       "role": "consortium_member"
     },
     {
-      "name": "LUDWIG-MAXIMILIAN UNIVERSITAT MUNCHEN (DE)",
+      "name": "LUDWIG:MAXIMILIAN UNIVERSITAT MUNCHEN (DE)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-03-16T00:00:00Z",

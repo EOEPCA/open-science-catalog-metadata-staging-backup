@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "PHOTOPROXY",
   "osc:name": "PHOTOPROXY: TECHNICAL ASSISTANCE FOR THE PHOTOSYNTHETIC-PROXY EXPERIMENT",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,26 +53,16 @@
       "role": "consortium_member"
     },
     {
-      "name": "FONDAZIONE CLIMA E SOSTENIBILIT\u00e2\u02c6\u0161\u00c3\u201e (IT)",
+      "name": "FONDAZIONE CLIMA E SOSTENIBILITA (IT)",
       "role": "consortium_member"
     },
     {
-      "name": "University Bonn - IGG (DE)",
+      "name": "University Bonn : IGG (DE)",
       "role": "consortium_member"
     },
     {
       "name": "UNIVERSITY OF ALBERTA (CA)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2018-10-30T00:00:00Z",

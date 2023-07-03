@@ -28,82 +28,33 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Subglacial Lake Drainage and Filling Antarctica Multimission",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:missions": [
     "CryoSat-2",
     "SMOS",
+    "Terra",
+    "AQUA (EOS/PM-1)",
     "Sentinel-1",
     "Sentinel-2",
     "ERS-1",
     "ERS-2",
     "ENVISAT",
-    "AMSR-E",
     "TanDEM-X",
     "Landsat-8"
   ],
   "osc:project": "4D-ANTARCTICA",
   "osc:variables": [
-    "Glacier cover"
+    "Glacial Lake Extent"
   ],
   "osc:status": "completed",
   "osc:region": "Antarctica",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Glacier cover"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "CryoSat-2"
-        },
-        {
-          "id": "SMOS"
-        },
-        {
-          "id": "Sentinel-1"
-        },
-        {
-          "id": "Sentinel-2"
-        },
-        {
-          "id": "ERS-1"
-        },
-        {
-          "id": "ERS-2"
-        },
-        {
-          "id": "ENVISAT"
-        },
-        {
-          "id": "AMSR-E"
-        },
-        {
-          "id": "TanDEM-X"
-        },
-        {
-          "id": "Landsat-8"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "subglacial_lake_drainage",
   "created": "2020-09-01T00:00:00Z",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2019-12-31T23:59:59Z",
@@ -127,5 +78,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Glaciers/Ice Sheets",
+    "Glaciers",
+    "Glacial Lake Extent"
+  ]
 }

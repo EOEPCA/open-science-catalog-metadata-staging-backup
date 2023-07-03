@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "sentinel-1-for-science-amazonas",
   "stac_version": "1.0.0",
-  "description": "Develop, test and validate an operational-level Multi-temporal forest Change Detection (MCD) algorithm; estimate carbon loss and gain from anthropogenic and natural land use changes (LUC) in the Amazonas based on the MCD outputs, and perform scientific analysis and interpretation of the quantified carbon gain/loss, accounting for seasonal stressors such as severe droughts or fires.",
+  "description": "Develop, test and validate an operational:level multi-temporal forest Change Detection (MCD) algorithm; estimate carbon loss and gain from anthropogenic and natural land use changes (LUC) in the Amazonas based on the MCD outputs, and perform scientific analysis and interpretation of the quantified carbon gain/loss, accounting for seasonal stressors such as severe droughts or fires.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "S14SCIENCE AMAZONAS",
   "osc:name": "Sentinel-1 for Science: Amazonas",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -61,16 +63,6 @@
     {
       "name": "Norwegian University of Life Scienc (NO)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-04-28T00:00:00Z",

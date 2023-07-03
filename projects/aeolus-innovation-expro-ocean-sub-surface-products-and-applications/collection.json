@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "aeolus-innovation-expro-ocean-sub-surface-products-and-applications",
   "stac_version": "1.0.0",
-  "description": "Assessing the potential of the Aeolus mission to monitor ocean sub-surface optical and biogeochemical properties based on the measurements from the wind lidar ALADIN (Atmospheric Laser Doppler Instrument) at 355 nm.",
+  "description": "Assessing the potential of the Aeolus mission to monitor ocean sub:surface optical and biogeochemical properties based on the measurements from the wind lidar ALADIN (Atmospheric Laser Doppler Instrument) at 355 nm.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,16 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "AEOLUS+inno - AOC",
   "osc:name": "AEOLUS+ INNOVATION - EXPRO+ OCEAN SUB-SURFACE PRODUCTS AND APPLICATIONS",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Atmosphere",
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,21 +54,8 @@
       "role": "consortium_member"
     },
     {
-      "name": "UNIVERSITE DU LITTORAL COTE D'OPALE (FR)",
+      "name": "UNIVERSITE DU LITTORAL COTE D OPALE (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        },
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-09-12T00:00:00Z",

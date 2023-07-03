@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "limb-viewing-instruments",
   "stac_version": "1.0.0",
-  "description": "limb-viewing instruments",
+  "description": "",
   "links": [
     {
       "rel": "root",
@@ -17,5 +17,5 @@
       "title": "EO Missions"
     }
   ],
-  "title": "limb-viewing instruments"
+  "title": "Limb-Viewing Instruments"
 }

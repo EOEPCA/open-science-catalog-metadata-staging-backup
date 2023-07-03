@@ -28,46 +28,23 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:missions": [
     "CALIPSO"
   ],
   "osc:project": "Lidar Climatology of Vertical Aerosol Structure for Space-Based Lidar Simulation Studies-LIVAS",
   "osc:variables": [
-    "Aerosol Optical Depth"
+    "Aerosol Optical Depth/Thickness"
   ],
   "osc:status": "ongoing",
   "osc:region": "Global",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Aerosol Optical Depth"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "CALIPSO"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "atmosphere_optical_thickness_due_to_aerosol",
   "created": "2021-01-01T00:00:00Z",
   "start_datetime": "2006-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
@@ -89,5 +66,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Aerosols",
+    "Aerosol Optical Depth/Thickness"
+  ]
 }

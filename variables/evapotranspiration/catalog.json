@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "evapotranspiration",
   "stac_version": "1.0.0",
-  "description": "Quantity of water evaporated from\nthe soil and plants when the ground is at its natural moisture content.",
+  "description": "The combined processes through which water is transferred to the atmosphere from open water and ice surfaces, bare soil, and vegetation that make up the earth's surface.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/evapotranspiration",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/26fc4850-7ba9-44d8-a156-5c623e17b72f?gtm_keyword=EVAPOTRANSPIRATION&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -31,7 +31,7 @@
       "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
-          "id": "Land"
+          "id": "Atmosphere"
         }
       ]
     }

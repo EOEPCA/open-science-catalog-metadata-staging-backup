@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "BIOMONDO",
   "osc:name": "BIODIVERSITY+ PRECURSORS EXPRO+ THEME 2 - FRESHWATER  (BIOMONDO)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -61,16 +63,6 @@
     {
       "name": "PBL Netherlands Environmental Asses (NL)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-07-21T00:00:00Z",

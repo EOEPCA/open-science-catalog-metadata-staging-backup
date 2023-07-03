@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "contribution-of-swarm-data-to-the-prompt-detection-of-tsunamis-and-other-natural-hazards-costo",
   "stac_version": "1.0.0",
-  "description": "The main objective of COSTO (Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards) project is to better characterize, understand and discover coupling processes and interactions between the ionosphere/magnetosphere, the lower atmosphere and the Earth\u00e2\u20ac\u2122s surface and sea level vertical displacements. The proposed research effort targets to tsunamis that are the result of earthquakes, volcano eruptions or landslides. An early warning for tsunami occurrence, and especially an estimation of the amplitude of a tsunami are still a challenge.",
+  "description": "The main objective of COSTO (Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards) project is to better characterize, understand and discover coupling processes and interactions between the ionosphere_magnetosphere, the lower atmosphere and the Earths surface and sea level vertical displacements. The proposed research effort targets to tsunamis that are the result of earthquakes, volcano eruptions or landslides. An early warning for tsunami occurrence, and especially an estimation of the amplitude of a tsunami are still a challenge.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,16 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "COSTO",
   "osc:name": "Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards  (COSTO)",
   "osc:status": "completed",
+  "osc:themes": [
+    "Solid Earth",
+    "Magnetosphere_Ionosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -61,19 +64,6 @@
     {
       "name": "UNIVERSITAT POLITECNICA DE CATALUNYA (ES)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Solid Earth"
-        },
-        {
-          "id": "Magnetosphere_Ionosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-02-22T00:00:00Z",

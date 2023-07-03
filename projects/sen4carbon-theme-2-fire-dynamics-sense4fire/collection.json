@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "sen4carbon-theme-2-fire-dynamics-sense4fire",
   "stac_version": "1.0.0",
-  "description": "Based on the new possibilities of the Sentinel series of satellites, this project aims to develop a highly novel approach to derive global fire emissions estimates based on the characterisation of individual fires and their behaviour. These data will be combined with bottom-up estimates of fuel and combustion and top-down constraints on total carbon emissions and emissions factors. Furthermore, observations of atmospheric composition will be exploited to provide an uncertainty assessment from top-down emission estimation.",
+  "description": "Based on the new possibilities of the Sentinel series of satellites, this project aims to develop a highly novel approach to derive global fire emissions estimates based on the characterisation of individual fires and their behaviour. These data will be combined with bottom:up estimates of fuel and combustion and top-down constraints on total carbon emissions and emissions factors. Furthermore, observations of atmospheric composition will be exploited to provide an uncertainty assessment from top-down emission estimation.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "SENSE4FIRE",
   "osc:name": "SEN4CARBON Theme 2: Fire Dynamics (SENSE4FIRE)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -57,16 +59,6 @@
     {
       "name": "KNMI (NL)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-05-27T00:00:00Z",

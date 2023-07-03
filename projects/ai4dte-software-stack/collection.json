@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "ai4dte-software-stack",
   "stac_version": "1.0.0",
-  "description": "Digital Twins of the Earth address decision support under uncertainty, providing a prognostic, evidence-based decision support capability representing the dynamic relationships between the physical and natural environments (the Earth System) and society (such as socioeconomic pathways, adaptation and mitigation actions or governance). In accordance with this vision, the uses cases that may be envisioned for the digital twins must provide, inter alia: Quantifiable and comparable impact predictions in the Earth System and/or downstream impact sectors; Actionable information and evidence-based decision support based on comparison of predicted impacts resulting from varying initial conditions; Support to ex-ante Impact Assessment in the form of \u201cwhat-if\u201c scenario analysis; and in addition, Must be explainable in major steps of modelling and simulations, enabling model inspection and user interpretation, and Estimate and propagate uncertainty relevant to users (e.g. for policy makers uncertainty could refer to the confidence levels of a predictive capability of a simulation) in all steps of the use case.",
+  "description": "Digital Twins of the Earth address decision support under uncertainty, providing a prognostic, evidence-based decision support capability representing the dynamic relationships between the physical and natural environments (the Earth System) and society (such as socioeconomic pathways, adaptation and mitigation actions or governance). In accordance with this vision, the uses cases that may be envisioned for the digital twins must provide, inter alia: Quantifiable and comparable impact predictions in the Earth System and/or downstream impact sectors; Actionable information and evidence-based decision support based on comparison of predicted impacts resulting from varying initial conditions; Support to exante Impact Assessment in the form of what-if scenario analysis; and in addition, Must be explainable in major steps of modelling and simulations, enabling model inspection and user interpretation, and Estimate and propagate uncertainty relevant to users (e.g. for policy makers uncertainty could refer to the confidence levels of a predictive capability of a simulation) in all steps of the use case.",
   "links": [
     {
       "rel": "root",
@@ -23,13 +23,17 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "AI4DTE SW stack",
   "osc:name": "AI4DTE Software stack",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land",
+    "Oceans",
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -54,7 +58,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "UNIVERSITAT POLIT\u00c8CNICA DE VAL\u00c8NCIA (ES)",
+      "name": "UNIVERSITAT POLITECNICA DE VALENCIA (ES)",
       "role": "consortium_member"
     },
     {
@@ -64,22 +68,6 @@
     {
       "name": "UNIVERSITY OF LEICESTER (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        },
-        {
-          "id": "Oceans"
-        },
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-12-20T00:00:00Z",

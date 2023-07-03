@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "volcano-monitoring-using-deep-learning",
   "stac_version": "1.0.0",
-  "description": "This project will seek to develop a deep learning based model that is able to monitor the majority of the world\u00e2\u20ac\u0161subaerial volcanoes using satellite based measurements.  This algorithm will incorporate a model that is trained solely on time series of SAR data, and so does not require pre-training on databases of natural images (e.g. ImageNet).  Additionally, the model will feature complementary and diverse inputs, such as phase, coherence, and amplitude.",
+  "description": "This project will seek to develop a deep learning based model that is able to monitor the majority of the world subaerial volcanoes using satellite based measurements.  This algorithm will incorporate a model that is trained solely on time series of SAR data, and so does not require pre:training on databases of natural images (e.g. ImageNet).  Additionally, the model will feature complementary and diverse inputs, such as phase, coherence, and amplitude.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,16 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "(LPF) VMDL",
   "osc:name": "Volcano Monitoring using Deep Learning",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land",
+    "Solid Earth"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -53,19 +56,6 @@
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        },
-        {
-          "id": "Solid Earth"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-06-23T00:00:00Z",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "detection-and-threats-of-marine-heat-waves-careheat",
   "stac_version": "1.0.0",
-  "description": "Oceans are responsible for absorbing circa 90% of the Earth\u2019s heat budget and 30% of the human-induced carbon emissions. While anthropogenic forcing (i.e., the rising of atmospheric CO2 concentration) is leading to the global warming of the climate system, the full disclosure of its role in all the physical processes involved in these changes still requires research advances to the current scientific knowledge, from an Earth Systems perspective. Indeed, the ocean\u2019s importance is not only one of climate system stabilization (i.e., reaching the equilibrium state, in response to external radiative forcing), but it is also related to its role as a significant services provider, in what is concerned with both marine ecosystems and blue economy activities. Hence, climate-induced effects in these two ocean-based domains are affected not only by long term changes but also by short-lived extreme events. It is under this scope that Marine Heat Waves (MHW) have been the topic of recent scientific advances and discussions, i.e., the realization that climate change is potentially linked with increasing frequencies of abnormal warm seawater temperature events, affecting living organisms and the overall ecosystems, ocean, and planetary health. CAREHeat aims to improve current MHW detection and characterization methodology and to advance the understanding of the physical processes involved in MHW development. It will also assess MHW impact on marine Ecosystems and Biogeochemistry, and Ecosystem Services.",
+  "description": "Oceans are responsible for absorbing circa 90% of the Earthss heat budget and 30% of the human-induced carbon emissions. While anthropogenic forcing (i.e., the rising of atmospheric CO2 concentration) is leading to the global warming of the climate system, the full disclosure of its role in all the physical processes involved in these changes still requires research advances to the current scientific knowledge, from an Earth Systems perspective. Indeed, the oceanss importance is not only one of climate system stabilization (i.e., reaching the equilibrium state, in response to external radiative forcing), but it is also related to its role as a significant services provider, in what is concerned with both marine ecosystems and blue economy activities. Hence, climate:induced effects in these two ocean-based domains are affected not only by long term changes but also by short:lived extreme events. It is under this scope that Marine Heat Waves (MHW) have been the topic of recent scientific advances and discussions, i.e., the realization that climate change is potentially linked with increasing frequencies of abnormal warm seawater temperature events, affecting living organisms and the overall ecosystems, ocean, and planetary health. CAREHeat aims to improve current MHW detection and characterization methodology and to advance the understanding of the physical processes involved in MHW development. It will also assess MHW impact on marine Ecosystems and Biogeochemistry, and Ecosystem Services.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "CareHEAT",
   "osc:name": "deteCtion and threAts of maRinE Heat waves (CAREHeat)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,7 +49,7 @@
       ]
     },
     {
-      "name": "CNR-INSTITUTE OF MARINE SCIENCES-ISMAR (IT)+ATLANTIC - Association for an Atla (PT)",
+      "name": "CNR:INSTITUTE OF MARINE SCIENCES:ISMAR (IT)+ATLANTIC : Association for an Atla (PT)",
       "role": "consortium_member"
     },
     {
@@ -69,16 +71,6 @@
     {
       "name": "Mercator Ocean International (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-01-02T00:00:00Z",

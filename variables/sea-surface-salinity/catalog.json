@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "sea-surface-salinity",
   "stac_version": "1.0.0",
-  "description": "Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW).  In the open ocean the correct term should be  \u00e2\u20ac\u0153halinity\u00e2\u20ac\u009d with reference of the diversity of salts involved.",
+  "description": "Sea surface salinity observations contribute to monitoring the global water cycle (evaporation, precipitation and glacier and river runoff). On large scales, surface salinity can be used to infer long-term changes of the global hydrological cycle. Surface salinity, together with surface temperature, is indicative of the surface expression of ocean frontal features and eddies.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/sea_surface_salinity",
+      "href": "https://gcos.wmo.int/en/essential-climate-variables/surface-salinity",
       "type": "text/html",
       "title": "Description"
     },
@@ -32,9 +32,12 @@
       "concepts": [
         {
           "id": "Oceans"
+        },
+        {
+          "id": "Cryosphere"
         }
       ]
     }
   ],
-  "title": "Sea surface salinity"
+  "title": "Sea Surface Salinity"
 }

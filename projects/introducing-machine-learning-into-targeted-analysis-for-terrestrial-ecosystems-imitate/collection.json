@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "introducing-machine-learning-into-targeted-analysis-for-terrestrial-ecosystems-imitate",
   "stac_version": "1.0.0",
-  "description": "The proposed IMITATE project aims to address the following questions:How well can machine learning methods emulate physical process-based land surface models, focused over Europe? Can explainable AI techniques provide new insights into process understanding when combining land surface models and Earth Observation data Are the learnt relationships between the modeled inputs and outputs consistent with those from Earth Observation data? To do this the project will: produce land surface model simulations from the JULES ESM (Earth System Model) over Europe focusing on the carbon cycle develop, train and evaluate machine learning models (emulators) against the simulated land surface parameters use these emulators to investigate the complex emergent relationships and feedback to gain an increased understanding of the underlying Earth System processes and to test whether data from satellite-based essential climate variables (e.g. ESA-CCI) are consistent with the relationships learnt from the land surface models. produce an Emulated-GPP (gross primary productivity) data product based on EO data, using the relationships learnt from the land surface model.",
+  "description": "The proposed IMITATE project aims to address the following questions: How well can machine learning methods emulate physical process-based land surface models, focused over Europe? Can explainable AI techniques provide new insights into process understanding when combining land surface models and Earth Observation data Are the learnt relationships between the modeled inputs and outputs consistent with those from Earth Observation data? To do this the project will: produce land surface model simulations from the JULES ESM (Earth System Model) over Europe focusing on the carbon cycle develop, train and evaluate machine learning models (emulators) against the simulated land surface parameters use these emulators to investigate the complex emergent relationships and feedback to gain an increased understanding of the underlying Earth System processes and to test whether data from satellite-based essential climate variables (e.g. ESA-CCI) are consistent with the relationships learnt from the land surface models. produce an Emulated-GPP (gross primary productivity) data product based on EO data, using the relationships learnt from the land surface model.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "IMITATE",
   "osc:name": "Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems -IMITATE",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -49,16 +51,6 @@
     {
       "name": "UNIVERSITY OF LEICESTER (GB)UNIVERSITY OF READING (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-11-03T00:00:00Z",

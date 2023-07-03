@@ -27,50 +27,26 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE",
+  "osc:themes": [
+    "Solid Earth",
+    "Cryosphere"
+  ],
   "osc:missions": [
     "GOCE"
   ],
   "osc:project": "GOCE+ ANTARCTICA",
   "osc:variables": [
-    "Gravity field"
+    "Gravitational Field",
+    "Crustal Motion"
   ],
   "osc:status": "ongoing",
   "osc:region": "Antarctica",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Solid Earth"
-        },
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Gravity field"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "GOCE"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "density_temperature_viscosity",
   "created": "2019-10-25T00:00:00Z",
   "start_datetime": "2009-01-01T00:00:00Z",
   "end_datetime": "2013-12-31T23:59:59Z",
@@ -93,5 +69,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Gravity/Gravitational Field",
+    "Gravitational Field",
+    "Crustal Motion"
+  ]
 }

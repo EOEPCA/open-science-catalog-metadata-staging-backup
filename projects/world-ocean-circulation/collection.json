@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "world-ocean-circulation",
   "stac_version": "1.0.0",
-  "description": "The objectives of this activity are to (i) develop and validate innovative methodologies allowing to optimize the synergetic capacity offered by satellite data, in situ measurements and numerical models for improving the retrieval of upper-layer ocean circulation products over 4 high-priority pilot areas chosen as to represent at best the diversity of the world ocean circulation regimes, i.e. one polar sea area, one western boundary current, one upwelling region, one coastal area, and ii) in line with the objectives of the United Nations Decade of Ocean Science for Sustainable Development, demonstrate the unique capacity of the innovative products to support effective actions aiming at procuring a clean, safe, sustainably harvested and productive ocean by targeting FOUR high priority pilot applications, i.e. Pollution Monitoring, Safe Navigation, Sustainable Fisheries and Renewable Marine Energies.",
+  "description": "The objectives of this activity are to (i) develop and validate innovative methodologies allowing to optimize the synergetic capacity offered by satellite data, in situ measurements and numerical models for improving the retrieval of upper:layer ocean circulation products over 4 high-priority pilot areas chosen as to represent at best the diversity of the world ocean circulation regimes, i.e. one polar sea area, one western boundary current, one upwelling region, one coastal area, and ii) in line with the objectives of the United Nations Decade of Ocean Science for Sustainable Development, demonstrate the unique capacity of the innovative products to support effective actions aiming at procuring a clean, safe, sustainably harvested and productive ocean by targeting FOUR high priority pilot applications, i.e. Pollution Monitoring, Safe Navigation, Sustainable Fisheries and Renewable Marine Energies.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "WOC",
   "osc:name": "World Ocean circulation",
   "osc:status": "completed",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -55,7 +57,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "CNR-RESEARCH INSTITUTE FOR GEO-HYDROLOGICAL PROTECTION \u00e2\u20ac\u201c IRPI (IT)",
+      "name": "CNR:RESEARCH INSTITUTE FOR GEO:HYDROLOGICAL PROTECTION IRPI (IT)",
       "role": "consortium_member"
     },
     {
@@ -73,16 +75,6 @@
     {
       "name": "Universiteit Utrecht (NL)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-04-28T00:00:00Z",

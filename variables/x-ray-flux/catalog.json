@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "x-ray-flux",
   "stac_version": "1.0.0",
-  "description": "Integrated X-ray flux.",
+  "description": "The rate of flow of x-rays through a reference surface.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/x_ray_flux",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/8686285f-9949-4a22-ad80-a1bf4d43e122?gtm_keyword=X-RAY%20FLUX&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "X-ray flux"
+  "title": "X-Ray Flux"
 }

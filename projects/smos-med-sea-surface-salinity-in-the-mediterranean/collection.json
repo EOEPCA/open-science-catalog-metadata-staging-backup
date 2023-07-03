@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "SMOS+ Mediterranean",
-  "osc:name": "SMOS+ Med: Sea Surface Salinity in the Mediterranean",
+  "osc:name": "SMOS+ Med-Sea Surface Salinity in the Mediterranean",
   "osc:status": "completed",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,18 +53,8 @@
       "role": "consortium_member"
     },
     {
-      "name": "INSTITUTO DE CIENCIAS DEL MAR - CSIC (ES)",
+      "name": "INSTITUTO DE CIENCIAS DEL MAR : CSIC (ES)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2014-03-19T00:00:00Z",

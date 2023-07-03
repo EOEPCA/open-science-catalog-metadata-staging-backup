@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "S5p Inno - Glyoxal",
   "osc:name": "SENTINEL-5P+ INNOVATION - GLYRETRO (GLYoxal Retrievals from TROPOMI)",
   "osc:status": "completed",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,22 +49,12 @@
       ]
     },
     {
-      "name": "BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA-IASB) (BE)",
+      "name": "BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA:IASB) (BE)",
       "role": "consortium_member"
     },
     {
       "name": "UNIVERSITAET BREMEN (DE)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-06-26T00:00:00Z",

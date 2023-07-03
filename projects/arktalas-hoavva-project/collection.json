@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "arktalas-hoavva-project",
   "stac_version": "1.0.0",
-  "description": "Quantitative multi-scale (temporal and spatial) understanding of sea ice, ocean and atmosphere interactive processes and their mutual feedback, focusing on four Arctic Scientific research Challenges: Arctic Amplification, open water on sea ice dynamics, impact of extreme event storms in sea-ice formation, Artcic ocean spin-up",
+  "description": "Quantitative multi-scale (temporal and spatial) understanding of sea ice, ocean and atmosphere interactive processes and their mutual feedback, focusing on four Arctic Scientific research Challenges- Arctic Amplification, open water on sea ice dynamics, impact of extreme event storms in sea-ice formation, Artcic ocean spin up",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,16 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "ARKATLAS",
   "osc:name": "ARKTALAS HOAVVA PROJECT",
   "osc:status": "completed",
+  "osc:themes": [
+    "Oceans",
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -61,19 +64,6 @@
     {
       "name": "NOVELTIS France",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        },
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-05-16T00:00:00Z",

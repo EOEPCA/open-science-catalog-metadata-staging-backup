@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "earth-system-data-lab-esdl",
   "stac_version": "1.0.0",
-  "description": "The main objective of the Earth System Data Lab (ESDL) project was to establish and operate a service to the scientific community that greatly facilitates access and exploitation of the multivariate data set in the ESDL and by this means advances the understanding of the interactions between the ocean-land-atmosphere system and society. To this end, the main tasks of the project fall into four main categories: infrastructure and operations, data sets and tools, use cases and scientific exploitation, and communication and outreach. The core part of the ESDL is the data in analysis-ready form, together with tools and methods to generate, access, and exploit the ESDL. The software to generate the ESDL and the data access APIs have been developed in the preceding project CAB-LAB. The modular open source approach adopted in CAB-LAB has proven to be convenient, flexible, and powerful and effectively meets user requirements. Access the ESDL in github: https://github.com/esa-esdl",
+  "description": "The main objective of the Earth System Data Lab (ESDL) project was to establish and operate a service to the scientific community that greatly facilitates access and exploitation of the multivariate data set in the ESDL and by this means advances the understanding of the interactions between the ocean-land-atmosphere system and society. To this end, the main tasks of the project fall into four main categories- infrastructure and operations, data sets and tools, use cases and scientific exploitation, and communication and outreach. The core part of the ESDL is the data in analysis-ready form, together with tools and methods to generate, access, and exploit the ESDL. The software to generate the ESDL and the data access APIs have been developed in the preceding project CAB-LAB. The modular open source approach adopted in CAB-LAB has proven to be convenient, flexible, and powerful and effectively meets user requirements. Access the ESDL in github: https://github.com/esa-esdl",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,17 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "ESDL",
   "osc:name": "Earth System Data Lab (ESDL)",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land",
+    "Oceans",
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -73,22 +77,6 @@
     {
       "name": "PLYMOUTH MARINE LABORATORY (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        },
-        {
-          "id": "Oceans"
-        },
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2018-01-05T00:00:00Z",

@@ -16,11 +16,6 @@
       "title": "Access"
     },
     {
-      "rel": "via",
-      "href": "http://www.circas.eu/index.php#results",
-      "title": "Documentation"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
@@ -28,46 +23,26 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Albedo_Regional_S3A/SLSTR",
+  "osc:themes": [
+    "Land",
+    "Cryosphere",
+    "Atmosphere",
+    "Oceans"
+  ],
   "osc:missions": [
     "Sentinel-3"
   ],
   "osc:project": "ConsIstent Retrieval of Cloud Aerosol Surface",
   "osc:variables": [
-    "Earth surface albedo"
+    "Albedo"
   ],
   "osc:status": "ongoing",
   "osc:region": "Regional",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Earth surface albedo"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Sentinel-3"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "surface_albedo",
   "created": "2021-12-31T00:00:00Z",
   "start_datetime": "2019-01-01T00:00:00Z",
   "end_datetime": "2019-12-31T23:59:59Z",
@@ -91,5 +66,13 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Atmospheric Radiation",
+    "Albedo",
+    "Snow/Ice",
+    "Land Surface",
+    "Surface Radiative Properties",
+    "Terrestrial Hydrosphere"
+  ]
 }

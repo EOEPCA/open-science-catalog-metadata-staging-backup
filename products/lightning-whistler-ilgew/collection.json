@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "lightning-whistler-ilgew",
   "stac_version": "1.0.0",
-  "description": "Two different kinds of files have been included in this dataset: 1) Whistlers\u00e2\u20ac\u2122 daily files of whistler data, entirely based on data from the Swarm ASM instruments, one file for each satellite operated in burst mode. These files can hold a different version number according to the data processing performed; 2) One events dataset file, which contains a selection of remarkable whistler events in the period between January 2014 and February 2020 for which additional parameters have been included, from ground observations of lightning, ionospheric profiles from ionosondes and models and in-situ electron density from Swarm EFI Langmuir Probe (LP). Product details: https://ilgew.ipgp.fr/docs/SW-ILGEW-IPGP-D08-11-08-2021.pdf",
+  "description": "Two different kinds of files have been included in this dataset: 1) Whistlers'daily files of whistler data, entirely based on data from the Swarm ASM instruments, one file for each satellite operated in burst mode. These files can hold a different version number according to the data processing performed; 2) One events dataset file, which contains a selection of remarkable whistler events in the period between January 2014 and February 2020 for which additional parameters have been included, from ground observations of lightning, ionospheric profiles from ionosondes and models and in-situ electron density from Swarm EFI Langmuir Probe (LP). Product details: https://ilgew.ipgp.fr/docs/SW-ILGEW-IPGP-D08-11-08-2021.pdf",
   "links": [
     {
       "rel": "root",
@@ -23,49 +23,24 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Lightning-generated whistler events_Global_SWARM",
+  "osc:themes": [
+    "Atmosphere",
+    "Magnetosphere_Ionosphere"
+  ],
   "osc:missions": [
     "SWARM"
   ],
-  "osc:project": "Investigating lightning generated ELF Whistlers to improve ionospheric models (ILGEW)",
+  "osc:project": "INVESTIGATING LIGHTNING GENERATED ELF WHISTLERS TO IMPROVE IONOSPHERIC MODELS (ILGEW)",
   "osc:variables": [
-    "Ionospheric plasma density"
+    "Lightning"
   ],
   "osc:status": "ongoing",
   "osc:region": null,
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        },
-        {
-          "id": "Magnetosphere_Ionosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Ionospheric plasma density"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "SWARM"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "lightning_whistler_events",
   "created": "2021-08-11T00:00:00Z",
   "start_datetime": "2014-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
@@ -89,5 +64,12 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Atmospheric Electricity",
+    "Lightning",
+    "Weather Events",
+    "Upper Atmosphere",
+    "Physical Properties"
+  ]
 }

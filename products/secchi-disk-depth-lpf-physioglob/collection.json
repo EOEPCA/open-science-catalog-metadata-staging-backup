@@ -23,58 +23,27 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Secchi Disk depth_Global Oceans_Multimission",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:missions": [
-    "SeaWiFS",
-    "MERIS",
-    "MODIS",
-    "VIIRS"
+    "OrbView-2",
+    "ENVISAT",
+    "Terra",
+    "AQUA (EOS/PM-1)",
+    "Suomi NPP"
   ],
   "osc:project": "PHYSIOGLOB: Assessing the inter-annual physiological response of phytoplankton to global warming using long-term satellite observations",
   "osc:variables": [
-    "Ocean chlorophyll concentration"
+    "Chlorophyll Concentration"
   ],
   "osc:status": "ongoing",
   "osc:region": "Global Oceans",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Ocean chlorophyll concentration"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "SeaWiFS"
-        },
-        {
-          "id": "MERIS"
-        },
-        {
-          "id": "MODIS"
-        },
-        {
-          "id": "VIIRS"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "secchi_disk_depth",
   "created": "2019-01-01T00:00:00Z",
   "start_datetime": "1997-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",
@@ -96,5 +65,12 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ocean Optics",
+    "Chlorophyll",
+    "Chlorophyll Concentration",
+    "Ocean Chemistry",
+    "Pigments"
+  ]
 }

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "sentinel-3-tandem-for-climate-s3tc-expro",
   "stac_version": "1.0.0",
-  "description": "Detailed study of the inter-satellite discrepancies, differences and uncertainties using data acquired during the Sentinel-3 Tandem phase.",
+  "description": "Detailed study of the inter:satellite discrepancies, differences and uncertainties using data acquired during the Sentinel-3 Tandem phase.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "S3 Tandem for Climate",
   "osc:name": "SENTINEL-3 TANDEM FOR CLIMATE (S3TC) EXPRO+",
   "osc:status": "completed",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,7 +49,7 @@
       ]
     },
     {
-      "name": "ACRI-ST S.A.S. (FR)",
+      "name": "ACRI:ST S.A.S. (FR)",
       "role": "consortium_member"
     },
     {
@@ -73,16 +75,6 @@
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2018-05-28T00:00:00Z",

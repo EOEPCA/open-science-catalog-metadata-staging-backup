@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "land-surface-carbon-constellation-study",
   "stac_version": "1.0.0",
-  "description": "Demonstrate the synergistic exploitation of satellite observations from active and passive microwave sensors together with optical data for an improved understanding of the terrestrial carbon and water cycles. This will be achieved by: adapting a numerical land surface model for its application in a data assimilation framework, anf by acquisition and analysis of campaign data sets at Sodankyl\u00e2\u02c6\u0161\u00c2\u00a7 (Finland) and Majadas de Tietar (Spain) supporting the development of the model and the data assimilation scheme on the local scale.",
+  "description": "Demonstrate the synergistic exploitation of satellite observations from active and passive microwave sensors together with optical data for an improved understanding of the terrestrial carbon and water cycles. This will be achieved by: adapting a numerical land surface model for its application in a data assimilation framework, anf by acquisition and analysis of campaign data sets at Sodankyl (Finland) and Majadas de Tietar (Spain) supporting the development of the model and the data assimilation scheme on the local scale.",
   "links": [
     {
       "rel": "root",
@@ -23,13 +23,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "Carbon Constellation",
   "osc:name": "LAND SURFACE CARBON CONSTELLATION STUDY",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -92,16 +94,6 @@
     {
       "name": "Max Planck Institute for Biogeochemistry (DE)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-08-07T00:00:00Z",

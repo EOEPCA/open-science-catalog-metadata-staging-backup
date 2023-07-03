@@ -32,47 +32,24 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:missions": [
     "CryoSat-2"
   ],
   "osc:project": "ArcticSummIT: Arctic Summer Ice Thickness",
   "osc:variables": [
-    "Sea-ice thickness"
+    "Ice Depth/Thickness"
   ],
   "osc:status": "ongoing",
   "osc:region": "Arctic",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Sea-ice thickness"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "CryoSat-2"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "sea_ice_physical_oceanography",
   "created": "2019-11-14T00:00:00Z",
   "start_datetime": "2021-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
@@ -95,5 +72,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Sea Ice",
+    "Ice Depth/Thickness"
+  ]
 }

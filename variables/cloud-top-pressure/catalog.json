@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "cloud-top-pressure",
   "stac_version": "1.0.0",
-  "description": "Pressure at the top of the cloud",
+  "description": "Atmospheric pressure observed at the top of a cloud.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/cloud_top_pressure",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/1a217e7e-74fa-438e-b4bd-5ad574d92e9d?gtm_keyword=CLOUD%20TOP%20PRESSURE&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Cloud top pressure"
+  "title": "Cloud Top Pressure"
 }

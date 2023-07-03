@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change",
   "stac_version": "1.0.0",
-  "description": "Global mean sea level rise is one of the most direct consequences of actual global warming. Since the beginning of the 20th century, global mean sea level experiences an unabated increase of 1.1-1.9 mm.yr-1 recorded by tide gauges. Based on satellite altimetry and since 1993, global mean sea level rises at a higher rate of 3 mm.yr-1. This higher rate denotes a possible acceleration in this global rise. Actual global mean sea level rise mainly reflects global ocean warming (through thermal expansion of sea water) and land ice melt (from Greenland, Antarctica and mountain glaciers). Monitoring precisely these climate variables is mandatory to better understand processes at work under current global warming and to validate climate models used for projections. The OVALIE project proposes to scientifically investigate and partition the respective contribution of the atmospheric forced variability versus the oceanic intrinsic variability for the sea level observations (satellite data -based on Topex/Poseidon, Jason 1-2-3, ERS1, ERS2, ENVISAT, Altika and GRACE- and in situ measurements \u00e2\u20ac\u201cbased on Argo floats and other in situ measurements).\n",
+  "description": "Study of how much the low frequency chaotic intrinsic variability (LFCIV) and the Atmospheric Forced Variability (AFV) account for the regional sea level changes and its causes",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "(LPF) OVALIE",
   "osc:name": "OVALIE: Oceanic intrinsic Variability versus Atmospheric forced variabiLIty of sea level changE",
   "osc:status": "completed",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -49,16 +51,6 @@
     {
       "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2018-10-17T00:00:00Z",

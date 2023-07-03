@@ -28,46 +28,23 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Clear-sky HDO/H2O total column_TROPOMI",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:missions": [
     "Sentinel-5p"
   ],
   "osc:project": "WIFT: Water vapour Isotopologues From TROPOMI",
   "osc:variables": [
-    "HDO"
+    "Water Vapor"
   ],
   "osc:status": "completed",
   "osc:region": "Global",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "HDO"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Sentinel-5p"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "hdo_total_column",
   "created": "2020-01-13T00:00:00Z",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",
@@ -89,5 +66,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Atmospheric Water Vapor",
+    "Water Vapor Indicators",
+    "Water Vapor"
+  ]
 }

@@ -28,54 +28,26 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Snow grain size for European Alps_Multimission",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:missions": [
-    "MODIS",
     "Sentinel-2",
-    "Landsat-8"
+    "Landsat-8",
+    "Terra",
+    "AQUA (EOS/PM-1)"
   ],
   "osc:project": "AlpSnow",
   "osc:variables": [
-    "Snow cover"
+    "Snow Cover"
   ],
   "osc:status": "planned",
   "osc:region": "Europe",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Snow cover"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "MODIS"
-        },
-        {
-          "id": "Sentinel-2"
-        },
-        {
-          "id": "Landsat-8"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "snow_grain",
   "extent": {
     "spatial": {
       "bbox": [
@@ -94,5 +66,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Snow/Ice",
+    "Snow Cover",
+    "Cryospheric Indicators"
+  ]
 }

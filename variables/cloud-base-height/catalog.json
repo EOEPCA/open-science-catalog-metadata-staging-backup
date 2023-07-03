@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "cloud-base-height",
   "stac_version": "1.0.0",
-  "description": "Height of the bottom surface of the cloud",
+  "description": "For a given cloud or cloud layer, the lowest level in the atmosphere at which the air contains a perceptible quantity of cloud particles. See also the definitions for cloud height and cloud ceiling.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/cloud_base_height",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/1f0765e3-4ea3-42be-8ed5-3e26bdebb219?gtm_keyword=CLOUD%20BASE%20HEIGHT&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Cloud base height"
+  "title": "Cloud Base Height"
 }

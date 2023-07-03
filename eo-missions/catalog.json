@@ -24,21 +24,15 @@
     },
     {
       "rel": "child",
-      "href": "./amsr-e/catalog.json",
+      "href": "./aqua-eos-pm-1/catalog.json",
       "type": "application/json",
-      "title": "AMSR-E"
+      "title": "AQUA (EOS/PM-1)"
     },
     {
       "rel": "child",
-      "href": "./amsr2/catalog.json",
+      "href": "./aura/catalog.json",
       "type": "application/json",
-      "title": "AMSR2"
-    },
-    {
-      "rel": "child",
-      "href": "./ascat/catalog.json",
-      "type": "application/json",
-      "title": "ASCAT"
+      "title": "Aura"
     },
     {
       "rel": "child",
@@ -68,7 +62,7 @@
       "rel": "child",
       "href": "./earthcare/catalog.json",
       "type": "application/json",
-      "title": "EARTHCARE"
+      "title": "EarthCARE"
     },
     {
       "rel": "child",
@@ -102,9 +96,9 @@
     },
     {
       "rel": "child",
-      "href": "./glonas/catalog.json",
+      "href": "./glonass/catalog.json",
       "type": "application/json",
-      "title": "GLONAS"
+      "title": "GLONASS"
     },
     {
       "rel": "child",
@@ -117,12 +111,6 @@
       "href": "./gosat/catalog.json",
       "type": "application/json",
       "title": "GOSAT"
-    },
-    {
-      "rel": "child",
-      "href": "./gps/catalog.json",
-      "type": "application/json",
-      "title": "GPS"
     },
     {
       "rel": "child",
@@ -144,9 +132,15 @@
     },
     {
       "rel": "child",
-      "href": "./in-situ/catalog.json",
+      "href": "./icesat-2/catalog.json",
       "type": "application/json",
-      "title": "In-situ"
+      "title": "ICESat-2"
+    },
+    {
+      "rel": "child",
+      "href": "./in-situ-observations/catalog.json",
+      "type": "application/json",
+      "title": "In-situ observations"
     },
     {
       "rel": "child",
@@ -168,9 +162,9 @@
     },
     {
       "rel": "child",
-      "href": "./landsat/catalog.json",
+      "href": "./landsat-7/catalog.json",
       "type": "application/json",
-      "title": "Landsat"
+      "title": "Landsat-7"
     },
     {
       "rel": "child",
@@ -180,39 +174,33 @@
     },
     {
       "rel": "child",
-      "href": "./limb-viewing-instruments/catalog.json",
+      "href": "./landsat-9/catalog.json",
       "type": "application/json",
-      "title": "limb-viewing instruments"
+      "title": "Landsat-9"
     },
     {
       "rel": "child",
-      "href": "./meris/catalog.json",
+      "href": "./limb-viewing-instruments/catalog.json",
       "type": "application/json",
-      "title": "MERIS"
+      "title": "Limb-Viewing Instruments"
     },
     {
       "rel": "child",
       "href": "./meteosat/catalog.json",
       "type": "application/json",
-      "title": "MeteoSat"
+      "title": "Meteosat"
     },
     {
       "rel": "child",
-      "href": "./model/catalog.json",
+      "href": "./metop/catalog.json",
       "type": "application/json",
-      "title": "Model"
+      "title": "MetOp"
     },
     {
       "rel": "child",
-      "href": "./modis/catalog.json",
+      "href": "./numerical-models/catalog.json",
       "type": "application/json",
-      "title": "MODIS"
-    },
-    {
-      "rel": "child",
-      "href": "./msg-seviri/catalog.json",
-      "type": "application/json",
-      "title": "MSG-SEVIRI"
+      "title": "Numerical models"
     },
     {
       "rel": "child",
@@ -222,9 +210,9 @@
     },
     {
       "rel": "child",
-      "href": "./omi/catalog.json",
+      "href": "./orbview-2/catalog.json",
       "type": "application/json",
-      "title": "OMI"
+      "title": "OrbView-2"
     },
     {
       "rel": "child",
@@ -234,15 +222,9 @@
     },
     {
       "rel": "child",
-      "href": "./saral-altika/catalog.json",
+      "href": "./saral/catalog.json",
       "type": "application/json",
-      "title": "SARAL/ALtiKa"
-    },
-    {
-      "rel": "child",
-      "href": "./seawifs/catalog.json",
-      "type": "application/json",
-      "title": "SeaWiFS"
+      "title": "SARAL"
     },
     {
       "rel": "child",
@@ -288,6 +270,12 @@
     },
     {
       "rel": "child",
+      "href": "./suomi-npp/catalog.json",
+      "type": "application/json",
+      "title": "Suomi NPP"
+    },
+    {
+      "rel": "child",
       "href": "./swarm/catalog.json",
       "type": "application/json",
       "title": "SWARM"
@@ -300,6 +288,12 @@
     },
     {
       "rel": "child",
+      "href": "./terra/catalog.json",
+      "type": "application/json",
+      "title": "Terra"
+    },
+    {
+      "rel": "child",
       "href": "./terrasar-x/catalog.json",
       "type": "application/json",
       "title": "TerraSAR-X"
@@ -309,12 +303,6 @@
       "href": "./topex-poseidon/catalog.json",
       "type": "application/json",
       "title": "TOPEX/Poseidon"
-    },
-    {
-      "rel": "child",
-      "href": "./viirs/catalog.json",
-      "type": "application/json",
-      "title": "VIIRS"
     }
   ],
   "title": "EO Missions"

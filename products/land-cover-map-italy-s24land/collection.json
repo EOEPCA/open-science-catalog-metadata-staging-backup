@@ -28,46 +28,23 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Land cover map_Italy_2018_S2",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:missions": [
     "Sentinel-2"
   ],
   "osc:project": "S2 for Land and Water, Change Detection/Multi-temporal",
   "osc:variables": [
-    "Land cover"
+    "Land Use/Land Cover Classification"
   ],
   "osc:status": "ongoing",
   "osc:region": "Italy",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Land cover"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Sentinel-2"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "land_cover",
   "created": "2019-04-01T00:00:00Z",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",
@@ -89,5 +66,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Land Use/Land Cover",
+    "Land Use/Land Cover Classification"
+  ]
 }

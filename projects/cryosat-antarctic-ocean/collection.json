@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "cryosat-antarctic-ocean",
   "stac_version": "1.0.0",
-  "description": "This project is part of ESA's Scientific Data Exploitation Element activities, a component of the Earth Observation Envelope program (EOEP-5). This programme element responds to needs of the Earth Observation and Earth System science communities in terms of innovative methods, new products, open science tools and new Earth science results. The focus of the CryoSat+ Antarctic Ocean project is to develop, inter-compare and validate multiple approaches to sea surface height and sea ice thickness retrieval on Antarctic sea ice. The approaches to be considered in this proposal are: a. Novel LRM/SAR/SARIN methods for leads, polynyas, open ocean and sea ice classification b. Along-track processors over leads, polynyas and open ocean for sea surface estimation c. Along-track processors over sea ice floes for sea ice thickness estimation d. Pan-Antarctic gridded products of dynamic ocean topography and geostrophic currents (along with secondary products: EKE, upwelling, etc) e. Pan-Antarctic gridded products of sea ice thickness f. Preliminary inter-comparison of along-track and gridded products developed in steps b-e g. Validation over selected tracks and key regions against in-situ and airborne data.",
+  "description": "This project is part of ESA s Scientific Data Exploitation Element activities, a component of the Earth Observation Envelope program (EOEP 5). This programme element responds to needs of the Earth Observation and Earth System science communities in terms of innovative methods, new products, open science tools and new Earth science results. The focus of the CryoSat+ Antarctic Ocean project is to develop, inter-compare and validate multiple approaches to sea surface height and sea ice thickness retrieval on Antarctic sea ice. The approaches to be considered in this proposal are: a. Novel LRM/SAR/SARIN methods for leads, polynyas, open ocean and sea ice classification b. Along-track processors over leads, polynyas and open ocean for sea surface estimation c. Along-track processors over sea ice floes for sea ice thickness estimation d. Pan-Antarctic gridded products of dynamic ocean topography and geostrophic currents (along with secondary productS- EKE, upwelling, etc) e. Pan-Antarctic gridded products of sea ice thickness f. Preliminary inter:comparison of Along-track and gridded products developed in steps b:e g. Validation over selected tracks and key regions againstin-situ and airborne data.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "Cryosat+ Antarctic Ocean",
   "osc:name": "Cryosat+ Antarctic Ocean",
   "osc:status": "completed",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,7 +49,7 @@
       ]
     },
     {
-      "name": "MULLARD SPACE SCIENCE LABORATORY \u00e2\u20ac\u0161 UNIVERSITY COLLEGE LONDON (GB)",
+      "name": "MULLARD SPACE SCIENCE LABORATORY UNIVERSITY COLLEGE LONDON (GB)",
       "role": "consortium_member"
     },
     {
@@ -69,16 +71,6 @@
     {
       "name": "isardSAT UK (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2018-12-21T00:00:00Z",

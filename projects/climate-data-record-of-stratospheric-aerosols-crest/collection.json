@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "climate-data-record-of-stratospheric-aerosols-crest",
   "stac_version": "1.0.0",
-  "description": "Elaborate methods to merge aerosol extinction coefficient records from solar/lunar/stellar occultation and limb-scatter instruments and create a merged longterm multi-mission aerosol record. The objective is to increase the reliability of the data set by including multiple instruments measuring similar atmospheric quantities in the post-SAGE II period.",
+  "description": "Elaborate methods to merge aerosol extinction coefficient records from solar lunar stellar occultation and limb:scatter instruments and create a merged longterm multi mission aerosol record. The objective is to increase the reliability of the data set by including multiple instruments measuring similar atmospheric quantities in the post-SAGE II period.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "CREST",
   "osc:name": "CLIMATE DATA RECORD OF STRATOSPHERIC AEROSOLS (CREST)",
   "osc:status": "completed",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -53,16 +55,6 @@
     {
       "name": "ENIPOWER SPA (IT)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-06-23T00:00:00Z",

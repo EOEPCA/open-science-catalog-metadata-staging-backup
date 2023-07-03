@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "pass-swio",
   "stac_version": "1.0.0",
-  "description": "PASS-SWIO, a project funded by ESA (via the Permanent Open Call),  aims to establish a sea level monitoring system for Madagascar based on the installation and deployment of a low-cost relocatable tide gauge (Portagauge). Portagauge uses GNSS interferometric reflectometry (GNSS-IR) technology alongside a conventional radar. By combining these measurements with the analysis of satellite altimeter sea level data we will provide validation and wider scale knowledge of sea-level variability. Madagascar has very limited tidal prediction, primarily based on model data. It has no national sea level monitoring capability. There is currently only one functioning tide gauge station.  A previous tide gauge, in the cyclone-prone north of the island, was destroyed several years ago. The project partners will work with the national Madagascar Meteorological Agency (DGM \u2013 Direction G\u00e9n\u00e9rale de la M\u00e9t\u00e9orologie). DGM will take responsibility for the local maintenance and operation of the Portagauge. They will also receive training to carry out the data processing and analysis of tide gauge and satellite altimeter data. Discussions will be held with key stakeholders to review the project and agree a long-term Road Map for the sustainable implementation of a national sea-level monitoring system for Madagascar. This will serve as model for other island states and coastal countries in the South West Indian Ocean (SWIO) region and beyond. If you would like to access any of the data sets produced, please contact the Project Manager via the Project website. The Kick Off meeting was held on 5 May 2022. The activity has a duration of one year.",
+  "description": "PASS-SWIO, a project funded by ESA (via the Permanent Open Call),  aims to establish a sea level monitoring system for Madagascar based on the installation and deployment of a low-cost relocatable tide gauge (Portagauge). Portagauge uses GNSS interferometric reflectometry (GNSS-IR) technology alongside a conventional radar. By combining these measurements with the analysis of satellite altimeter sea level data we will provide validation and wider scale knowledge of sea-level variability. Madagascar has very limited tidal prediction, primarily based on model data. It has no national sea level monitoring capability. There is currently only one functioning tide gauge station.  A previous tide gauge, in the cyclone-prone north of the island, was destroyed several years ago. The project partners will work with the national Madagascar Meteorological Agency (DGM-Direction Generale de la Meteorologie). DGM will take responsibility for the local maintenance and operation of the Portagauge. They will also receive training to carry out the data processing and analysis of tide gauge and satellite altimeter data. Discussions will be held with key stakeholders to review the project and agree a long-term Road Map for the sustainable implementation of a national sea-level monitoring system for Madagascar. This will serve as model for other island states and coastal countries in the South West Indian Ocean (SWIO) region and beyond. If you would like to access any of the data sets produced, please contact the Project Manager via the Project website. The Kick Off meeting was held on 5 May 2022. The activity has a duration of one year.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "PASS-SWIO",
   "osc:name": "PASS-SWIO",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -49,16 +51,6 @@
     {
       "name": "National Oceanography Centre (NOC) (GB)SATELLITE OCEANOGRAPHIC CONSULTANTS LTD. (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-11-21T00:00:00Z",

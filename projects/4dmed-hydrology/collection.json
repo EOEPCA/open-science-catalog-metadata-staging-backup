@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "4dmed-hydrology",
   "stac_version": "1.0.0",
-  "description": "4DMED-Hydrology aims at developing an advanced, high-resolution, and consistent reconstruction of the Mediterranean terrestrial water cycle by using the latest developments of Earth Observation (EO) data as those derived from the ESA-Copernicus missions. In particular, by exploiting previous ESA initiatives, 4DMED-Hydrology intends: to demonstrate how this EO capacity can help to describe the interactions between complex hydrological processes and anthropogenic pressure (often difficult to model) in synergy with model-based approaches; to exploit synergies among EO data to maximize the retrieval of information of the different water cycle components (i.e., precipitation, soil moisture, evaporation, runoff, river discharge) to provide an accurate representation of our environment and advanced fit-for-purpose decision support systems in a changing climate for a more resilient society. 4DMED-Hydrology will focus on four test areas, namely the Po river basin in Italy, the Ebro River basin in Spain, the H\u00e9rault\u202fRiver basin in France and the Medjerda\u202fRiver basin in Tunisia, which are representatives of climates, topographic complexity, land use, human activities and hydrometeorological hazards of the Mediterranean Region (MR). The developed products will be then extended to the entire region. The resulting EO-based products (i.e., experimental datasets, EO products) will be made available in an Open Science catalogue hosted and operated by ESA.",
+  "description": "4DMED-Hydrology aims at developing an advanced, high-resolution, and consistent reconstruction of the Mediterranean terrestrial water cycle by using the latest developments of Earth Observation (EO) data as those derived from the ESA-Copernicus missions. In particular, by exploiting previous ESA initiatives, 4DMED-Hydrology intendS- to demonstrate how this EO capacity can help to describe the interactions between complex hydrological processes and anthropogenic pressure (often difficult to model) in synergy with model-based approaches; to exploit synergies among EO data to maximize the retrieval of information of the different water cycle components (i.e., precipitation, soil moisture, evaporation, runoff, river discharge) to provide an accurate representation of our environment and advanced fit-for-purpose decision support systems in a changing climate for a more resilient society. 4DMED-Hydrology will focus on four test areas, namely the Po river basin in Italy, the Ebro River basin in Spain, the Herault River basin in France and the Medjerda River basin in Tunisia, which are representatives of climates, topographic complexity, land use, human activities and hydrometeorological hazards of the Mediterranean Region (MR). The developed products will be then extended to the entire region. The resulting EO-based products (i.e., experimental datasets, EO products) will be made available in an Open Science catalogue hosted and operated by ESA.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "4DMED-Hydrology",
   "osc:name": "4DMED-Hydrology",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,7 +49,7 @@
       ]
     },
     {
-      "name": "CNR - INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)CIMA RESEARCH FOUNDATION (IT)",
+      "name": "CNR : INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)CIMA RESEARCH FOUNDATION (IT)",
       "role": "consortium_member"
     },
     {
@@ -55,7 +57,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "EURAC RESEARCH - ACCADEMIA EUROPEA (IT)",
+      "name": "EURAC RESEARCH : ACCADEMIA EUROPEA (IT)",
       "role": "consortium_member"
     },
     {
@@ -63,7 +65,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "INSTITUT DE RECHERCHE POUR LE D\u00c9VELOPPEMENT (IRD) (FR)",
+      "name": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT (IRD) (FR)",
       "role": "consortium_member"
     },
     {
@@ -81,16 +83,6 @@
     {
       "name": "VANDERSAT B.V. (NL)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-01-01T00:00:00Z",

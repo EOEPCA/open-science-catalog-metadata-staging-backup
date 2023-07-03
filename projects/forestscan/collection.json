@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "forestscan",
   "stac_version": "1.0.0",
-  "description": "investigate novel technologies such as Terrestrial Laser Scanning (TLS) and Unmanned Aerial Vehicle-based Laser Scanning (UAV-LS) to complement manual plot based measurements of AGB by collecting and analysing such data for three tropical sites in French Guiana (Paracou), Gabon (Lop\u00e2\u02c6\u0161\u00c2\u00a9) and Malayisa (Sepilok). In addition at each of these sites airborne laser scanning data is available.",
+  "description": "Investigate novel technologies such as Terrestrial Laser Scanning (TLS) and Unmanned Aerial Vehicle-based Laser Scanning (UAV-LS) to complement manual plot based measurements of AGB by collecting and analysing such data for three tropical sites in French Guiana (Paracou), Gabon (Lop) and Malayisa (Sepilok). In addition at each of these sites airborne laser scanning data is available.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "ForestScan",
   "osc:name": "ForestScan",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -73,16 +75,6 @@
     {
       "name": "WAGENINGEN UNIVERSITEIT (NL)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-08-03T00:00:00Z",

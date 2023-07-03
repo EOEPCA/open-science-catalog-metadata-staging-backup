@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "snow-cover",
   "stac_version": "1.0.0",
-  "description": "Fraction of a given area which is covered by snow",
+  "description": "Pertaining to the extent, depth, and longevity of snow pack.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/snow_cover",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/all/c8ff0035-4776-4eb9-8cc9-a63d380102c8?gtm_keyword=SNOW%20COVER&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Snow cover"
+  "title": "Snow Cover"
 }

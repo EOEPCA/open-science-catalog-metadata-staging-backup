@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "using-deep-learning-with-cryosat-radar-altimetry-to-adjust-elevations-and-map-surface-penetration-cryosurf",
   "stac_version": "1.0.0",
-  "description": "Using CryoSat-2 interferometric synthetic aperture radar (SARIn) altimetry together with NASA\u00e2\u20ac\u0161\u00c3\u201e\u00c3\u00b4s operation IceBridge and IceSat-2 Lidar data in a multi-layer neural network (NN) in order to enhance CryoSat-2 SARIn swath measurements.",
+  "description": "Using CryoSat-2 interferometric synthetic aperture radar (SARIn) altimetry together with NASA operation IceBridge and Icesat:2 Lidar data in a multi-layer neural network (NN) in order to enhance CryoSat-2 SARIn swath measurements.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "CryoSURF",
   "osc:name": "Using deep learning with CryoSat radar altimetry to adjust elevations and map SURFace penetration (CryoSURF)",
   "osc:status": "completed",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -53,16 +55,6 @@
     {
       "name": "EARTHWAVE Ltd (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-10-22T00:00:00Z",

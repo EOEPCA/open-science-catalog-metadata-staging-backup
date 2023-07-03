@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "SENSE4GPP",
   "osc:name": "SEN4CARBON Theme 1: Terrestrial Gross Primary Production (SEN4GPP)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,11 +53,11 @@
       "role": "consortium_member"
     },
     {
-      "name": "CEA-LSCE (FR)",
+      "name": "CEA:LSCE (FR)",
       "role": "consortium_member"
     },
     {
-      "name": "Fondazione Centro Euro-Mediterraneo (IT)",
+      "name": "Fondazione Centro Euro:Mediterraneo (IT)",
       "role": "consortium_member"
     },
     {
@@ -63,22 +65,12 @@
       "role": "consortium_member"
     },
     {
-      "name": "UNIVERSITAT POLIT\u00e2\u02c6\u0161\u00c3\u00a0CNICA DE VAL\u00e2\u02c6\u0161\u00c3\u00a0NCIA (ES)",
+      "name": "UNIVERSITAT POLITECNICA DE VALENCIA (ES)",
       "role": "consortium_member"
     },
     {
       "name": "UNIVERSITY OF SOUTHAMPTON (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-04-22T00:00:00Z",

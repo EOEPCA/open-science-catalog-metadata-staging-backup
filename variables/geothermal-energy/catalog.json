@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "geothermal-energy",
   "stac_version": "1.0.0",
-  "description": "Geothermal energy is heat derived from Earth's interior. Resources include hot springs and wells, hot dry rock, and even molten rock. These may be converted into heat and electricity.",
+  "description": "Heat transferred from the earth's molten core to under-ground deposits of dry steam (steam with no water droplets), wet steam (a mixture of steam and water droplets), hot water, or rocks lying fairly close to the earth's surface.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://ngdc.noaa.gov/hazard/geotherm.shtml",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/all/33d1810f-40c6-4b37-ac90-7435ef5fa507?gtm_keyword=GEOTHERMAL%20ENERGY&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Geothermal energy"
+  "title": "Geothermal Energy"
 }

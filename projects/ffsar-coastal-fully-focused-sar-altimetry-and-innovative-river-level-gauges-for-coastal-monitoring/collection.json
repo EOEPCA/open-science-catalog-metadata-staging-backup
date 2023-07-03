@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "ffsar-coastal-fully-focused-sar-altimetry-and-innovative-river-level-gauges-for-coastal-monitoring",
   "stac_version": "1.0.0",
-  "description": "FFSAR-Coastal is a project funded by ESA to apply the Fully Focused SAR altimetry processor on Sentinel-3 data and evaluate its potential to make a significant new contribution to coastal and estuarine monitoring systems. Innovative in situ water level gauges will be used for validation. Two different environments will be considered: The Severn Estuary and river: A highly dynamic mixed tidal estuary environment, the confluence between a river and its estuary experiencing large tidal range and strong tidal currents. The lower Rhone Delta and Camargue: A low lying, flat river delta and wetland environment, susceptible to inundation and rising water levels. By studying these two very different environments, the potential applicability and benefits offered by FF SAR altimeter data in other coastal, estuarine and delta locations will be demonstrated.Applications will focus on the benefits offered by the very high along-track resolution in water level and backscatter that can be provided through FF SAR processing. User agencies and groups from the two regions will be consulted to identify gaps and priorities for monitoring requirements. Time series will be provided by autonomous in situ microstation gauges, drone-mounted instruments will be used to provide water level profiles between the fixed locations and satellite tracks.",
+  "description": "FFSAR-Coastal is a project funded by ESA to apply the Fully Focused SAR altimetry processor on Sentinel-3 data and evaluate its potential to make a significant new contribution to coastal and estuarine monitoring systems. Innovative in situ water level gauges will be used for validation. Two different environments will be considered- The Severn Estuary and river: A highly dynamic mixed tidal estuary environment, the confluence between a river and its estuary experiencing large tidal range and strong tidal currents. The lower Rhone Delta and Camargue: A low lying, flat river delta and wetland environment, susceptible to inundation and rising water levels. By studying these two very different environments, the potential applicability and benefits offered by FF SAR altimeter data in other coastal, estuarine and delta locations will be demonstrated.Applications will focus on the benefits offered by the very high Along-track resolution in water level and backscatter that can be provided through FF SAR processing. User agencies and groups from the two regions will be consulted to identify gaps and priorities for monitoring requirements. Time series will be provided by autonomous in situ microstation gauges, drone-mounted instruments will be used to provide water level profiles between the fixed locations and satellite tracks.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "FFSAR - Coastal",
   "osc:name": "FFSAR - Coastal Fully Focused SAR Altimetry and Innovative River Level Gauges for Coastal Monitoring",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,7 +53,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "New Forest District Council - Channel Coastal Observatory (GB)",
+      "name": "New Forest District Council : Channel Coastal Observatory (GB)",
       "role": "consortium_member"
     },
     {
@@ -61,16 +63,6 @@
     {
       "name": "VORTEX.IO (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-11-11T00:00:00Z",

@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "SMOS+ SeaIce",
   "osc:name": "STSE SMOS+ SEA ICE",
   "osc:status": "completed",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -69,16 +71,6 @@
     {
       "name": "UNIVERSITAET BREMEN (DE)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2014-08-20T00:00:00Z",

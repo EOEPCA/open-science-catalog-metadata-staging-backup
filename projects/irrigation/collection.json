@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "Irrigation+",
   "osc:name": "Irrigation+",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,7 +49,7 @@
       ]
     },
     {
-      "name": "CNR \u2013 INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)",
+      "name": "CNR:INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)",
       "role": "consortium_member"
     },
     {
@@ -71,18 +73,8 @@
       "role": "consortium_member"
     },
     {
-      "name": "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)",
+      "name": "UNIVERSITE TOULOUSE III: PAUL SABATIER (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-01-03T00:00:00Z",

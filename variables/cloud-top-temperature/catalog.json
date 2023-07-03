@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "cloud-top-temperature",
   "stac_version": "1.0.0",
-  "description": "Temperature of the top of the cloud (highest cloud in case of multi-layer clouds)",
+  "description": "Atmospheric temperature observed at the top of a cloud.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/cloud_top_temperature",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/4dc3fcab-a947-47b9-b9a1-acb2a23ee478?gtm_keyword=CLOUD%20TOP%20TEMPERATURE&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Cloud top temperature"
+  "title": "Cloud Top Temperature"
 }

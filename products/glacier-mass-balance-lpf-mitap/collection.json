@@ -18,46 +18,23 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
-  "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00c2\u00b0S between 2013 and 2017_Antarctica_TanDEM-X",
+  "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:missions": [
     "TanDEM-X"
   ],
   "osc:project": "Mass balance and ice dynamics of Antarctic Peninsula glaciers (MIT-AP)",
   "osc:variables": [
-    "Glacier topography"
+    "Glacier Mass Balance/Ice Sheet Mass Balance"
   ],
   "osc:status": "planned",
   "osc:region": "Antarctica",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Glacier topography"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "TanDEM-X"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "glacier_mass_balance",
   "start_datetime": "2013-01-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",
   "extent": {
@@ -78,5 +55,12 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Glaciers/Ice Sheets",
+    "Glacier Mass Balance/Ice Sheet Mass Balance",
+    "Cryospheric Indicators",
+    "Glacial Measurements",
+    "Sea Ice"
+  ]
 }

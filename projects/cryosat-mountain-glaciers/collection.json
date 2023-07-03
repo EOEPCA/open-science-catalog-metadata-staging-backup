@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "CryoSat+ Mountain Glaciers",
   "osc:name": "CryoSat+ Mountain Glaciers",
   "osc:status": "completed",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -63,18 +65,8 @@
       "role": "consortium_member"
     },
     {
-      "name": "University College of London \u00e2\u20ac\u0161 Mullard Space Science Labor (UCL)",
+      "name": "University College of London  Mullard Space Science Labor (UCL)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2015-05-13T00:00:00Z",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "s2-for-land-and-water-change-detection-multi-temporal",
   "stac_version": "1.0.0",
-  "description": "The project aims at defining the scientific methods and the related prototype algorithms for addressing three main challenges with the multispectral and multiresolution Sentinel 2 images: 1) change detection; 2) analysis of image time series; and 3) updating of land-cover maps.",
+  "description": "The project aims at defining the scientific methods and the related prototype algorithms for addressing three main challenges with the multispectral and multiresolution Sentinel 2 images- 1) change detection; 2) analysis of image time series; and 3) updating of land-cover maps.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "S2 for Land and Water-Change Detection",
   "osc:name": "S2 for Land and Water, Change Detection/Multi-temporal",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,22 +49,12 @@
       ]
     },
     {
-      "name": "UNIVERSIT\u00c3\u20ac DEGLI STUDI DI TRENTO (IT)",
+      "name": "UNIVERSITA DEGLI STUDI DI TRENTO (IT)",
       "role": "consortium_member"
     },
     {
       "name": "FONDAZIONE BRUNO KESSLER FBK (IT)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2015-01-12T00:00:00Z",

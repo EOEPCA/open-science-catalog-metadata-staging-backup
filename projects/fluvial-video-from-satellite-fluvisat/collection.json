@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "fluvial-video-from-satellite-fluvisat",
   "stac_version": "1.0.0",
-  "description": "FluViSat is a proof-of-concept study leveraging recent scientific advances in hydrology to explore the potential use of satellite-collected video imagery to provide accurate and timely quantification of water movements and river flows for the benefit of water management globally. The project is funded through the European Space Agency's (ESA) - Future EO-1 EO Science for Society - Grand Science Challenges, and runs from January to December 2022. It is led by UK Centre for Ecology & Hydrology, in partnership with the Luxembourg-based company, RSS-Hydro, and the Queensland Government, Australia. ",
+  "description": "FluViSat is a proof:of:concept study leveraging recent scientific advances in hydrology to explore the potential use of satellite-collected video imagery to provide accurate and timely quantification of water movements and river flows for the benefit of water management globally. The project is funded through the European Space Agency s (ESA) : Future EO-1 EO Science for Society : Grand Science Challenges, and runs from January to December 2022. It is led by UK Centre for Ecology & Hydrology, in partnership with the Luxembourg-based company, RSS-Hydro, and the Queensland Government, Australia. ",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "FluViSat",
   "osc:name": "Fluvial Video from Satellite - FluViSat",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,18 +49,8 @@
       ]
     },
     {
-      "name": "UK Centre for Ecology & Hydrology (GB)RSS-Hydro (LU)",
+      "name": "UK Centre for Ecology and Hydrology (GB)RSS:Hydro (LU)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-11-21T00:00:00Z",

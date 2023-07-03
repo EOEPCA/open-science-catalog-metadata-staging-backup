@@ -28,50 +28,26 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system for seasonal to decadal studies of ocean acidification (v2021)",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:missions": [
     "SMOS",
     "Sentinel-3"
   ],
   "osc:project": "Satellite Oceanographic Datasets for Acidification (OceanSODA)",
   "osc:variables": [
-    "Dissolved inorganic carbon (DIC)"
+    "Alkalinity",
+    "Carbon Dioxide",
+    "Carbonate"
   ],
   "osc:status": "completed",
   "osc:region": "Global",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Dissolved inorganic carbon (DIC)"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "SMOS"
-        },
-        {
-          "id": "Sentinel-3"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "total_alkalinity_in_sea_water",
   "created": "2021-09-15T00:00:00Z",
   "start_datetime": "1985-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
@@ -93,5 +69,13 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ocean Chemistry",
+    "Carbonate",
+    "Alkalinity",
+    "Water Quality/Water Chemistry",
+    "Water Characteristics",
+    "Carbon Dioxide"
+  ]
 }

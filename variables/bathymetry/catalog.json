@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "bathymetry",
   "stac_version": "1.0.0",
-  "description": "",
+  "description": "The measurement and charting of the spatial variation of the ocean depths.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/bathymetry",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/80d79c7e-6c64-4ada-bfcc-4093969758a5?gtm_keyword=BATHYMETRY&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },

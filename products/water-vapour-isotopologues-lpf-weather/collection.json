@@ -23,46 +23,23 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:missions": [
     "GOSAT"
   ],
   "osc:project": "WATER CYCLE CHANGES CHARACTERISED FROM ATMOSPHERIC MOISTURE RECYCLING (WEATHER)",
   "osc:variables": [
-    "HDO"
+    "Water Vapor Profiles"
   ],
   "osc:status": "ongoing",
   "osc:region": "Global",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "HDO"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "GOSAT"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "water_vapour",
   "created": "2020-09-30T00:00:00Z",
   "start_datetime": "2009-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
@@ -84,5 +61,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Atmospheric Water Vapor"
+  ]
 }

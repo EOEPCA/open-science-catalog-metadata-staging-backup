@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "the-4d-earth-swarm-project",
   "stac_version": "1.0.0",
-  "description": "The goal of the 4D-Earth-Swarm project, supported by ESA, is to improve our understanding of the rapid (interannual) changes in the geomagnetic field, as recorded by the three satellites of the Swarm mission of ESA - as well as earlier satellite missions such as CHAMP and Oersted, and ground-based observatories. The project is planned for 2.5 years, starting in Sept. 2019. It gathers partners from 5 institutes (ISTerre Grenoble; ETH Zurich; Leeds University; IPG Paris, DTU Copenhagen). It involves in particular: formatting of geomagnetic records, and their cleaning from external (magnetospheric and ionospheric) sources; numerical simulations of the geodynamo at extreme parameters; modeling of rapid field changes by means of reduced quasi-geostrophic equations; re-analysis of magnetic changes with a stochastic data assimilation algorithm; a specific analysis of the topographic coupling between the core and the mantle; a focus on high latitude jets and the physics on the cylinder tangent to the inner core and aligned with the Earth's rotation axis.",
+  "description": "The goal of the 4d-Earth:Swarm project, supported by ESA, is to improve our understanding of the rapid (interannual) changes in the geomagnetic field, as recorded by the three satellites of the Swarm mission of ESA : as well as earlier satellite missions such as CHAMP and Oersted, and ground-based observatories. The project is planned for 2.5 years, starting in Sept. 2019. It gathers partners from 5 institutes (ISTerre Grenoble; ETH Zurich; Leeds University; IPG Paris, DTU Copenhagen). It involves in particular: formatting of geomagnetic records, and their cleaning from external (magnetospheric and ionospheric) sources; numerical simulations of the geodynamo at extreme parameters; modeling of rapid field changes by means of reduced quasi-geostrophic equations; re-analysis of magnetic changes with a stochastic data assimilation algorithm; a specific analysis of the topographic coupling between the core and the mantle; a focus on high latitude jets and the physics on the cylinder tangent to the inner core and aligned with the Earth s rotation axis.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,16 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "4D-Earth SWARM",
   "osc:name": "The 4D-Earth Swarm project",
   "osc:status": "completed",
+  "osc:themes": [
+    "Solid Earth",
+    "Magnetosphere_Ionosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -69,19 +72,6 @@
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Solid Earth"
-        },
-        {
-          "id": "Magnetosphere_Ionosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-04-16T00:00:00Z",

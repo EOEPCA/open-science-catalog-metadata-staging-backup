@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "earth-observation-for-surface-mass-balance-eo4smb",
   "stac_version": "1.0.0",
-  "description": "Direct quantification of  surface mass balance using parameters derived from Cryosat-2 observations over Greenland",
+  "description": "Direct quantification of  surface mass balance using parameters derived from CryoSat-2 observations over Greenland",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "EO4SMB",
   "osc:name": "Earth Observation for Surface Mass Balance (EO4SMB)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,7 +53,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "ENVEO \u00e2\u20ac\u0161 ENVIRONMENTAL EARTH OBSERVATION INFORMATION TECHNOLOGY GMBH (AT)",
+      "name": "ENVEO ENVIRONMENTAL EARTH OBSERVATION INFORMATION TECHNOLOGY GMBH (AT)",
       "role": "consortium_member"
     },
     {
@@ -65,16 +67,6 @@
     {
       "name": "Technical University of Denmark (DK)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2020-08-27T00:00:00Z",

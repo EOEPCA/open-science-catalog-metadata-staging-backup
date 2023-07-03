@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "vod-africa-smos-vegetation",
   "stac_version": "1.0.0",
-  "description": "Product details: Rodr\u00c3\u00adguez-Fern\u00c3\u00a1ndez, N. J., Mialon, A., Mermoz, S., Bouvet, A., Richaume, P., Al Bitar, A., Al-Yaari, A., Brandt, M., Kaminski, T., Le Toan, T., Kerr, Y. H., and Wigneron, J.-P.: An evaluation of SMOS L-band vegetation optical depth (L-VOD) data sets: high sensitivity of L-VOD to above-ground biomass in Africa, Biogeosciences, 15, 4627\u00e2\u20ac\u201c4645, https://doi.org/10.5194/bg-15-4627-2018, 2018.",
+  "description": "Product details: Rodriguez-Fernandez, N. J., Mialon, A., Mermoz, S., Bouvet, A., Richaume, P., Al Bitar, A., Al-Yaari, A., Brandt, M., Kaminski, T., Le Toan, T., Kerr, Y. H., and Wigneron, J.-P.: An evaluation of SMOS L-band vegetation optical depth (L-VOD) data sets: high sensitivity of L-VOD to above-ground biomass in Africa, Biogeosciences, 15, 4627-4645, https://doi.org/10.5194/bg-15-4627-2018, 2018.",
   "links": [
     {
       "rel": "root",
@@ -23,10 +23,12 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "VOD_Africa_SMOS IC products CATDS",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:missions": [
     "SMOS"
   ],
@@ -37,32 +39,7 @@
   "osc:status": "ongoing",
   "osc:region": "Africa",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Biomass"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "SMOS"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "biomass",
   "created": "2018-07-30T00:00:00Z",
   "extent": {
     "spatial": {
@@ -82,5 +59,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Vegetation",
+    "Biomass",
+    "Biosphere"
+  ]
 }

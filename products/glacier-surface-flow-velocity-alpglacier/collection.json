@@ -23,50 +23,24 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Glacier surface flow velocity_SwissAlps_S1/2",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:missions": [
     "Sentinel-1",
     "Sentinel-2"
   ],
   "osc:project": "AlpGlacier",
   "osc:variables": [
-    "Glacier motion"
+    "Glacier Motion/Ice Sheet Motion"
   ],
   "osc:status": "planned",
   "osc:region": "Switzerland",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Glacier motion"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Sentinel-1"
-        },
-        {
-          "id": "Sentinel-2"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "glacier_surface_flow",
   "start_datetime": "2016-01-01T00:00:00Z",
   "end_datetime": "2016-12-31T23:59:59Z",
   "extent": {
@@ -87,5 +61,12 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Glaciers/Ice Sheets",
+    "Glacier Motion/Ice Sheet Motion",
+    "Cryospheric Indicators",
+    "Glacial Measurements",
+    "Sea Ice"
+  ]
 }

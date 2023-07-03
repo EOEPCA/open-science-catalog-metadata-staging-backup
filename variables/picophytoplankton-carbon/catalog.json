@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "picophytoplankton-carbon",
   "stac_version": "1.0.0",
-  "description": "Mass concentration of picophytoplankton expressed as carbon in sea water [mg C m-3]",
+  "description": "Mass concentration of picophytoplankton expressed as carbon in sea water [mg C m-3]. Marine picophytoplankton, which mainly include the autotrophic Prochlorococcus, Synechococcus, and picoeukaryotes, are autotrophic prokaryotes and eukaryotes with an equivalent spherical diameter of less than 2-3 nm. Their abundance and distributions in the ocean have been well-studied during the past two decades. Now it is well known that picophytoplankton are ubiquitous and abundant (i.e., 102 to 106 cells mL-1) in the photic zone and contribute significantly to autotrophic carbon biomass and primary production (PP) (Worden et al., 2004, 2015; Jardillier et al., 2010; Buitenhuis et al., 2012). ",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "",
+      "href": "https://www.frontiersin.org/articles/10.3389/fmicb.2017.01926/full",
       "type": "text/html",
       "title": "Description"
     },

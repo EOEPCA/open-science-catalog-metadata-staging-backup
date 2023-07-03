@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "mediterranean-sea-regional-initiative-land-based-pollution",
   "stac_version": "1.0.0",
-  "description": "This activity is part of the ESA Regional Initiatives programme. Its objective is to support the implementation of regional priorities in the Mediterranean region by i) developing and delivering a customized set of EO based products that fully exploit the large volumes of EO data from the Sentinel missions and other EO missions and ii) achieving measurable progresses in embedding this EO-derived information into the strategies and cooperation actions within the Mediterranean region. The specific objective of the Sea Application project is to improve the characterisation, quantification and monitoring of land-based pollution in the Mediterranean coastal waters by optimizing the use of the Sentinel missions and other relevant space and in-situ datasets to develop multi-mission high resolution gap-free maps of water quality parameters (e.g. Chl-a, turbidity, TSM, nutrients, bacteriological concentration,\u00e2\u20ac\u00a6) and added-value innovative products (e.g. river plumes contour,\u00e2\u20ac\u00a6) over the period 2015-present.",
+  "description": "This activity is part of the ESA Regional Initiatives programme. Its objective is to support the implementation of regional priorities in the Mediterranean region by i) developing and delivering a customized set of EO based products that fully exploit the large volumes of EO data from the Sentinel missions and other EO missions and ii) achieving measurable progresses in embedding this EO-derived information into the strategies and cooperation actions within the Mediterranean region. The specific objective of the Sea Application project is to improve the characterisation, quantification and monitoring of land based pollution in the Mediterranean coastal waters by optimizing the use of the Sentinel missions and other relevant space and in-situ datasets to develop multi mission high resolution gap-free maps of water quality parameters (e.g. Chl a, turbidity, TSM, nutrients, bacteriological concentration) and added value innovative products (e.g. river plumes contour) over the period 2015-present.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "MedEOS",
   "osc:name": "Mediterranean Sea Regional Initiative - Land-based pollution",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -51,7 +53,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "CERTH \u00e2\u20ac\u201c CENTRE FOR RESEARCH & TECHN (GR)",
+      "name": "CERTH CENTRE FOR RESEARCH & TECHN (GR)",
       "role": "consortium_member"
     },
     {
@@ -59,7 +61,7 @@
       "role": "consortium_member"
     },
     {
-      "name": "I-SEA (FR)",
+      "name": "I:SEA (FR)",
       "role": "consortium_member"
     },
     {
@@ -75,18 +77,8 @@
       "role": "consortium_member"
     },
     {
-      "name": "kartECO \u00e2\u20ac\u201c Environmental and Energy (GR)",
+      "name": "kartECO: Environmental and Energy (GR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-09-03T00:00:00Z",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "smos-rainfall-land",
   "stac_version": "1.0.0",
-  "description": "The objective of the \u00e2\u20ac\u02dcSMOS+RAINFALL\u00e2\u20ac\u2122 project is to ingest satellite soil moisture information derived from ASCAT, SMOS and SMAP into the latest state-of-the-art satellite precipitation products like those derived from the Global Precipitation Measurement mission (GPM) to enhance rainfall observation accuracy over land.",
+  "description": "The objective of the SMOS+RAINFALL project is to ingest satellite soil moisture information derived from ASCAT, SMOS and SMAP into the latest state of the art satellite precipitation products like those derived from the Global Precipitation Measurement mission (GPM) to enhance rainfall observation accuracy over land.",
   "links": [
     {
       "rel": "root",
@@ -28,13 +28,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "SMOS+ Rainfall Land",
   "osc:name": "SMOS+ Rainfall Land",
   "osc:status": "completed",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -55,22 +57,12 @@
       "role": "consortium_member"
     },
     {
-      "name": "CNR-RESEARCH INSTITUTE FOR GEO-HYDROLOGICAL PROTECTION \u00e2\u20ac\u201c IRPI (IT)",
+      "name": "CNR:RESEARCH INSTITUTE FOR GEO:HYDROLOGICAL PROTECTION IRPI (IT)",
       "role": "consortium_member"
     },
     {
-      "name": "UNIVERSITE TOULOUSE III \u00e2\u20ac\u201c PAUL SABATIER (FR)",
+      "name": "UNIVERSITE TOULOUSE III PAUL SABATIER (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2015-07-16T00:00:00Z",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "geodynamo-simulation-4d-earth-swarm",
   "stac_version": "1.0.0",
-  "description": "Long time series of outputs from a geodynamo model approaching Earth\u00e2\u20ac\u2122s core conditions and a catalogue of simulated jerks from a geodynamo model approaching Earth\u00e2\u20ac\u2122s core conditions",
+  "description": "Long time series of outputs from a geodynamo model approaching Earth's core conditions and a catalogue of simulated jerks from a geodynamo model approaching Earth's core conditions.",
   "links": [
     {
       "rel": "root",
@@ -28,10 +28,13 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Geodynamo simulation data_Earth core",
+  "osc:themes": [
+    "Solid Earth",
+    "Magnetosphere_Ionosphere"
+  ],
   "osc:missions": [
     "SWARM",
     "CryoSat-2",
@@ -41,52 +44,13 @@
   ],
   "osc:project": "The 4D-Earth Swarm project",
   "osc:variables": [
-    "Geomagnetic field"
+    "Magnetic Fields/Magnetic Currents",
+    "Geomagnetic Indices"
   ],
   "osc:status": "ongoing",
   "osc:region": "Global",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Solid Earth"
-        },
-        {
-          "id": "Magnetosphere_Ionosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Geomagnetic field"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "SWARM"
-        },
-        {
-          "id": "CryoSat-2"
-        },
-        {
-          "id": "CHAMP"
-        },
-        {
-          "id": "SAC-C"
-        },
-        {
-          "id": "OERSTED"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "geodynamo_simulation",
   "created": "2020-10-22T00:00:00Z",
   "extent": {
     "spatial": {
@@ -106,5 +70,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ionosphere/Magnetosphere Dynamics",
+    "Magnetic Fields/Magnetic Currents",
+    "Sun-Earth Interactions",
+    "Geomagnetic Indices"
+  ]
 }

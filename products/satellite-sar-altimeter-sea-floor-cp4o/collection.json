@@ -28,10 +28,13 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat",
+  "osc:themes": [
+    "Oceans",
+    "Cryosphere"
+  ],
   "osc:missions": [
     "CryoSat"
   ],
@@ -42,35 +45,7 @@
   "osc:status": "ongoing",
   "osc:region": "Oceania",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        },
-        {
-          "id": "Cryosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Bathymetry"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "CryoSat"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "sea_floor_depth",
   "created": "2019-01-01T00:00:00Z",
   "start_datetime": "2012-01-01T00:00:00Z",
   "end_datetime": "2013-12-31T23:59:59Z",
@@ -92,5 +67,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Bathymetry/Seafloor Topography",
+    "Bathymetry"
+  ]
 }

@@ -23,49 +23,24 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model",
+  "osc:themes": [
+    "Oceans",
+    "Land"
+  ],
   "osc:missions": [
-    "Model"
+    "Numerical models"
   ],
   "osc:project": "BALTIC+ Sea-Land biogeochemical linkages (SeaLaBio)",
   "osc:variables": [
-    "Colour Dissolved Organic Matter (CDOM)"
+    "Colored Dissolved Organic Matter"
   ],
   "osc:status": "ongoing",
   "osc:region": "Baltics",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        },
-        {
-          "id": "Land"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Colour Dissolved Organic Matter (CDOM)"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Model"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "chromophoric_dissolved_organic_matter",
   "created": "2020-03-19T00:00:00Z",
   "start_datetime": "2016-01-01T00:00:00Z",
   "end_datetime": "2019-12-31T23:59:59Z",
@@ -87,5 +62,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ocean Chemistry",
+    "Organic Matter"
+  ]
 }

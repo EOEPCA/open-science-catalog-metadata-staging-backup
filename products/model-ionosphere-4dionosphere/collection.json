@@ -18,46 +18,23 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Semi-empiric model of ionosphere processes_SWARM",
+  "osc:themes": [
+    "Magnetosphere_Ionosphere"
+  ],
   "osc:missions": [
     "SWARM"
   ],
   "osc:project": "4DIONOSPHERE (SWARM VIP)",
   "osc:variables": [
-    "Ionospheric plasma density"
+    "Ionosphere/Magnetosphere Dynamics"
   ],
   "osc:status": "planned",
   "osc:region": null,
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Magnetosphere_Ionosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Ionospheric plasma density"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "SWARM"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "model_ionosphere",
   "extent": {
     "spatial": {
       "bbox": [
@@ -78,5 +55,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Sun-Earth Interactions",
+    "Ionosphere/Magnetosphere Dynamics"
+  ]
 }

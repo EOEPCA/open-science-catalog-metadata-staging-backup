@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "snow-depth",
   "stac_version": "1.0.0",
-  "description": "Vertical distance from the snow surface to the underlying surface (ground, glacier ice or sea ice).",
+  "description": "Pertaining to the thickness of snow pack throughout the year.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/snow_depth",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/47bc8942-6fdd-4173-bf38-209e933d843f?gtm_keyword=SNOW%20DEPTH&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -36,5 +36,5 @@
       ]
     }
   ],
-  "title": "Snow depth"
+  "title": "Snow Depth"
 }

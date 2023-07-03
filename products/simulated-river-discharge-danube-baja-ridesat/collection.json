@@ -28,58 +28,27 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Simulated River discharge products_Danube Baja_Multimission",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:missions": [
     "Sentinel-3",
-    "SARAL/ALtiKa",
+    "SARAL",
     "CryoSat-2",
-    "MODIS"
+    "Terra",
+    "AQUA (EOS/PM-1)"
   ],
   "osc:project": "RIDESAT - RIver flow monitoring and Discharge Estimation by integrating multiple SATellite data",
   "osc:variables": [
-    "River discharge"
+    "Fresh Water River Discharge"
   ],
   "osc:status": "ongoing",
   "osc:region": "Europe",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "River discharge"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Sentinel-3"
-        },
-        {
-          "id": "SARAL/ALtiKa"
-        },
-        {
-          "id": "CryoSat-2"
-        },
-        {
-          "id": "MODIS"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "simulated_river_discharge",
   "created": "2020-03-05T00:00:00Z",
   "start_datetime": "2018-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
@@ -101,5 +70,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Atmospheric/Ocean Indicators",
+    "Fresh Water River Discharge"
+  ]
 }

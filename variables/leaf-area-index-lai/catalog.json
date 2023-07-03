@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "leaf-area-index-lai",
   "stac_version": "1.0.0",
-  "description": "LAI is the total one-sided area of photosynthetic tissue per unit ground surface area",
+  "description": "A general term for a wide variety of processes and landforms involving the downslope movement, under gravity, of masses of soil and rock material.[Dictionary of Geological Terms, American Geological Institute, 1984.]",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/leaf_area_index_lai",
+      "href": "https://gcos.wmo.int/en/essential-climate-variables/lai/",
       "type": "text/html",
       "title": "Description"
     },

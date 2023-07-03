@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "soil-temperature",
   "stac_version": "1.0.0",
-  "description": "The standard depths for soil temperature measurements are 5, 10, 20, 50 and 100 cm below the surface; additional depths may be included. The site for such measurements should be a level plot of bare ground (about 75 cm^2 ) and typical of the surrounding soil for which information is required.",
+  "description": "The degree of hotness or coldness of the soil as measured on some definite temperature scale.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/soil_temperature",
+      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/26f5bb2a-b872-41e8-922f-3a9a0e9f9bcd?gtm_keyword=SOIL%20TEMPERATURE&gtm_scheme=Earth%20Science; https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/021714ad-1cae-441c-bb6f-4be866a0f742?gtm_keyword=SOIL%20TEMPERATURE&gtm_scheme=Earth%20Science; https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/240ff021-6a9c-4603-983d-f135ee7e49ab?gtm_keyword=SOIL%20TEMPERATURE&gtm_scheme=Earth%20Science; https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/0546b91a-294d-45d9-8b45-76aaad0cc024?gtm_keyword=SOIL%20TEMPERATURE&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },
@@ -32,9 +32,12 @@
       "concepts": [
         {
           "id": "Land"
+        },
+        {
+          "id": "Cryosphere"
         }
       ]
     }
   ],
-  "title": "Soil temperature"
+  "title": "Soil Temperature"
 }

@@ -23,49 +23,25 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "Ground Virtual Observatory Data CRYOSAT-2",
+  "osc:themes": [
+    "Solid Earth",
+    "Magnetosphere_Ionosphere"
+  ],
   "osc:missions": [
     "CryoSat-2"
   ],
   "osc:project": "The 4D-Earth Swarm project",
   "osc:variables": [
-    "Geomagnetic field"
+    "Magnetic Fields/Magnetic Currents",
+    "Geomagnetic Indices"
   ],
   "osc:status": "ongoing",
   "osc:region": null,
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Solid Earth"
-        },
-        {
-          "id": "Magnetosphere_Ionosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "Geomagnetic field"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "CryoSat-2"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "ground_virtual_observatory_cryosat2",
   "created": "2021-09-10T00:00:00Z",
   "extent": {
     "spatial": {
@@ -87,5 +63,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ionosphere/Magnetosphere Dynamics",
+    "Magnetic Fields/Magnetic Currents",
+    "Sun-Earth Interactions",
+    "Geomagnetic Indices"
+  ]
 }

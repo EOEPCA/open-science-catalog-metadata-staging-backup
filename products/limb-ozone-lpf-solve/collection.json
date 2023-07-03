@@ -23,50 +23,24 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
   "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:missions": [
     "Sentinel-2",
     "Sentinel-3"
   ],
   "osc:project": "Stratospheric ozone from limb observations: validation of the profiles, evaluation of trends and their dynamical and chemical drivers (SOLVE)",
   "osc:variables": [
-    "O3 Stratospheric Column"
+    "Total Ozone"
   ],
   "osc:status": "ongoing",
   "osc:region": "Global",
   "osc:type": "product",
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#variable",
-      "concepts": [
-        {
-          "id": "O3 Stratospheric Column"
-        }
-      ]
-    },
-    {
-      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
-      "concepts": [
-        {
-          "id": "Sentinel-2"
-        },
-        {
-          "id": "Sentinel-3"
-        }
-      ]
-    }
-  ],
+  "osc:standard_name": "limb_ozone",
   "created": "2013-12-30T00:00:00Z",
   "extent": {
     "spatial": {
@@ -86,5 +60,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Atmospheric Chemistry",
+    "Oxygen Compounds",
+    "Atmospheric Ozone"
+  ]
 }

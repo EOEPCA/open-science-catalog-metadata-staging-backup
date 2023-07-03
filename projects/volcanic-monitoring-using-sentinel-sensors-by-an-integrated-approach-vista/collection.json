@@ -28,13 +28,17 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "VISTA",
   "osc:name": "Volcanic monItoring using SenTinel sensors by an integrated Approach (VISTA)",
   "osc:status": "completed",
+  "osc:themes": [
+    "Atmosphere",
+    "Land",
+    "Solid Earth"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -47,7 +51,7 @@
       ]
     },
     {
-      "name": "GEO-K SRL (IT)",
+      "name": "GEO:K SRL (IT)",
       "role": "consortium_member"
     },
     {
@@ -57,22 +61,6 @@
     {
       "name": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        },
-        {
-          "id": "Land"
-        },
-        {
-          "id": "Solid Earth"
-        }
-      ]
     }
   ],
   "start_datetime": "2019-03-09T00:00:00Z",
