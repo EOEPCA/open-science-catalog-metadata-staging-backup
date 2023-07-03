@@ -39,11 +39,14 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -U pip
-          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@03c904a253309f2475411f7e4010e5d7e9bf0132
+          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@9d5fadcb95a9693c4f47c732b8d2a70addf2bcd5
       - name: Build static catalog
         run: |
           osc build . -o dist/ \
             --root-href "https://eoepca.github.io/open-science-catalog-metadata-staging/"
+      - name: Copying Catalog client
+        run: |
+          cp -r client/* dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
