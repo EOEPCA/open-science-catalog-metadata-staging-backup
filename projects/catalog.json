@@ -804,6 +804,12 @@
     },
     {
       "rel": "child",
+      "href": "./so-fresh/collection.json",
+      "type": "application/json",
+      "title": "SO-FRESH"
+    },
+    {
+      "rel": "child",
       "href": "./sentinel-3-performance-improvement-for-ice-sheets-spice/collection.json",
       "type": "application/json",
       "title": "SPICE"
