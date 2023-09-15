@@ -30,6 +30,12 @@
     },
     {
       "rel": "child",
+      "href": "./4datlantic-ebus-primus/collection.json",
+      "type": "application/json",
+      "title": "4DATLANTIC EBUS PRIMUS"
+    },
+    {
+      "rel": "child",
       "href": "./4d-greenland/collection.json",
       "type": "application/json",
       "title": "4D-Greenland"
