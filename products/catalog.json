@@ -1104,6 +1104,12 @@
     },
     {
       "rel": "child",
+      "href": "./seasfire-cube/collection.json",
+      "type": "application/json",
+      "title": "SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System"
+    },
+    {
+      "rel": "child",
       "href": "./sea-surface-salinity-arctic-salinity/collection.json",
       "type": "application/json",
       "title": "Sea Surface Salinity L2 orbits and L3 maps (V.3.1) _Arctic_SMOS"
