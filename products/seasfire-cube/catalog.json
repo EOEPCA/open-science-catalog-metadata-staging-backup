@@ -30,7 +30,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
-  "title": "SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System",
+  "title": "SeasFire",
   "osc:themes": [
     "Land"
   ],
