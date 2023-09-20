@@ -30,7 +30,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
-  "title": "SeasFire",
+  "title": "SeasFire Cube: A Global Dataset for Seasonal Fire Modeling in the Earth System",
   "osc:themes": [
     "Land"
   ],
@@ -38,7 +38,7 @@
   ],
   "osc:project": "SeasFire: Earth System Deep learning for Seasonal Fire Forecasting in Europe",
   "osc:variables": [
-    "Burned Area",
+    "Burned Area"
   ],
   "osc:status": "ongoing",
   "osc:region": "Global",
@@ -59,8 +59,8 @@
     "temporal": {
       "interval": [
         [
-          null,
-          null
+          "2001-01-01T00:00:00Z",
+          "2021-12-27T23:59:59Z"
         ]
       ]
     }
