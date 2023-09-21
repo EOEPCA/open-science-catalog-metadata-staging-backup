@@ -24,6 +24,12 @@
     },
     {
       "rel": "child",
+      "href": "./basal-melt-monthly/collection.json",
+      "type": "application/json",
+      "title": "Basal Melt (ESA POLAR+ 4D Greenland Experimental Dataset)"
+    },
+    {
+      "rel": "child",
       "href": "./addit-earthquake-tsunami-tool-costo/collection.json",
       "type": "application/json",
       "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
