@@ -768,7 +768,7 @@
     },
     {
       "rel": "child",
-      "href": "./seasfire-earth-system-deep-learning-for-seasonal-fire-forecasting-in-europea/collection.json",
+      "href": "./seasfire-earth-system-deep-learning-for-seasonal-fire-forecasting-in-europe/collection.json",
       "type": "application/json",
       "title": "SeasFire"
     },
