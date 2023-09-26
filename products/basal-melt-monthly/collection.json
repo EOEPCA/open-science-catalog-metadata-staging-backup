@@ -25,7 +25,7 @@
         "href": "../catalog.json",
         "type": "application/json",
         "title": "Products"
-      },
+      }
     ],
     "stac_extensions": [
       "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
@@ -68,10 +68,10 @@
     },
     "license": "proprietary",
     "keywords": [
-      "Glaciers/Ice Sheets", 
+      "Glaciers/Ice Sheets",
       "Basal Melt",
       "Glacial Processes",
       "Ice Sheets and Ice Shelves"
     ]
   }
-  
+
