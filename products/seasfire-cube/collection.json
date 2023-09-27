@@ -26,10 +26,10 @@
       "title": "Products"
     },
     {
-      "rel": "child",
-      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/seasfire/seasfire-cube/catalog.json",
+      "rel": "item",
+      "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/seasfire/seasfire-cube/SeasFireCube_v.0.3.zarr/SeasFireCube_v.0.3.zarr.json",
       "type": "application/json",
-      "title": "Products"
+      "title": "SeasFire Cube v.0.3"
     }
   ],
   "stac_extensions": [
