@@ -84,6 +84,12 @@
     },
     {
       "rel": "child",
+      "href": "./basin-runoff-sur-water/collection.json",
+      "type": "application/json",
+      "title": "Basin Run Off and Surface Water (ESA POLAR+ 4D Greenland Experimental Dataset)"
+    },
+    {
+      "rel": "child",
       "href": "./bathymetry-arctic-cp4o/collection.json",
       "type": "application/json",
       "title": "Bathymetry_Arctic_Cryosat"
@@ -339,6 +345,12 @@
       "href": "./export-production-bicep/collection.json",
       "type": "application/json",
       "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "./firn-retention/collection.json",
+      "type": "application/json",
+      "title": "Firn Retention (ESA POLAR+ 4D Greenland Experimental Dataset)"
     },
     {
       "rel": "child",
@@ -1326,6 +1338,12 @@
     },
     {
       "rel": "child",
+      "href": "./subglacial-lake-volumes/collection.json",
+      "type": "application/json",
+      "title": "Sublacial Lake Volumes (ESA POLAR+ 4D Greenland Experimantal Dataset"
+    },
+    {
+      "rel": "child",
       "href": "./subglacial-melt-maps/collection.json",
       "type": "application/json",
       "title": "Subglacial Melt Maps"
@@ -1431,6 +1449,12 @@
       "href": "./total-ozone-anreo/collection.json",
       "type": "application/json",
       "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
+    },
+    {
+      "rel": "child",
+      "href": "./total-basin-runoff/collection.json",
+      "type": "application/json",
+      "title": "Total Basin Run Off (ESA POLAR+ 4D Greenland Experimental Dataset)"
     },
     {
       "rel": "child",
