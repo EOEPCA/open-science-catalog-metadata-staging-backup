@@ -34,9 +34,7 @@
     "osc:themes": [
       "Cryosphere"
     ],
-    "osc:missions": [
-      ""
-    ],
+    "osc:missions": [],
     "osc:project": "4D-Greenland",
     "osc:variables": [
       "Total Runoff"
