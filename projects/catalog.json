@@ -692,7 +692,7 @@
       "rel": "child",
       "href": "./polar-ice-shelf/collection.json",
       "type": "application/json",
-      "title": "Polar+ Ice Shelf"
+      "title": "Polar+ Ice Shelves"
     },
     {
       "rel": "child",
