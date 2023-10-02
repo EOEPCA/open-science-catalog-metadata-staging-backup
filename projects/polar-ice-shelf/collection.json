@@ -31,8 +31,8 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
-  "title": "Polar+ Ice Shelf",
-  "osc:name": "Polar+ Ice Shelf",
+  "title": "Polar+ Ice Shelves",
+  "osc:name": "Polar+ Ice Shelves",
   "osc:status": "ongoing",
   "osc:themes": [
     "Cryosphere"
