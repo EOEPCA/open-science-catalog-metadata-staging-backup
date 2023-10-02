@@ -1584,7 +1584,7 @@
     },
     {
       "rel": "child",
-      "href": "./antarctic_ice_shelf_melt_rates/collection.json",
+      "href": "./antarctic-ice-shelf-melt-rates/collection.json",
       "type": "application/json",
       "title": "Antarctic ice shelf melt rates"
     }
