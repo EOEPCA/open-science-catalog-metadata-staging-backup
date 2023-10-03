@@ -1581,6 +1581,18 @@
       "href": "./wind-stress-vector-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+    },
+    {
+      "rel": "child",
+      "href": "./antarctic-ice-shelf-calving-fronts/collection.json",
+      "type": "application/json",
+      "title": "Antarctic Ice Shelf Calving Fronts 1997-2021"
+    },
+    {
+      "rel": "child",
+      "href": "./antarctic-ice-shelf-melt-rates/collection.json",
+      "type": "application/json",
+      "title": "Antarctic ice shelf basal melt rates 1997-2021"
     }
   ],
   "title": "Products"
