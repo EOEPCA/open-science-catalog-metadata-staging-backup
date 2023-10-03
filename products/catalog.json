@@ -1581,12 +1581,6 @@
       "href": "./wind-stress-vector-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
-    },
-    {
-      "rel": "child",
-      "href": "./antarctic-ice-shelf-melt-rates/collection.json",
-      "type": "application/json",
-      "title": "Antarctic ice shelf melt rates"
     }
   ],
   "title": "Products"
