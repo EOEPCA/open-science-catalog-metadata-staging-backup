@@ -21,6 +21,12 @@
       "href": "./sleeper/collection.json",
       "type": "application/json",
       "title": "Sleeper application"
+    },
+    {
+      "rel": "child",
+      "href": "./insar-closure-phase/collection.json",
+      "type": "application/json",
+      "title": "Insar closure phase application"
     }
   ],
   "title": "Processes"
