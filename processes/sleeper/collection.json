@@ -3,6 +3,7 @@
     "id": "python-sleeper",
     "stac_version": "1.0.0",
     "description": "Run a Python sleeper for between min and max seconds randomly.",
+    "license": "Unknown",
     "links": [
       {
         "rel": "root",
