@@ -1605,6 +1605,12 @@
       "href": "./ice-temperature-profiles-antarctica/collection.json",
       "type": "application/json",
       "title": "Ice temperature profiles"
+    },
+    {
+      "rel": "child",
+      "href": "./ice-sheet-velocity-antarctic-2021/collection.json",
+      "type": "application/json",
+      "title": "Antarctic Ice Sheet monthly ice velocity - 2021"
     }
   ],
   "title": "Products"
