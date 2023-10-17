@@ -1611,6 +1611,12 @@
       "href": "./ice-sheet-velocity-antarctic-2021/collection.json",
       "type": "application/json",
       "title": "Antarctic Ice Sheet monthly ice velocity - 2021"
+    },
+    {
+      "rel": "child",
+      "href": "./grounding-line-position-antarctica/collection.json",
+      "type": "application/json",
+      "title": "Grounding line position: MEaSUREs Antarctic Grounding Line from Differential Satellite Radar Interferometry, v.2"
     }
   ],
   "title": "Products"
