@@ -1599,6 +1599,12 @@
       "href": "./bedrock-topography-antarctica-bedmachine/collection.json",
       "type": "application/json",
       "title": "Bedrock topography: MEaSUREs BedMachine Antarctica v.3"
+    },
+    {
+      "rel": "child",
+      "href": "./ice-temperature-profiles-antarctica/collection.json",
+      "type": "application/json",
+      "title": "Ice temperature profiles"
     }
   ],
   "title": "Products"
