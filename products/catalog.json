@@ -1593,6 +1593,12 @@
       "href": "./antarctic-ice-shelf-melt-rates/collection.json",
       "type": "application/json",
       "title": "Antarctic ice shelf basal melt rates 1997-2021"
+    },
+    {
+      "rel": "child",
+      "href": "./bedrock-topography-antarctica-bedmachine/collection.json",
+      "type": "application/json",
+      "title": "Bedrock topography: MEaSUREs BedMachine Antarctica v.3"
     }
   ],
   "title": "Products"
