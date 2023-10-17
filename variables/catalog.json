@@ -5091,6 +5091,24 @@
       "href": "./zooplankton/catalog.json",
       "type": "application/json",
       "title": "Zooplankton"
+    },
+    {
+      "rel": "child",
+      "href": "./bed-elevation/catalog.json",
+      "type": "application/json",
+      "title": "Bed Elevation"
+    },
+    {
+      "rel": "child",
+      "href": "./grounding-line/catalog.json",
+      "type": "application/json",
+      "title": "Grounding Line"
+    },
+    {
+      "rel": "child",
+      "href": "./glacier-melt/catalog.json",
+      "type": "application/json",
+      "title": "Glacier Melt"
     }
   ],
   "title": "Variables"
