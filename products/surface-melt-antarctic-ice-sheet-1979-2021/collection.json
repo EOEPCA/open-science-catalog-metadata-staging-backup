@@ -35,8 +35,8 @@
       "Cryosphere"
     ],
     "osc:missions": [
-        "DMSP: Defense Meteorological Satellite Program Block 5D", 
-        "Nimbus-7"
+      "DMSP-Defense Meteorological Satellite Program Block 5D", 
+      "Nimbus-7"
     ],
     "osc:project": "4D-ANTARCTICA",
     "osc:variables": [
