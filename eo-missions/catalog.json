@@ -356,7 +356,7 @@
       "rel": "child",
       "href": "./dmsp/catalog.json",
       "type": "application/json",
-      "title":"DMSP (Defense Meteorological Satellite Program) Block 5D"
+      "title":"DMSP: Defense Meteorological Satellite Program Block 5D"
     }
   ],
   "title": "EO Missions"

@@ -1629,6 +1629,12 @@
       "href": "./sec-antarctic-ice-sheet/collection.json",
       "type": "application/json",
       "title": "Surface Elevation Change (SEC) of the Antarctic Ice Sheet"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-melt-antarctic-ice-sheet-1979-2021/collection.json",
+      "type": "application/json",
+      "title": "Surface melt on the Antarctic Ice Sheets (1979 - 2021)"
     }
   ],
   "title": "Products"
