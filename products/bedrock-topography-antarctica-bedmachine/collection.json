@@ -25,6 +25,12 @@
         "href": "../catalog.json",
         "type": "application/json",
         "title": "Products"
+      },
+      {
+        "rel": "child",
+        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/bedrock-topography-antarctica-bedmachine/catalog.json",
+        "type": "application/json",
+        "title": "Items"
       }
     ],
     "stac_extensions": [
@@ -54,10 +60,10 @@
     "extent": {
       "spatial": {
         "bbox": [
-            -180.0,
-            -90.0,
             180.0,
-            -53.0
+            -53.0,
+            -180.0,
+            -90.0
         ]
       },
       "temporal": {
