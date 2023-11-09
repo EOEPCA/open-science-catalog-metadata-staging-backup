@@ -11,6 +11,12 @@
         "title": "Open Science Catalog"
       },
       {
+        "rel": "child", 
+        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/antarctic-ice-sheet-velocity-monthly-2021/catalog.json",
+        "type": "application/json",
+        "title": "Items"
+      },
+      {
         "rel": "via",
         "href": "https://cryoportal.enveo.at/data_files/2021-ESACCI-L3C-AIS-IV-S1-1M_200m-fv1.1_20220420.zip",
         "title": "Access"
