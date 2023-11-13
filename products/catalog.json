@@ -1635,7 +1635,14 @@
       "href": "./surface-melt-antarctic-ice-sheet-1979-2021/collection.json",
       "type": "application/json",
       "title": "Surface melt on the Antarctic Ice Sheets (1979 - 2021)"
+    },
+    {
+      "rel": "child",
+      "href": "./southern-ocean-sit-from-cryosat-2/collection.json",
+      "type": "application/json",
+      "title": "Southern Ocean sea ice thickness from CryoSat-2"
     }
+
   ],
   "title": "Products"
 }
