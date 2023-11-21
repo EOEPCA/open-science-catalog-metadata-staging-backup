@@ -12,73 +12,7 @@
       },
       {
         "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/01/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/02/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/03/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/04/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/05/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/06/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/07/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/08/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/09/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/10/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/11/catalog.json",
-        "type": "application/json",
-        "title": "Items"
-      },
-      {
-        "rel": "child",
-        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/12/catalog.json",
+        "href": "https://s3.waw2-1.cloudferro.com/swift/v1/AUTH_3f7e5dd853f54cebb046a29a69f1bba6/Catalogs/4DANTARCTICA/melt-extent-stage-maps-daily-antarctica/2007/catalog.json",
         "type": "application/json",
         "title": "Items"
       },
